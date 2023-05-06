@@ -22,6 +22,13 @@ subs {
 
         includeExtraData(false)
         includeProjectGarbage(false)
+
+        scriptInfo {
+            title = "GSGA"
+            scaledBorderAndShadow = true
+    }
+
+        out(get("mergedname"))
     }
 
 
@@ -58,9 +65,10 @@ subs {
         attach(get("fonts")) {
             includeExtensions("ttf", "otf")
         }
+        verifyFonts(true)
         skipUnusedFonts(true)
-        verifyFonts(false)
-        onMissingFonts(ErrorMode.IGNORE)
+        onMissingGlyphs(ErrorMode.WARN)
+        onFaux(ErrorMode.WARN)
         out(get("muxout"))
     }
 }
