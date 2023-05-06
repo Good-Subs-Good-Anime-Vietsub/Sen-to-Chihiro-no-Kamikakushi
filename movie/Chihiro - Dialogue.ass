@@ -16,12 +16,13 @@ Video File: ../raws/(2001) Spirited.Away.BluRay.1080p.HEVC.10bit.DTS.GOA.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 11
-Video Position: 1509
+Scroll Position: 367
+Active Line: 373
+Video Position: 57084
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Segoe UI,76,&H00FFFFFF,&H000000FF,&H004D240A,&HBC4B2108,-1,0,0,0,100,106,0,0,1,4.2,2,2,12,12,60,1
+Style: Main,KiOZ Ubuntu Dialogue,76,&H00FFFFFF,&H000000FF,&H004D240A,&HBC4B2108,0,0,0,0,100,100,0,0,1,4,3,2,12,12,60,1
 Style: OST,Signika SemiBold,78,&H00D4FDF5,&H000000FF,&H0050290D,&H882A1505,0,0,0,0,100,100,0,0,1,4.2,0,2,10,10,60,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: GT,Adobe Clean,50,&H00FFFFFF,&H000000FF,&H00000000,&H82000000,-1,0,0,0,100,100,0,0,3,0,0.0740741,8,10,10,50,1
@@ -31,1145 +32,1161 @@ Style: Main - VN,Segoe UI,50,&H00FFFFFF,&H000000FF,&H00070741,&HA9070741,-1,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:13.16,0:00:19.58,Signs,,0,0,0,,CHÚC MAY MẮN CHIHIRO\NCHÚNG TA SẼ GẶP LẠI
-Dialogue: 0,0:00:15.94,0:00:19.58,Main,,0,0,0,,Chihiro. Chihiro, sắp đến rồi đấy.
-Dialogue: 0,0:00:23.00,0:00:25.51,Main,,0,0,0,,Đúng là vùng quê hẻo lánh.
+Dialogue: 0,0:00:15.94,0:00:19.58,Main,,0,0,0,,Chihiro! Chihiro! Sắp đến rồi đấy.
+Dialogue: 0,0:00:23.00,0:00:25.51,Main,,0,0,0,,Đúng là vùng quê nhỉ.
 Dialogue: 0,0:00:25.51,0:00:28.17,Main,,0,0,0,,Xem ra phải sang thị trấn kế bên\Nđể mua sắm rồi.
-Dialogue: 0,0:00:28.17,0:00:30.53,Main,,0,0,0,,Sống quen rồi thì sẽ khác thôi.
-Dialogue: 0,0:00:33.01,0:00:34.97,Main,,0,0,0,,Nhìn kìa, là trường tiểu học đấy.
-Dialogue: 0,0:00:34.97,0:00:36.93,Main,,0,0,0,,Chihiro, trường mới của con kìa.
-Dialogue: 0,0:00:37.46,0:00:39.95,Main,,0,0,0,,Trông cũng khang trang đấy chứ?
+Dialogue: 0,0:00:28.17,0:00:30.53,Main,,0,0,0,,Cứ sống rồi khắc quen thôi.
+Dialogue: 0,0:00:33.01,0:00:34.97,Main,,0,0,0,,Nhìn kìa, là trường tiểu học.
+Dialogue: 0,0:00:34.97,0:00:36.93,Main,,0,0,0,,Chihiro, trường mới của con đấy.
+Dialogue: 0,0:00:37.46,0:00:39.95,Main,,0,0,0,,Trông cũng khá khang trang đấy chứ?
 Dialogue: 0,0:00:47.55,0:00:49.67,Main,,0,0,0,,Con thích trường cũ hơn.
-Dialogue: 0,0:00:53.98,0:00:56.95,Main,,0,0,0,,Mẹ ơi, mấy bông hoa héo hết rồi.
-Dialogue: 0,0:00:56.95,0:00:59.71,Main,,0,0,0,,Ai bảo con cứ siết chặt\Nmấy bông hoa như thế.
-Dialogue: 0,0:00:59.71,0:01:02.60,Main,,0,0,0,,Đợi tới nhà rồi tưới nước\Nlà hoa sẽ tươi ngay thôi.
+Dialogue: 0,0:00:53.98,0:00:56.95,Main,,0,0,0,,Mẹ ơi! Hoa héo hết rồi.
+Dialogue: 0,0:00:56.95,0:00:59.71,Main,,0,0,0,,Ai bảo con cứ ôm khư khư như thế.
+Dialogue: 0,0:00:59.71,0:01:02.60,Main,,0,0,0,,Đợi tới nhà rồi tưới nước\N là tươi ngay thôi.
 Dialogue: 0,0:01:03.36,0:01:07.42,Main,,0,0,0,,Bó hoa đầu tiên con nhận trong đời\Nlại là bó hoa chia tay, buồn thật đấy.
-Dialogue: 0,0:01:07.42,0:01:10.84,Main,,0,0,0,,Nào, chả phải sinh nhật vừa rồi\Ncon nhận được hoa hồng đó sao?
-Dialogue: 0,0:01:10.84,0:01:12.22,Main,,0,0,0,,Một cành ạ.
-Dialogue: 0,0:01:12.22,0:01:14.05,Main,,0,0,0,,Một cành\Nthì sao tính là một bó hoa được ạ?
+Dialogue: 0,0:01:07.42,0:01:10.84,Main,,0,0,0,,Thôi nào! Chả phải sinh nhật vừa rồi\Ncon nhận được một bông hồng đó sao?
+Dialogue: 0,0:01:10.84,0:01:12.22,Main,,0,0,0,,Một bông ạ.
+Dialogue: 0,0:01:12.22,0:01:14.05,Main,,0,0,0,,Một bông\Nthì sao tính là bó hoa được ạ?
 Dialogue: 0,0:01:14.05,0:01:15.76,Main,,0,0,0,,Thiệp rơi rồi kìa.
-Dialogue: 0,0:01:15.76,0:01:17.31,Main,,0,0,0,,Mẹ mở cửa sổ nhé.
-Dialogue: 0,0:01:17.31,0:01:20.62,Main,,0,0,0,,Tươi tỉnh lên mẹ xem nào.\NHôm nay bận rộn lắm đấy.
-Dialogue: 0,0:01:56.97,0:02:00.41,Main,,0,0,0,,Ơ kìa, anh nhầm đường rồi à?
-Dialogue: 0,0:02:01.60,0:02:03.06,Main,,0,0,0,,Lạ quá ta...
-Dialogue: 0,0:02:03.06,0:02:05.69,Main,,0,0,0,,- Nhà mình ở bên kia nhỉ?\N- Sao?
-Dialogue: 0,0:02:05.84,0:02:08.17,Main,,0,0,0,,Căn màu xanh dương ở góc kia ấy.
-Dialogue: 0,0:02:08.26,0:02:09.75,Main,,0,0,0,,Đúng nó rồi!
-Dialogue: 0,0:02:10.13,0:02:12.03,Main,,0,0,0,,Chắc anh rẽ nhầm lối ra rồi.
-Dialogue: 0,0:02:12.89,0:02:15.28,Main,,0,0,0,,Anh cá là đường này\Nsẽ dẫn chúng ta đến nơi.
-Dialogue: 0,0:02:15.28,0:02:17.95,Main,,0,0,0,,Thôi đừng, anh mà làm vậy\Nthì toàn đi lạc cả.
-Dialogue: 0,0:02:17.95,0:02:19.51,Main,,0,0,0,,Thử một đoạn thôi?
-Dialogue: 0,0:02:19.99,0:02:22.00,Main,,0,0,0,,Chỗ giống nhà kia là gì vậy ạ?
-Dialogue: 0,0:02:22.00,0:02:24.00,Main,,0,0,0,,Miếu thờ bằng đá, nhà Thần linh đó.
+Dialogue: 0,0:01:15.76,0:01:17.31,Main,,0,0,0,,Mẹ mở cửa sổ này.
+Dialogue: 0,0:01:17.31,0:01:20.62,Main,,0,0,0,,Thôi đừng có thế nữa,\N nay mẹ bận lắm đấy.
+Dialogue: 0,0:01:39.50,0:01:45.42,Signs,,0,0,0,,SPIRITED AWAY
+Dialogue: 0,0:01:56.97,0:01:59.85,Main,,0,0,0,,Ơ kìa? Anh rẽ nhầm sao?
+Dialogue: 0,0:02:01.60,0:02:03.06,Main,,0,0,0,,Ở lạ nhỉ...
+Dialogue: 0,0:02:03.06,0:02:04.85,Main,,0,0,0,,Ở bên kìa nhỉ... anh nhìn xem.
+Dialogue: 0,0:02:05.69,0:02:08.19,Main,,0,0,0,,Căn màu xanh dương ở góc kia ấy.
+Dialogue: 0,0:02:08.19,0:02:09.75,Main,,0,0,0,,Đúng nó rồi!
+Dialogue: 0,0:02:10.13,0:02:12.03,Main,,0,0,0,,Chắc anh rẽ nhầm xuống lối bên dưới rồi.
+Dialogue: 0,0:02:12.89,0:02:15.28,Main,,0,0,0,,Khả năng cứ đi tiếp lối này thì...
+Dialogue: 0,0:02:15.28,0:02:17.95,Main,,0,0,0,,Thôi bỏ đi, anh mà thế là lại bị lạc cho xem.
+Dialogue: 0,0:02:17.95,0:02:19.51,Main,,0,0,0,,Thử một đoạn thôi, nha?
+Dialogue: 0,0:02:19.99,0:02:22.00,Main,,0,0,0,,Mấy cái giống nhà đằng kia là gì thế mẹ?
+Dialogue: 0,0:02:22.00,0:02:24.00,Main,,0,0,0,,Miếu thờ bằng đá, nhà của Thần Rinh đó.
 Dialogue: 0,0:02:30.42,0:02:32.34,Main,,0,0,0,,Bố ơi, có ổn không vậy?
-Dialogue: 0,0:02:32.34,0:02:35.15,Main,,0,0,0,,An tâm, đây là xe hai cầu mà.
-Dialogue: 0,0:02:35.49,0:02:37.11,Main,,0,0,0,,Chihiro, ngồi xuống đi.
-Dialogue: 0,0:02:57.06,0:02:59.62,Main,,0,0,0,,Anh à, anh thôi ngay đi!
-Dialogue: 0,0:03:00.77,0:03:02.09,Main,,0,0,0,,Đường hầm!
-Dialogue: 0,0:03:16.66,0:03:18.68,Main,,0,0,0,,Đây là tòa nhà gì vậy nhỉ?
-Dialogue: 0,0:03:18.68,0:03:20.53,Main,,0,0,0,,Đây chắc là cổng vào.
-Dialogue: 0,0:03:21.16,0:03:24.53,Main,,0,0,0,,Anh ơi, mình quay lại thôi. Anh à!
+Dialogue: 0,0:02:32.34,0:02:35.15,Main,,0,0,0,,Cứ thoải mái đi,\N xe này dẫn động bốn bánh mà.
+Dialogue: 0,0:02:35.49,0:02:37.14,Main,,0,0,0,,Chihiro, ngồi xuống đi.
+Dialogue: 0,0:02:57.18,0:02:59.62,Main,,0,0,0,,Mình à! Dừng lại đi!
+Dialogue: 0,0:03:01.12,0:03:02.09,Main,,0,0,0,,Đường hầm!
+Dialogue: 0,0:03:16.66,0:03:18.68,Main,,0,0,0,,Tòa nhà này là gì vậy nhỉ?
+Dialogue: 0,0:03:18.68,0:03:20.53,Main,,0,0,0,,Trông kiểu như cổng vào.
+Dialogue: 0,0:03:21.16,0:03:24.53,Main,,0,0,0,,Mình ơi, quay lại thôi! Mình à!
 Dialogue: 0,0:03:24.96,0:03:26.54,Main,,0,0,0,,Chihiro!
-Dialogue: 0,0:03:27.92,0:03:29.36,Main,,0,0,0,,Mệt thật.
-Dialogue: 0,0:03:29.36,0:03:31.67,Main,,0,0,0,,Ra là, xây bằng vữa à.
-Dialogue: 0,0:03:31.80,0:03:34.04,Main,,0,0,0,,Tòa nhà cũng còn khá mới đấy.
-Dialogue: 0,0:03:43.98,0:03:45.56,Main,,0,0,0,,Gió đang lùa vào trong.
-Dialogue: 0,0:03:45.98,0:03:47.21,Main,,0,0,0,,Gì vậy?
-Dialogue: 0,0:03:47.21,0:03:49.60,Main,,0,0,0,,Đi xem thử ha? Nó thông sang kia đấy.
-Dialogue: 0,0:03:49.58,0:03:52.34,Main,,0,0,0,,Con không chịu đâu. Quay lại đi bố.
-Dialogue: 0,0:03:52.49,0:03:55.05,Main,,0,0,0,,Gì chứ? Con nhát thế, Chihiro.
-Dialogue: 0,0:03:55.05,0:03:56.70,Main,,0,0,0,,Nhé? Nhìn thử tí thôi.
-Dialogue: 0,0:03:56.70,0:03:59.09,Main,,0,0,0,,Xe chuyển đồ đến trước mình thì sao?
-Dialogue: 0,0:03:59.09,0:04:00.18,Main,,0,0,0,,Không sao đâu.
-Dialogue: 0,0:04:00.18,0:04:03.14,Main,,0,0,0,,Mình đưa chìa khóa rồi,\Ncứ để họ lo liệu mọi việc thôi.
-Dialogue: 0,0:04:03.14,0:04:04.39,Main,,0,0,0,,Thì cũng đúng, mà...
-Dialogue: 0,0:04:04.39,0:04:06.52,Main,,0,0,0,,Không đâu. Con không đi đâu!
-Dialogue: 0,0:04:08.29,0:04:10.38,Main,,0,0,0,,Mình quay lại thôi bố ơi.
-Dialogue: 0,0:04:10.38,0:04:12.15,Main,,0,0,0,,Lại đây nào, có sao đâu.
+Dialogue: 0,0:03:28.10,0:03:29.11,Main,,0,0,0,,Thật là!
+Dialogue: 0,0:03:29.36,0:03:31.95,Main,,0,0,0,,Ra vậy, xây bằng vữa à.
+Dialogue: 0,0:03:31.95,0:03:34.04,Main,,0,0,0,,Cũng mới được xây thôi.
+Dialogue: 0,0:03:43.98,0:03:45.56,Main,,0,0,0,,Gió lùa vào trong kìa.
+Dialogue: 0,0:03:46.25,0:03:47.33,Main,,0,0,0,,Gì vậy?
+Dialogue: 0,0:03:47.33,0:03:49.58,Main,,0,0,0,,Đi xem thử ha? Nó thông sang kia đấy.
+Dialogue: 0,0:03:50.24,0:03:52.34,Main,,0,0,0,,Con không chịu đâu. Quay lại đi bố.
+Dialogue: 0,0:03:52.90,0:03:55.15,Main,,0,0,0,,Gì chứ? Con nhát thế, Chihiro.
+Dialogue: 0,0:03:55.15,0:03:56.78,Main,,0,0,0,,Nhé? Xíu thôi.
+Dialogue: 0,0:03:56.78,0:03:59.09,Main,,0,0,0,,Xe chuyển đồ đến trước mình thì sao?
+Dialogue: 0,0:03:59.09,0:04:00.18,Main,,0,0,0,,Không sao hết.
+Dialogue: 0,0:04:00.18,0:04:03.27,Main,,0,0,0,,Mình đưa chìa khóa rồi,\Ncứ để họ lo.
+Dialogue: 0,0:04:03.27,0:04:04.39,Main,,0,0,0,,Thì cũng đúng cơ mà...
+Dialogue: 0,0:04:04.39,0:04:06.52,Main,,0,0,0,,Không đâu! Con không đi đâu!
+Dialogue: 0,0:04:08.53,0:04:10.51,Main,,0,0,0,,Quay về đi mà bố.
+Dialogue: 0,0:04:10.51,0:04:12.15,Main,,0,0,0,,Lại đây nào, có sao đâu.
 Dialogue: 0,0:04:12.15,0:04:13.87,Main,,0,0,0,,Con không đi đâu.
-Dialogue: 0,0:04:22.10,0:04:24.55,Main,,0,0,0,,Vậy Chihiro đợi bố mẹ ở trong xe nhé.
-Dialogue: 0,0:04:26.35,0:04:28.51,Main,,0,0,0,,Mẹ ơi mẹ!
-Dialogue: 0,0:04:30.27,0:04:31.88,Main,,0,0,0,,Đợi con!
-Dialogue: 0,0:04:37.20,0:04:38.87,Main,,0,0,0,,Đi cẩn thận nhé.
-Dialogue: 0,0:04:38.87,0:04:42.51,Main,,0,0,0,,Chihiro, con đừng níu chặt như vậy.\NMẹ khó đi lắm.
-Dialogue: 0,0:05:14.28,0:05:15.55,Main,,0,0,0,,Đây là đâu ạ?
+Dialogue: 0,0:04:22.31,0:04:24.55,Main,,0,0,0,,Vậy Chihiro đợi bố mẹ ở trong xe nhé.
+Dialogue: 0,0:04:26.54,0:04:28.51,Main,,0,0,0,,Mẹ ơi mẹ!
+Dialogue: 0,0:04:30.50,0:04:31.88,Main,,0,0,0,,Đợi con!
+Dialogue: 0,0:04:37.46,0:04:39.19,Main,,0,0,0,,Đi cẩn thận nhé.
+Dialogue: 0,0:04:39.19,0:04:42.51,Main,,0,0,0,,Chihiro, con đừng bám chặt thế chứ,\N mẹ khó đi lắm.
+Dialogue: 0,0:05:14.43,0:05:15.55,Main,,0,0,0,,Đây là đâu ạ?
 Dialogue: 0,0:05:15.55,0:05:17.61,Main,,0,0,0,,A, em nghe thấy gì đó.
-Dialogue: 0,0:05:26.18,0:05:27.68,Main,,0,0,0,,Là tiếng tàu chạy ạ!
-Dialogue: 0,0:05:27.68,0:05:29.60,Main,,0,0,0,,Có lẽ nơi này gần ga tàu hơn mình nghĩ đó.
-Dialogue: 0,0:05:29.60,0:05:31.41,Main,,0,0,0,,Đi thử là biết ngay mà.
-Dialogue: 0,0:06:08.12,0:06:10.27,Main,,0,0,0,,Ở đây mà cũng có nhà sao.
-Dialogue: 0,0:06:10.27,0:06:12.23,Main,,0,0,0,,Quả là bố đoán không sai mà.
+Dialogue: 0,0:05:26.58,0:05:27.74,Main,,0,0,0,,Là tiếng tàu chạy ạ!
+Dialogue: 0,0:05:27.74,0:05:29.65,Main,,0,0,0,,Có lẽ nơi này gần ga tàu \hơn mình nghĩ đó.
+Dialogue: 0,0:05:29.65,0:05:31.41,Main,,0,0,0,,Đi thử là biết ngay mà.
+Dialogue: 0,0:06:08.40,0:06:10.45,Main,,0,0,0,,Ở đây mà cũng có nhà sao.
+Dialogue: 0,0:06:10.45,0:06:12.23,Main,,0,0,0,,Bố đoán không sai mà.
 Dialogue: 0,0:06:12.38,0:06:15.33,Main,,0,0,0,,Đây là tàn tích của công viên giải trí đó.
-Dialogue: 0,0:06:16.84,0:06:20.38,Main,,0,0,0,,Tầm năm 90, họ lên kế hoạch xây\Nmấy khu như vậy ở khắp nơi.
-Dialogue: 0,0:06:20.38,0:06:23.00,Main,,0,0,0,,Nhưng do vụ khủng hoảng mà sụp đổ hết.
-Dialogue: 0,0:06:23.26,0:06:25.55,Main,,0,0,0,,Có lẽ nơi này nằm trong số đó.
-Dialogue: 0,0:06:25.64,0:06:27.99,Main,,0,0,0,,Hả? Mình vẫn đi tiếp ạ?
+Dialogue: 0,0:06:16.84,0:06:20.58,Main,,0,0,0,,Tầm những năm 90, họ lên kế hoạch \Nxây mấy khu như vậy ở khắp nơi.
+Dialogue: 0,0:06:20.58,0:06:23.00,Main,,0,0,0,,Nhưng vì khủng hoảng kinh tế \Nmà sụp đổ hết.
+Dialogue: 0,0:06:23.58,0:06:25.90,Main,,0,0,0,,Có lẽ nơi này cũng nằm trong số đó.
+Dialogue: 0,0:06:25.90,0:06:27.99,Main,,0,0,0,,Hể? Mình vẫn đi tiếp ạ?
 Dialogue: 0,0:06:27.99,0:06:30.55,Main,,0,0,0,,Bố ơi, mình về đi mà.
-Dialogue: 0,0:06:33.40,0:06:35.14,Main,,0,0,0,,Bố!
-Dialogue: 0,0:06:44.62,0:06:47.80,Main,,0,0,0,,Mẹ ơi, tòa nhà đó đang rên rỉ kìa.
-Dialogue: 0,0:06:47.80,0:06:49.20,Main,,0,0,0,,Là tiếng gió thôi.
-Dialogue: 0,0:06:49.50,0:06:51.47,Main,,0,0,0,,Nơi này dễ chịu thật.
-Dialogue: 0,0:06:51.47,0:06:54.23,Main,,0,0,0,,Nếu đem theo\Nbánh kẹp để trong xe thì tuyệt.
-Dialogue: 0,0:06:56.88,0:06:59.00,Main,,0,0,0,,Chắc họ định đào sông ở đây.
-Dialogue: 0,0:06:59.92,0:07:01.38,Main,,0,0,0,,Hử?
-Dialogue: 0,0:07:04.30,0:07:05.84,Main,,0,0,0,,Có mùi gì đó...
-Dialogue: 0,0:07:06.72,0:07:08.91,Main,,0,0,0,,Ngửi xem, mùi gì ngon lành lắm.
-Dialogue: 0,0:07:08.91,0:07:10.12,Main,,0,0,0,,Chà, đúng thật ha.
-Dialogue: 0,0:07:10.12,0:07:12.72,Main,,0,0,0,,Có khi nơi này vẫn còn hoạt động đó.
-Dialogue: 0,0:07:12.98,0:07:14.64,Main,,0,0,0,,Chihiro, nhanh lên con.
+Dialogue: 0,0:06:33.40,0:06:35.14,Main,,0,0,0,,Đi mà!
+Dialogue: 0,0:06:44.62,0:06:48.07,Main,,0,0,0,,Mẹ ơi, tòa nhà đó đang rên rỉ kìa.
+Dialogue: 0,0:06:48.07,0:06:49.20,Main,,0,0,0,,Là tiếng gió thôi.
+Dialogue: 0,0:06:49.74,0:06:51.47,Main,,0,0,0,,Nơi này dễ chịu thật.
+Dialogue: 0,0:06:51.47,0:06:54.23,Main,,0,0,0,,Nếu đem theo\Nbánh kẹp để trong xe thì hay rồi.
+Dialogue: 0,0:06:57.08,0:06:59.00,Main,,0,0,0,,Chắc họ định đào sông ở đây.
+Dialogue: 0,0:07:04.45,0:07:05.84,Main,,0,0,0,,Em ngửi thấy mùi gì không?
+Dialogue: 0,0:07:06.86,0:07:08.96,Main,,0,0,0,,Ngửi xem, mùi ngon lắm luôn.
+Dialogue: 0,0:07:08.96,0:07:10.17,Main,,0,0,0,,Ơ đúng thật này.
+Dialogue: 0,0:07:10.17,0:07:12.72,Main,,0,0,0,,Có khi nơi này vẫn còn hoạt động đó.
+Dialogue: 0,0:07:13.11,0:07:14.64,Main,,0,0,0,,Chihiro, nhanh lên con.
 Dialogue: 0,0:07:14.96,0:07:16.89,Main,,0,0,0,,Chờ con!
-Dialogue: 0,0:07:49.77,0:07:51.34,Main,,0,0,0,,Hướng này.
-Dialogue: 0,0:07:55.44,0:07:58.97,Main,,0,0,0,,Lạ thật đấy.\NToàn bộ nơi này đều là quán ăn.
-Dialogue: 0,0:07:59.11,0:08:00.98,Main,,0,0,0,,Không có ai ở đây hết.
-Dialogue: 0,0:08:03.90,0:08:05.63,Main,,0,0,0,,Nó kia rồi!
-Dialogue: 0,0:08:09.37,0:08:11.45,Main,,0,0,0,,Lại đây nào!
-Dialogue: 0,0:08:22.67,0:08:24.21,Main,,0,0,0,,Vào đây!
-Dialogue: 0,0:08:27.03,0:08:29.32,Main,,0,0,0,,Hấp dẫn thật đó!
-Dialogue: 0,0:08:29.32,0:08:32.32,Main,,0,0,0,,Xin lỗi! Có ai ở đây không?
-Dialogue: 0,0:08:32.32,0:08:34.59,Main,,0,0,0,,Chihiro lại đây. Trông ngon lắm.
-Dialogue: 0,0:08:34.89,0:08:36.33,Main,,0,0,0,,Xin lỗi!
-Dialogue: 0,0:08:41.08,0:08:44.61,Main,,0,0,0,,Không sao, chỉ cần trả tiền\Nkhi chủ tiệm về là được mà.
-Dialogue: 0,0:08:44.61,0:08:47.51,Main,,0,0,0,,Em nói phải. Món kia có vẻ ngon đấy...
-Dialogue: 0,0:08:47.51,0:08:49.40,Main,,0,0,0,,Không biết đây là loại gia cầm nào?
-Dialogue: 0,0:08:51.09,0:08:54.35,Main,,0,0,0,,Ngon quá!\NChihiro, ngon tuyệt luôn đấy con!
-Dialogue: 0,0:08:54.50,0:08:55.85,Main,,0,0,0,,Không cần.
-Dialogue: 0,0:08:55.85,0:08:58.98,Main,,0,0,0,,Bố mẹ ơi, mình về thôi!\NChủ tiệm sẽ nổi giận mất.
-Dialogue: 0,0:08:59.13,0:09:02.19,Main,,0,0,0,,Cứ an tâm, có bố ở đây mà.
-Dialogue: 0,0:09:02.19,0:09:04.69,Main,,0,0,0,,Bố có mang thẻ và ví tiền mà.
-Dialogue: 0,0:09:08.34,0:09:11.05,Main,,0,0,0,,Con ăn thử đi. Cả xương cũng rất mềm.
-Dialogue: 0,0:09:12.85,0:09:15.08,Main,,0,0,0,,- Mù tạc.\N- Cảm ơn.
-Dialogue: 0,0:09:25.49,0:09:28.31,Main,,0,0,0,,Mẹ ơi! Bố ơi!
-Dialogue: 0,0:09:59.35,0:10:01.68,Main,,0,0,0,,DẦU
-Dialogue: 0,0:10:14.37,0:10:17.53,Main,,0,0,0,,DẦU
-Dialogue: 0,0:10:32.47,0:10:35.45,Main,,0,0,0,,DẦU
+Dialogue: 0,0:07:50.01,0:07:51.34,Main,,0,0,0,,Hướng này.
+Dialogue: 0,0:07:55.69,0:07:59.38,Main,,0,0,0,,Phát sợ luôn! \NToàn bộ nơi này đều là quán ăn.
+Dialogue: 0,0:07:59.38,0:08:00.98,Main,,0,0,0,,Chả thấy ai nhỉ.
+Dialogue: 0,0:08:04.10,0:08:05.63,Main,,0,0,0,,Nó kia rồi!
+Dialogue: 0,0:08:09.56,0:08:11.45,Main,,0,0,0,,Lại đây! Lại đây!
+Dialogue: 0,0:08:22.84,0:08:24.21,Main,,0,0,0,,Bên này! Bên này!
+Dialogue: 0,0:08:27.03,0:08:29.40,Main,,0,0,0,,Oa~ Nhìn thích thật đấy!
+Dialogue: 0,0:08:29.40,0:08:32.32,Main,,0,0,0,,Xin thứ lỗi! \NCó ai ở đây không ạ?
+Dialogue: 0,0:08:32.32,0:08:34.59,Main,,0,0,0,,Chihiro lại đây con, trông ngon lắm.
+Dialogue: 0,0:08:35.20,0:08:36.33,Main,,0,0,0,,Xin thứ lỗi!
+Dialogue: 0,0:08:41.08,0:08:44.61,Main,,0,0,0,,Thôi kệ đi, \Nnào người ta về mình trả tiền được mà.
+Dialogue: 0,0:08:44.61,0:08:47.62,Main,,0,0,0,,Em nói phải.\N Món kia trông ngon đấy...
+Dialogue: 0,0:08:47.62,0:08:49.40,Main,,0,0,0,,Không biết đây là thịt gà hay thịt gì nhỉ?
+Dialogue: 0,0:08:51.09,0:08:54.35,Main,,0,0,0,,Ngon quá!\NChihiro, ngon ơi là ngon luôn đấy!
+Dialogue: 0,0:08:54.75,0:08:55.92,Main,,0,0,0,,Con không ăn.
+Dialogue: 0,0:08:55.92,0:08:58.98,Main,,0,0,0,,Thôi về đi mà!\NChủ tiệm sẽ nổi giận mất.
+Dialogue: 0,0:08:59.23,0:09:02.42,Main,,0,0,0,,Cứ yên tâm, có bố ở đây rồi.
+Dialogue: 0,0:09:02.42,0:09:04.69,Main,,0,0,0,,Bố có mang thẻ và ví mà.
+Dialogue: 0,0:09:08.64,0:09:11.05,Main,,0,0,0,,Chihiro cũng ăn thử đi. \NMềm đến tận xương luôn.
+Dialogue: 0,0:09:12.98,0:09:14.17,Main,,0,0,0,,Mù tạc.
+Dialogue: 0,0:09:14.17,0:09:15.08,Main,,0,0,0,,Em xin.
+Dialogue: 0,0:09:25.69,0:09:28.31,Main,,0,0,0,,Mẹ ơi! Bố ơi!
+Dialogue: 0,0:09:57.20,0:10:01.68,Signs,,0,0,0,,DẦU
+Dialogue: 0,0:10:14.84,0:10:20.47,Signs,,0,0,0,,DẦU
+Dialogue: 0,0:10:30.69,0:10:35.45,Signs,,0,0,0,,DẦU
 Dialogue: 0,0:10:37.35,0:10:38.93,Main,,0,0,0,,Nơi này lạ thật...
-Dialogue: 0,0:10:44.90,0:10:47.50,Main,,0,0,0,,DẦU
-Dialogue: 0,0:10:54.99,0:11:00.07,Main,,0,0,0,,NHÀ TẮM
-Dialogue: 0,0:11:09.09,0:11:10.62,Main,,0,0,0,,Là tàu kìa!
-Dialogue: 0,0:11:21.10,0:11:24.25,Main,,0,0,0,,- Em không được ở đây! Mau quay về đi!\N- Sao?
-Dialogue: 0,0:11:24.25,0:11:27.08,Main,,0,0,0,,Em đi về nhanh lên,\Ntrước khi trời chuyển tối.
-Dialogue: 0,0:11:27.08,0:11:29.63,Main,,0,0,0,,NHÀ TẮM
-Dialogue: 0,0:11:29.78,0:11:32.00,Main,,0,0,0,,Họ thắp đèn lên rồi. Nhanh lên!
-Dialogue: 0,0:11:32.00,0:11:34.88,Main,,0,0,0,,Tôi sẽ kéo dài thời gian.\NMau chạy về phía sông!
-Dialogue: 0,0:11:37.28,0:11:40.51,Main,,0,0,0,,DẦU
-Dialogue: 0,0:11:48.84,0:11:50.91,Main,,0,0,0,,Anh ta làm vậy là sao chứ?
-Dialogue: 0,0:11:59.43,0:12:00.95,Main,,0,0,0,,Bố ơi!
-Dialogue: 0,0:12:01.68,0:12:05.47,Main,,0,0,0,,Bố ơi, mình về đi! Về thôi bố!
-Dialogue: 0,0:12:27.71,0:12:29.66,Main,,0,0,0,,Không!
-Dialogue: 0,0:12:31.84,0:12:35.63,Main,,0,0,0,,Bố ơi! Mẹ ơi!
-Dialogue: 0,0:12:44.31,0:12:46.47,Main,,0,0,0,,Mẹ ơi!
-Dialogue: 0,0:13:08.46,0:13:09.79,Main,,0,0,0,,Nước à!
-Dialogue: 0,0:13:22.57,0:13:26.05,Main,,0,0,0,,Không thể nào... Là mơ thôi, mơ thôi!
-Dialogue: 0,0:13:28.56,0:13:30.97,Main,,0,0,0,,Tỉnh lại mau. Mau nào...
-Dialogue: 0,0:13:32.11,0:13:33.85,Main,,0,0,0,,Tỉnh lại đi...
-Dialogue: 0,0:13:39.24,0:13:41.73,Main,,0,0,0,,Đây chỉ là giấc mơ thôi...
-Dialogue: 0,0:13:42.16,0:13:44.95,Main,,0,0,0,,Tất cả biến đi, mau biến đi!
-Dialogue: 0,0:13:45.12,0:13:46.57,Main,,0,0,0,,Biến đi!
-Dialogue: 0,0:13:54.63,0:13:56.17,Main,,0,0,0,,Mình đang trở nên trong suốt!
-Dialogue: 0,0:13:59.01,0:14:01.38,Main,,0,0,0,,Là mơ thôi, chắc chắn là thế.
-Dialogue: 0,0:14:54.40,0:14:56.73,Main,,0,0,0,,Em đừng sợ mà. Tôi đứng về phía em đây mà.
-Dialogue: 0,0:14:56.98,0:14:58.92,Main,,0,0,0,,Không... Không mà!
-Dialogue: 0,0:14:59.07,0:15:01.05,Main,,0,0,0,,Em mau ăn thứ này đi.
-Dialogue: 0,0:15:01.20,0:15:03.92,Main,,0,0,0,,Nếu không ăn đồ của thế giới này,\Nem sẽ bị tan biến.
-Dialogue: 0,0:15:03.92,0:15:05.07,Main,,0,0,0,,Không!
-Dialogue: 0,0:15:09.29,0:15:12.50,Main,,0,0,0,,Đừng lo, ăn thứ này sẽ không bị\Nbiến thành heo.
-Dialogue: 0,0:15:12.50,0:15:14.16,Main,,0,0,0,,Nhai rồi nuốt vào.
-Dialogue: 0,0:15:24.47,0:15:26.57,Main,,0,0,0,,Em ngoan lắm. Đã ổn cả rồi.
-Dialogue: 0,0:15:26.57,0:15:28.09,Main,,0,0,0,,Chạm vào tôi xem.
-Dialogue: 0,0:15:36.52,0:15:37.96,Main,,0,0,0,,Chạm được rồi...
-Dialogue: 0,0:15:37.96,0:15:40.34,Main,,0,0,0,,Phải không? Nào, đi theo tôi.
-Dialogue: 0,0:15:40.34,0:15:42.17,Main,,0,0,0,,Còn bố và mẹ của em sao rồi?
-Dialogue: 0,0:15:42.17,0:15:44.46,Main,,0,0,0,,Họ ở đâu? Họ không thành heo chứ?
-Dialogue: 0,0:15:44.62,0:15:46.90,Main,,0,0,0,,Giờ chưa được, nhưng em sẽ gặp lại họ.
-Dialogue: 0,0:15:50.41,0:15:51.86,Main,,0,0,0,,Yên lặng!
-Dialogue: 0,0:16:09.35,0:16:11.12,Main,,0,0,0,,Nó đang tìm em đấy.
-Dialogue: 0,0:16:11.12,0:16:12.84,Main,,0,0,0,,Gấp lắm rồi! Chạy thôi!
-Dialogue: 0,0:16:14.44,0:16:16.51,Main,,0,0,0,,Em không đứng lên được! Làm sao đây?
-Dialogue: 0,0:16:16.69,0:16:18.21,Main,,0,0,0,,Em không di chuyển được.
-Dialogue: 0,0:16:18.21,0:16:20.64,Main,,0,0,0,,Bình tĩnh nào. Hít thật sâu vào nhé.
-Dialogue: 0,0:16:24.03,0:16:26.99,Main,,0,0,0,,Ta kêu gọi sức mạnh của gió và nước\Nẩn bên trong...
-Dialogue: 0,0:16:26.99,0:16:28.59,Main,,0,0,0,,hãy giải phóng cho em ấy.
-Dialogue: 0,0:16:28.59,0:16:29.99,Main,,0,0,0,,Dậy đi!
-Dialogue: 0,0:16:37.35,0:16:39.79,Main,,0,0,0,,CẤM VÀO
-Dialogue: 0,0:17:01.36,0:17:04.44,Main,,0,0,0,,DẦU
-Dialogue: 0,0:17:11.95,0:17:15.03,Main,,0,0,0,,Khi băng qua cầu, em nhớ phải nín thở nhé.
-Dialogue: 0,0:17:16.17,0:17:18.39,Main,,0,0,0,,Em chỉ cần thở nhẹ thôi,
-Dialogue: 0,0:17:18.39,0:17:21.29,Main,,0,0,0,,phép thuật bị giải,\Nngười trong tiệm sẽ nhận ra.
-Dialogue: 0,0:17:26.59,0:17:28.00,Main,,0,0,0,,Em sợ.
-Dialogue: 0,0:17:28.05,0:17:29.86,Main,,0,0,0,,Bình tĩnh lại nào.
-Dialogue: 0,0:17:29.86,0:17:32.86,Main,,0,0,0,,Chào mừng quý khách.\NCảm ơn quý khách đã đến.
-Dialogue: 0,0:17:32.86,0:17:35.37,Main,,0,0,0,,Chào mừng quý khách!
-Dialogue: 0,0:17:35.52,0:17:36.87,Main,,0,0,0,,Ta đã xong việc trở về.
-Dialogue: 0,0:17:36.87,0:17:38.85,Main,,0,0,0,,Vâng, mừng ngài trở về.
-Dialogue: 0,0:17:39.73,0:17:41.26,Main,,0,0,0,,Hít sâu vào.
-Dialogue: 0,0:17:42.65,0:17:44.14,Main,,0,0,0,,Ngừng thở.
-Dialogue: 0,0:18:00.64,0:18:04.37,Main,,0,0,0,,Chào mừng quý khách!\NChúng em đã đợi mãi đấy ạ!
-Dialogue: 0,0:18:06.01,0:18:07.86,Main,,0,0,0,,Cố lên em, một chút nữa thôi.
-Dialogue: 0,0:18:08.63,0:18:10.34,Main,,0,0,0,,Ngài Haku!
-Dialogue: 0,0:18:10.36,0:18:12.71,Main,,0,0,0,,Ngài đi đâu về đấy ạ?
-Dialogue: 0,0:18:13.93,0:18:15.72,Main,,0,0,0,,Sao? Con người à?
-Dialogue: 0,0:18:16.64,0:18:18.08,Main,,0,0,0,,Chạy!
-Dialogue: 0,0:18:19.65,0:18:21.75,Main,,0,0,0,,Ôi trời!
-Dialogue: 0,0:18:34.79,0:18:37.01,Main,,0,0,0,,Ngài Haku! Ngài Haku ơi!
-Dialogue: 0,0:18:37.01,0:18:39.77,Main,,0,0,0,,Ngửi thấy gì không?\NCó con người lọt vào đây.
-Dialogue: 0,0:18:39.77,0:18:42.06,Main,,0,0,0,,Mùi con người hôi thối quá.
-Dialogue: 0,0:18:42.06,0:18:43.02,Main,,0,0,0,,Họ biết rồi.
-Dialogue: 0,0:18:43.02,0:18:44.94,Main,,0,0,0,,Xin lỗi, em đã không nhịn thở được.
-Dialogue: 0,0:18:44.94,0:18:47.15,Main,,0,0,0,,Không đâu, Chihiro đã cố gắng rồi.
-Dialogue: 0,0:18:47.30,0:18:49.90,Main,,0,0,0,,Em nghe kỹ lời tôi hướng dẫn nhé.
-Dialogue: 0,0:18:49.90,0:18:51.65,Main,,0,0,0,,Nếu ở đây, ta sẽ bị phát hiện.
-Dialogue: 0,0:18:51.65,0:18:53.74,Main,,0,0,0,,Tôi sẽ đi đánh lạc hướng.
-Dialogue: 0,0:18:53.74,0:18:55.53,Main,,0,0,0,,Nhân lúc đó, em hãy rời khỏi đây...
-Dialogue: 0,0:18:55.53,0:18:58.16,Main,,0,0,0,,Không, đừng đi mà.\NỞ lại với em đi, xin anh đấy!
-Dialogue: 0,0:18:58.60,0:19:01.83,Main,,0,0,0,,Ta buộc phải làm vậy\Nđể em có thể sống tiếp ở nơi này.
-Dialogue: 0,0:19:01.83,0:19:03.68,Main,,0,0,0,,Em còn phải cứu bố mẹ nữa mà.
-Dialogue: 0,0:19:04.56,0:19:07.38,Main,,0,0,0,,Vậy chuyện họ trở thành heo\Nđúng là không phải mơ sao anh?
-Dialogue: 0,0:19:07.38,0:19:08.81,Main,,0,0,0,,Ngồi yên nhé...
-Dialogue: 0,0:19:09.57,0:19:13.34,Main,,0,0,0,,Khi xung quanh hết ồn ào,\Nem hãy thoát ra bằng cửa phía sau,
-Dialogue: 0,0:19:13.34,0:19:16.22,Main,,0,0,0,,rồi bước xuống dưới\Nbằng cầu thang bên ngoài nhé.
-Dialogue: 0,0:19:16.22,0:19:20.14,Main,,0,0,0,,Ở đó sẽ có một nơi có khói bốc lên,\Nđấy là buồng đun nước.
-Dialogue: 0,0:19:20.14,0:19:23.83,Main,,0,0,0,,Ông Kamaji đang ở trong đấy,\Nem hãy đến gặp ông ta.
-Dialogue: 0,0:19:24.04,0:19:25.70,Main,,0,0,0,,Ông Kamaji?
-Dialogue: 0,0:19:26.04,0:19:28.61,Main,,0,0,0,,Em hãy xin ông ấy cho em làm việc ở đó.
-Dialogue: 0,0:19:28.61,0:19:30.40,Main,,0,0,0,,Bị từ chối cũng phải năn nỉ.
-Dialogue: 0,0:19:30.76,0:19:34.42,Main,,0,0,0,,Những người không có việc làm ở đây\Nsẽ bị Yubaba biến thành thú.
-Dialogue: 0,0:19:34.40,0:19:36.20,Main,,0,0,0,,Yubaba là ai?
-Dialogue: 0,0:19:36.20,0:19:38.91,Main,,0,0,0,,Gặp rồi em sẽ biết,\Nbà ta là phù thủy cai trị ở đây.
-Dialogue: 0,0:19:39.06,0:19:42.54,Main,,0,0,0,,Có thể bà ta sẽ khiến em khó chịu\Nvà chỉ muốn về nhà.
-Dialogue: 0,0:19:42.54,0:19:44.16,Main,,0,0,0,,Nhưng em phải làm.
-Dialogue: 0,0:19:44.16,0:19:46.83,Main,,0,0,0,,Hãy ráng nhẫn nhịn và chờ đợi thời cơ.
-Dialogue: 0,0:19:46.83,0:19:48.92,Main,,0,0,0,,Nếu vậy, Yubaba sẽ chẳng thể làm gì em.
-Dialogue: 0,0:19:48.92,0:19:50.17,Main,,0,0,0,,Vâng...
-Dialogue: 0,0:19:50.32,0:19:53.17,Main,,0,0,0,,Ngài Haku! Ngài Haku!
-Dialogue: 0,0:19:53.17,0:19:54.55,Main,,0,0,0,,Tôi phải đi rồi.
-Dialogue: 0,0:19:54.55,0:19:57.34,Main,,0,0,0,,Em đừng quên,\Ntôi sẽ luôn đứng về phía em, Chihiro.
-Dialogue: 0,0:19:57.34,0:19:58.93,Main,,0,0,0,,Sao anh lại biết được tên em?
-Dialogue: 0,0:19:59.08,0:20:01.43,Main,,0,0,0,,Tôi đã biết em từ khi em còn nhỏ.
-Dialogue: 0,0:20:01.43,0:20:03.74,Main,,0,0,0,,Tên tôi là Haku.
-Dialogue: 0,0:20:05.04,0:20:06.48,Main,,0,0,0,,Ngài Haku!
-Dialogue: 0,0:20:06.48,0:20:08.08,Main,,0,0,0,,Haku ở đây này.
-Dialogue: 0,0:20:09.92,0:20:12.69,Main,,0,0,0,,Ngài Haku, Yubaba cần ngài...
-Dialogue: 0,0:20:12.69,0:20:15.71,Main,,0,0,0,,Ta biết rồi.\NTa ra ngoài cũng vì chuyện đó.
-Dialogue: 0,0:22:09.29,0:22:11.43,Main,,0,0,0,,- Cho tôi gọi món.\N- Tới ngay ạ.
-Dialogue: 0,0:22:11.43,0:22:12.85,Main,,0,0,0,,Rượu cho ngài Otori đâu?
-Dialogue: 0,0:22:12.85,0:22:15.31,Main,,0,0,0,,- Đợi một chút ạ.\N- Nhanh lên đấy!
-Dialogue: 0,0:22:15.31,0:22:17.61,Main,,0,0,0,,Lâu rồi mới đông đúc như vậy.
-Dialogue: 0,0:22:17.61,0:22:19.57,Main,,0,0,0,,Anh phải uống thật nhiều đấy.
-Dialogue: 0,0:22:19.57,0:22:20.84,Main,,0,0,0,,Đương nhiên...
-Dialogue: 0,0:24:23.68,0:24:27.80,Main,,0,0,0,,Xin lỗi... cho cháu hỏi...
-Dialogue: 0,0:24:34.39,0:24:36.22,Main,,0,0,0,,Xin, xin lỗi...
-Dialogue: 0,0:24:42.61,0:24:45.13,Main,,0,0,0,,Xin lỗi, ông có phải ông Kamaji không ạ?
-Dialogue: 0,0:24:45.13,0:24:46.56,Main,,0,0,0,,Hử?
-Dialogue: 0,0:24:52.75,0:24:55.06,Main,,0,0,0,,À dạ, anh Haku bảo cháu tới chỗ ông.
-Dialogue: 0,0:24:55.06,0:24:56.68,Main,,0,0,0,,Xin ông cho cháu làm ở đây.
-Dialogue: 0,0:25:00.80,0:25:04.29,Main,,0,0,0,,Trời ạ, cùng một lúc mà nhiều như vậy...
-Dialogue: 0,0:25:04.97,0:25:07.46,Main,,0,0,0,,Cái lũ tí hon, làm việc thôi!
-Dialogue: 0,0:25:08.68,0:25:11.24,Main,,0,0,0,,Lão là Kamaji đây.
-Dialogue: 0,0:25:11.24,0:25:13.95,Main,,0,0,0,,Là nô dịch của những bồn tắm.
-Dialogue: 0,0:25:13.95,0:25:16.26,Main,,0,0,0,,Lũ tí hon, có nhanh lên không!
-Dialogue: 0,0:25:16.94,0:25:19.33,Main,,0,0,0,,Thưa ông, hãy cho cháu làm việc ở đây.
-Dialogue: 0,0:25:19.33,0:25:21.50,Main,,0,0,0,,Khỏi... Ở đây không thiếu người.
-Dialogue: 0,0:25:21.50,0:25:23.92,Main,,0,0,0,,Trong kia có đầy bồ hóng rồi còn gì.
-Dialogue: 0,0:25:23.92,0:25:26.86,Main,,0,0,0,,Muốn thay bao nhiêu đứa cũng có.
-Dialogue: 0,0:25:41.00,0:25:42.91,Main,,0,0,0,,A, xin lỗi nhiều nha
-Dialogue: 0,0:25:46.72,0:25:48.67,Main,,0,0,0,,Đợi chút đã.
-Dialogue: 0,0:26:00.56,0:26:02.27,Main,,0,0,0,,Cản đường cản lối!
-Dialogue: 0,0:26:55.16,0:26:57.36,Main,,0,0,0,,Phải làm gì với cái này đây?
-Dialogue: 0,0:27:04.13,0:27:06.12,Main,,0,0,0,,Đặt ở đây được không ạ?
-Dialogue: 0,0:27:06.10,0:27:08.61,Main,,0,0,0,,Đã nhúng tay vào thì phải làm tới cùng!
-Dialogue: 0,0:28:08.02,0:28:10.04,Main,,0,0,0,,Này này! Lũ tí hon kia!
-Dialogue: 0,0:28:10.04,0:28:12.25,Main,,0,0,0,,Bọn bây muốn\Ntrở lại làm bồ hóng đúng không?
-Dialogue: 0,0:28:12.25,0:28:16.05,Main,,0,0,0,,Còn cái con nhóc này nữa, đừng tự ý\Nxen vào rồi cướp việc của kẻ khác.
-Dialogue: 0,0:28:16.05,0:28:19.55,Main,,0,0,0,,Nếu không làm việc, phép thuật\Nsẽ không hiệu nghiệm với chúng nữa.
-Dialogue: 0,0:28:19.55,0:28:23.16,Main,,0,0,0,,Ở đây không có việc cho nhóc làm đâu.\NĐến chỗ khác mà tìm đi.
-Dialogue: 0,0:28:31.52,0:28:34.40,Main,,0,0,0,,Này cái bọn nhãi ranh kia! Ý kiến gì hả?
-Dialogue: 0,0:28:34.40,0:28:36.03,Main,,0,0,0,,Làm việc, làm việc ngay cho lão!
-Dialogue: 0,0:28:36.85,0:28:38.55,Main,,0,0,0,,Giờ ăn đến rồi!
-Dialogue: 0,0:28:38.72,0:28:41.34,Main,,0,0,0,,Gì vậy, lại cãi nhau rồi sao?
-Dialogue: 0,0:28:43.02,0:28:46.10,Main,,0,0,0,,Hòa thuận đi chứ, chán thật mà.\NCòn bát đâu?
-Dialogue: 0,0:28:46.44,0:28:49.02,Main,,0,0,0,,Đã dặn ông để nó ra ngoài mà.
-Dialogue: 0,0:28:49.02,0:28:51.92,Main,,0,0,0,,Giờ ăn đến rồi! Giải lao thôi!
-Dialogue: 0,0:29:07.38,0:29:09.73,Main,,0,0,0,,Đây chẳng phải là con người sao! Chết!
-Dialogue: 0,0:29:09.73,0:29:12.12,Main,,0,0,0,,Ở trên người ta rần rần vì nó đấy.
-Dialogue: 0,0:29:12.96,0:29:15.69,Main,,0,0,0,,- Con bé này là cháu của lão.\N- Cháu hả?
-Dialogue: 0,0:29:17.19,0:29:21.03,Main,,0,0,0,,Nó bảo muốn tìm việc làm,\Nnhưng ở đây đã đủ người rồi.
-Dialogue: 0,0:29:21.03,0:29:24.83,Main,,0,0,0,,Hay là, cháu đưa nó đến chỗ Yubaba nhé?
-Dialogue: 0,0:29:24.83,0:29:26.74,Main,,0,0,0,,Sau đó, nó sẽ tự lo thân.
-Dialogue: 0,0:29:26.74,0:29:29.33,Main,,0,0,0,,Ôi ông thôi đi ạ. Cháu bị Yubaba giết mất.
-Dialogue: 0,0:29:29.33,0:29:32.58,Main,,0,0,0,,Cho cái này chịu không?\NKỳ giông nướng trui đấy.
-Dialogue: 0,0:29:32.58,0:29:34.23,Main,,0,0,0,,Loại thượng hạng đó.
-Dialogue: 0,0:29:36.00,0:29:40.34,Main,,0,0,0,,Này nhóc, cháu phải kí hợp đồng với\NYubaba nếu cháu muốn được làm việc.
-Dialogue: 0,0:29:40.34,0:29:42.64,Main,,0,0,0,,Hãy đi một mình và thử vận may xem sao.
-Dialogue: 0,0:29:43.49,0:29:46.64,Main,,0,0,0,,Thật tình! Ê nhỏ kia, mày mau theo chị.
-Dialogue: 0,0:29:52.67,0:29:55.52,Main,,0,0,0,,Mày không thể nói "vâng",\Nhay "nhờ chị ạ" được à?
-Dialogue: 0,0:29:55.52,0:29:56.86,Main,,0,0,0,,A... vâng ạ.
-Dialogue: 0,0:29:56.86,0:29:59.75,Main,,0,0,0,,- Khù khờ quá, đi nhanh lên.\N- Vâng ạ.
-Dialogue: 0,0:30:01.93,0:30:04.45,Main,,0,0,0,,Mang giày theo làm gì?
-Dialogue: 0,0:30:04.45,0:30:05.74,Main,,0,0,0,,- Cả vớ nữa, bỏ lại đi!\N- Vâng.
-Dialogue: 0,0:30:11.65,0:30:14.21,Main,,0,0,0,,Mày không cảm ơn ông Kamaji sao?
-Dialogue: 0,0:30:14.21,0:30:16.06,Main,,0,0,0,,Ông ấy đã giúp mày cơ mà?
-Dialogue: 0,0:30:17.90,0:30:20.13,Main,,0,0,0,,Cháu cảm ơn ông nhiều ạ.
-Dialogue: 0,0:30:21.32,0:30:22.97,Main,,0,0,0,,Chúc nhóc may mắn!
-Dialogue: 0,0:30:32.25,0:30:35.66,Main,,0,0,0,,Yubaba sống ở khu sâu trong cùng\Ntrên đỉnh tòa nhà.
-Dialogue: 0,0:30:49.81,0:30:52.10,Main,,0,0,0,,Nhanh cái chân lên nào.
-Dialogue: 0,0:30:56.40,0:30:58.31,Main,,0,0,0,,Cẩn thận đứt mũi bây giờ.
-Dialogue: 0,0:31:22.89,0:31:25.67,Main,,0,0,0,,- Phải đi lên thêm tầng nữa.\N- Vâng.
-Dialogue: 0,0:31:29.81,0:31:31.41,Main,,0,0,0,,Tới rồi.
-Dialogue: 0,0:31:34.48,0:31:36.14,Main,,0,0,0,,Chào mừng quý khách.
-Dialogue: 0,0:31:41.75,0:31:44.63,Main,,0,0,0,,Quý khách thông cảm,\Nthang máy này không đi lên ạ.
-Dialogue: 0,0:31:44.63,0:31:46.69,Main,,0,0,0,,Vui lòng dùng thang máy khác.
-Dialogue: 0,0:31:47.29,0:31:50.45,Main,,0,0,0,,CHỈ ĐI XUỐNG
-Dialogue: 0,0:32:08.64,0:32:10.20,Main,,0,0,0,,Ông ấy đi theo kìa.
-Dialogue: 0,0:32:10.20,0:32:11.88,Main,,0,0,0,,Đừng nhìn lung tung.
-Dialogue: 0,0:32:13.48,0:32:16.81,Main,,0,0,0,,ĐI LÊN
-Dialogue: 0,0:32:26.66,0:32:29.19,Main,,0,0,0,,Đã đến nơi rồi thưa quý khách.
-Dialogue: 0,0:32:33.75,0:32:36.60,Main,,0,0,0,,Mời quý khách sang gian phòng\Nở bên tay phải ạ.
-Dialogue: 0,0:32:38.13,0:32:39.81,Main,,0,0,0,,Hửm? Lin.
-Dialogue: 0,0:32:39.81,0:32:41.66,Main,,0,0,0,,Vâng.
-Dialogue: 0,0:32:42.84,0:32:44.88,Main,,0,0,0,,Cô có mùi gì đó?
-Dialogue: 0,0:32:45.26,0:32:48.82,Main,,0,0,0,,- Quanh cô toàn mùi con người.\N- Thế sao ạ?
-Dialogue: 0,0:32:49.31,0:32:52.51,Main,,0,0,0,,Mùi nồng quá. Ngửi có vẻ ngon lành đấy.
-Dialogue: 0,0:32:53.23,0:32:55.76,Main,,0,0,0,,Cô đang giấu thứ gì phải không?
-Dialogue: 0,0:32:56.10,0:32:58.12,Main,,0,0,0,,Thành thật khai báo nào.
-Dialogue: 0,0:32:58.12,0:32:59.58,Main,,0,0,0,,Mùi này sao?
-Dialogue: 0,0:32:59.58,0:33:02.59,Main,,0,0,0,,Kỳ giông nướng! Đưa cho tôi!
-Dialogue: 0,0:33:02.59,0:33:05.71,Main,,0,0,0,,Còn lâu mới đưa. Cái này là của các chị.
-Dialogue: 0,0:33:05.71,0:33:07.09,Main,,0,0,0,,Xin cô đấy, cho tôi nếm qua đi.
-Dialogue: 0,0:33:07.09,0:33:09.32,Main,,0,0,0,,Cho tôi một cái chân cũng được!
-Dialogue: 0,0:33:09.74,0:33:12.95,Main,,0,0,0,,Thưa quý khách,\Nhãy gạt cần nếu muốn đi lên ạ.
-Dialogue: 0,0:33:36.27,0:33:38.68,Main,,0,0,0,,NHỊ THIÊN
-Dialogue: 0,0:34:01.34,0:34:03.83,Main,,0,0,0,,THIÊN
-Dialogue: 0,0:34:39.12,0:34:42.10,Main,,0,0,0,,DẦU
-Dialogue: 0,0:34:58.10,0:35:00.33,Main,,0,0,0,,Ngươi không định gõ cửa hay sao?
-Dialogue: 0,0:35:00.48,0:35:04.08,Main,,0,0,0,,Hừ, đúng là một con bé\Nchẳng ra thể thống gì.
-Dialogue: 0,0:35:13.95,0:35:16.36,Main,,0,0,0,,Nào, lại đây.
-Dialogue: 0,0:35:19.50,0:35:21.74,Main,,0,0,0,,Ta bảo ngươi lại đây.
-Dialogue: 0,0:35:36.01,0:35:38.42,Main,,0,0,0,,Đau quá...
-Dialogue: 0,0:35:48.57,0:35:51.65,Main,,0,0,0,,Ồn ào quá, im lặng hết đi cho ta.
-Dialogue: 0,0:36:10.34,0:36:14.32,Main,,0,0,0,,Dạ... Hãy cho cháu làm việc ở đây ạ.
-Dialogue: 0,0:36:22.56,0:36:25.79,Main,,0,0,0,,Đừng nói những điều vớ vẩn nữa.
-Dialogue: 0,0:36:25.79,0:36:29.29,Main,,0,0,0,,Đứa còi cọc yếu đuối như ngươi\Nthì làm được gì?
-Dialogue: 0,0:36:29.29,0:36:33.81,Main,,0,0,0,,Con người các ngươi không được\Nbén mảng đến nơi này.
-Dialogue: 0,0:36:34.67,0:36:38.47,Main,,0,0,0,,Nơi này chính là nhà tắm\Nmà tám triệu vị Thần
-Dialogue: 0,0:36:38.47,0:36:41.32,Main,,0,0,0,,tới để giải tỏa mệt mỏi đấy.
-Dialogue: 0,0:36:41.83,0:36:45.47,Main,,0,0,0,,Thế mà bố mẹ của ngươi dám vô lễ như vậy!
-Dialogue: 0,0:36:45.47,0:36:49.02,Main,,0,0,0,,Bọn chúng cả gan ngấu nghiến thức ăn\Ncủa khách như những con heo!
-Dialogue: 0,0:36:49.02,0:36:51.33,Main,,0,0,0,,Nên chúng phải chịu quả báo.
-Dialogue: 0,0:36:51.69,0:36:54.76,Main,,0,0,0,,Và còn cả con nhóc ranh như ngươi nữa...
-Dialogue: 0,0:36:54.76,0:36:56.96,Main,,0,0,0,,đừng mơ trở về thế giới cũ.
-Dialogue: 0,0:37:00.56,0:37:03.05,Main,,0,0,0,,Hay ta biến ngươi thành heo con luôn.
-Dialogue: 0,0:37:03.77,0:37:06.95,Main,,0,0,0,,Biến thành than đá cũng hay phết đấy.
-Dialogue: 0,0:37:14.45,0:37:16.34,Main,,0,0,0,,Ngươi đang run sợ phải không?
-Dialogue: 0,0:37:16.34,0:37:20.05,Main,,0,0,0,,Nhưng nghĩ lại thì ngươi\Nđến được tận đây cũng khá lắm.
-Dialogue: 0,0:37:20.05,0:37:23.47,Main,,0,0,0,,Chắc có ai đã\Ngiúp đỡ ngươi rất tận tình phải không?
-Dialogue: 0,0:37:23.47,0:37:25.85,Main,,0,0,0,,Ta phải khen ngợi người đó chứ.
-Dialogue: 0,0:37:25.85,0:37:30.62,Main,,0,0,0,,Ai đã giúp ngươi thế?\NNói ta nghe nào nhóc.
-Dialogue: 0,0:37:33.34,0:37:35.15,Main,,0,0,0,,Xin cho cháu làm ở đây!
-Dialogue: 0,0:37:35.15,0:37:36.82,Main,,0,0,0,,Ngươi vẫn nói vớ vẩn à?
-Dialogue: 0,0:37:36.82,0:37:38.34,Main,,0,0,0,,Cháu muốn làm ở đây ạ!
-Dialogue: 0,0:37:38.36,0:37:43.97,Main,,0,0,0,,Câm miệng lại!
-Dialogue: 0,0:37:46.98,0:37:51.08,Main,,0,0,0,,Vì sao ta lại phải đi thuê một đứa\Nnhư ngươi chứ hả?
-Dialogue: 0,0:37:51.08,0:37:55.46,Main,,0,0,0,,Ngươi là một đứa vô dụng, chỉ giỏi\Nmè nheo và khóc nhè!
-Dialogue: 0,0:37:55.46,0:37:58.01,Main,,0,0,0,,Ta chẳng muốn giao việc gì
-Dialogue: 0,0:37:58.01,0:38:00.80,Main,,0,0,0,,cho một đứa con gái\Nngu ngốc như ngươi đâu.
-Dialogue: 0,0:38:00.80,0:38:02.84,Main,,0,0,0,,Ngươi nằm mơ đi!
-Dialogue: 0,0:38:02.84,0:38:06.64,Main,,0,0,0,,Tại sao ta phải nuôi thêm\Nmột miệng ăn hại chứ?
-Dialogue: 0,0:38:07.29,0:38:11.98,Main,,0,0,0,,Hay là, ngươi nguyện ý làm
-Dialogue: 0,0:38:11.98,0:38:18.96,Main,,0,0,0,,công việc kinh khủng nhất, đáng sợ nhất\Ncho tới lúc chết?
-Dialogue: 0,0:38:31.46,0:38:34.14,Main,,0,0,0,,Thôi nào, có chuyện gì vậy, cưng ơi?
-Dialogue: 0,0:38:35.36,0:38:38.40,Main,,0,0,0,,Ổn rồi, mẹ đây. Con hãy ngoan nhé.
-Dialogue: 0,0:38:38.53,0:38:41.32,Main,,0,0,0,,Ngươi vẫn ở đây à? Mau cút ra ngoài đi!
-Dialogue: 0,0:38:41.34,0:38:43.40,Main,,0,0,0,,Cháu muốn làm việc ở đây ạ!
-Dialogue: 0,0:38:43.38,0:38:47.05,Main,,0,0,0,,Đừng có nói lớn tiếng!
-Dialogue: 0,0:38:47.05,0:38:51.16,Main,,0,0,0,,A, đợi mẹ một chút nha.\NNhé? Cục cưng của mẹ...
-Dialogue: 0,0:38:51.46,0:38:54.40,Main,,0,0,0,,Con là bé ngoan mà, nào nào.
-Dialogue: 0,0:38:54.55,0:38:56.77,Main,,0,0,0,,Xin hãy cho cháu làm việc ở đây!
-Dialogue: 0,0:38:56.77,0:38:59.46,Main,,0,0,0,,Biết rồi, im lặng đi.
-Dialogue: 0,0:39:01.51,0:39:04.71,Main,,0,0,0,,Mẹ đây, mẹ đây...
-Dialogue: 0,0:39:24.37,0:39:26.44,Main,,0,0,0,,Bản hợp đồng đấy.
-Dialogue: 0,0:39:27.08,0:39:29.15,Main,,0,0,0,,Điền tên ngươi vào đó đi.
-Dialogue: 0,0:39:29.71,0:39:31.49,Main,,0,0,0,,Ta sẽ cho phép.
-Dialogue: 0,0:39:31.83,0:39:35.52,Main,,0,0,0,,Nhưng nếu ngươi mở miệng\Nbảo "không muốn làm" hay "muốn về",
-Dialogue: 0,0:39:35.52,0:39:37.71,Main,,0,0,0,,ta sẽ biến ngươi thành heo con ngay.
-Dialogue: 0,0:39:38.17,0:39:40.57,Main,,0,0,0,,Dạ, cháu điền tên vào chỗ này ạ?
-Dialogue: 0,0:39:40.57,0:39:44.29,Main,,0,0,0,,Ừ đúng rồi, đừng lằng nhằng nữa,\Nmau điền vào đi!
-Dialogue: 0,0:39:48.52,0:39:50.18,Main,,0,0,0,,Chán thật...
-Dialogue: 0,0:39:51.19,0:39:54.26,Main,,0,0,0,,Ta ngán ngẩm lời thề đó rồi đấy.
-Dialogue: 0,0:39:55.36,0:39:59.44,Main,,0,0,0,,Nó khiến ta phải giao việc\Ncho tất cả những ai đến xin.
-Dialogue: 0,0:40:01.24,0:40:03.48,Main,,0,0,0,,- Viết xong chưa?\N- Dạ.
-Dialogue: 0,0:40:06.87,0:40:10.47,Main,,0,0,0,,- Hừm, ngươi là Chihiro à?\N- Vâng.
-Dialogue: 0,0:40:10.47,0:40:13.03,Main,,0,0,0,,Tên nghe hào nhoáng quá đấy.
-Dialogue: 0,0:40:15.38,0:40:17.19,Main,,0,0,0,,CHIHIRO
-Dialogue: 0,0:40:17.19,0:40:18.87,Main,,0,0,0,,SEN
-Dialogue: 0,0:40:22.55,0:40:25.67,Main,,0,0,0,,Từ bây giờ, tên của ngươi sẽ là Sen.
-Dialogue: 0,0:40:25.65,0:40:27.81,Main,,0,0,0,,Được chứ? Là Sen.
-Dialogue: 0,0:40:27.81,0:40:30.12,Main,,0,0,0,,Nghe rõ ta nói không, Sen!
-Dialogue: 0,0:40:30.12,0:40:31.63,Main,,0,0,0,,A... Vâng ạ.
-Dialogue: 0,0:40:32.10,0:40:33.76,Main,,0,0,0,,Bà gọi tôi sao?
-Dialogue: 0,0:40:36.69,0:40:38.79,Main,,0,0,0,,Từ hôm nay, con bé này sẽ làm việc ở đây.
-Dialogue: 0,0:40:38.79,0:40:41.04,Main,,0,0,0,,- Hãy để mắt tới nó.\N- Vâng.
-Dialogue: 0,0:40:41.49,0:40:42.92,Main,,0,0,0,,Tên ngươi là gì?
-Dialogue: 0,0:40:42.92,0:40:46.69,Main,,0,0,0,,Ơ? Chi... À... là Sen ạ.
-Dialogue: 0,0:40:46.67,0:40:49.11,Main,,0,0,0,,Được rồi Sen, đi theo ta.
-Dialogue: 0,0:40:57.38,0:40:58.98,Main,,0,0,0,,Anh Haku, em...
-Dialogue: 0,0:40:59.13,0:41:00.80,Main,,0,0,0,,Đừng nói vớ vẩn.
-Dialogue: 0,0:41:00.80,0:41:03.54,Main,,0,0,0,,Phải gọi là ta là ngài Haku.
-Dialogue: 0,0:41:18.62,0:41:22.46,Main,,0,0,0,,Cho dù đây có là lệnh của Yubaba\Nđi chăng nữa...
-Dialogue: 0,0:41:22.46,0:41:24.13,Main,,0,0,0,,Ta không thể cho con người làm.
-Dialogue: 0,0:41:24.28,0:41:26.96,Main,,0,0,0,,- Đã kí hợp đồng cả rồi.\N- Ngài nói sao...
-Dialogue: 0,0:41:26.96,0:41:28.51,Main,,0,0,0,,Nhờ mọi người giúp cháu ạ.
-Dialogue: 0,0:41:28.66,0:41:30.93,Main,,0,0,0,,Tôi không muốn nó đến chỗ mình đâu.
-Dialogue: 0,0:41:30.93,0:41:32.26,Main,,0,0,0,,Tôi ghét mùi con người.
-Dialogue: 0,0:41:32.79,0:41:35.85,Main,,0,0,0,,Chỉ cần ăn đồ ở đây ba ngày\Nthì sẽ hết mùi.
-Dialogue: 0,0:41:35.85,0:41:40.20,Main,,0,0,0,,Tới lúc đó, nếu nó vẫn vô tích sự,\Nmuốn nướng hay luộc thì tùy.
-Dialogue: 0,0:41:41.80,0:41:44.27,Main,,0,0,0,,Tất cả quay về làm việc đi. Lin đâu rồi?
-Dialogue: 0,0:41:44.27,0:41:46.78,Main,,0,0,0,,Thôi nha! Đừng đùn đẩy cho tôi!
-Dialogue: 0,0:41:46.93,0:41:48.61,Main,,0,0,0,,Cô muốn có phụ tá mà?
-Dialogue: 0,0:41:48.61,0:41:51.28,Main,,0,0,0,,Phải phải, Lin nhận là thích hợp nhất.
-Dialogue: 0,0:41:51.28,0:41:52.24,Main,,0,0,0,,Gì chứ?
-Dialogue: 0,0:41:52.24,0:41:54.17,Main,,0,0,0,,- Sen, sang kia đi.\N- Vâng.
-Dialogue: 0,0:41:54.81,0:41:58.35,Main,,0,0,0,,Nhớ chuyện này nhé.\NTôi sẽ bắt mấy người phải đền bù đấy.
-Dialogue: 0,0:41:58.37,0:42:00.26,Main,,0,0,0,,Rồi, đi nhanh.
-Dialogue: 0,0:42:02.65,0:42:04.14,Main,,0,0,0,,Đi thôi.
-Dialogue: 0,0:42:12.79,0:42:14.51,Main,,0,0,0,,Em làm tốt lắm!
-Dialogue: 0,0:42:14.51,0:42:17.28,Main,,0,0,0,,- Hở?\N- Em lóng ngóng quá, nên chị lo lắm đấy.
-Dialogue: 0,0:42:17.26,0:42:18.77,Main,,0,0,0,,Đừng lơ là đó.
-Dialogue: 0,0:42:18.77,0:42:20.85,Main,,0,0,0,,Có việc gì không hiểu\Ncứ hỏi chị, hiểu không?
-Dialogue: 0,0:42:20.85,0:42:22.16,Main,,0,0,0,,Vâng.
-Dialogue: 0,0:42:22.96,0:42:24.77,Main,,0,0,0,,Hở? Em sao vậy?
-Dialogue: 0,0:42:25.51,0:42:27.78,Main,,0,0,0,,Em choáng váng quá.
-Dialogue: 0,0:42:32.10,0:42:34.21,Main,,0,0,0,,Đây là phòng chúng ta.
-Dialogue: 0,0:42:35.10,0:42:37.68,Main,,0,0,0,,Ăn no rồi ngủ là khỏe lại thôi.
-Dialogue: 0,0:42:40.52,0:42:44.00,Main,,0,0,0,,Áo yếm đây, em tự giặt nhé. Quần này.
-Dialogue: 0,0:42:44.40,0:42:46.56,Main,,0,0,0,,Em bé quá đi mất.
-Dialogue: 0,0:42:47.44,0:42:49.02,Main,,0,0,0,,Áo này to quá.
-Dialogue: 0,0:42:50.91,0:42:53.68,Main,,0,0,0,,- Chị Lin ơi, này...\N- Sao?
-Dialogue: 0,0:42:53.68,0:42:56.01,Main,,0,0,0,,Ở đây có hai người tên Haku ạ?
-Dialogue: 0,0:42:56.01,0:43:00.03,Main,,0,0,0,,Hai người?\NThôi, có đến hai kẻ thì sao chịu nổi.
-Dialogue: 0,0:43:00.12,0:43:01.35,Main,,0,0,0,,Vẫn không vừa.
-Dialogue: 0,0:43:01.35,0:43:04.14,Main,,0,0,0,,Hắn là tay sai của Yubaba đó.\NEm coi chừng.
-Dialogue: 0,0:43:07.34,0:43:09.46,Main,,0,0,0,,Sao không thấy nhỉ?
-Dialogue: 0,0:43:10.28,0:43:12.92,Main,,0,0,0,,A a, có rồi, tìm ra rồi.
-Dialogue: 0,0:43:13.72,0:43:18.01,Main,,0,0,0,,Này, em làm sao vậy? Cố lên nào.
-Dialogue: 0,0:43:18.56,0:43:21.33,Main,,0,0,0,,Ồn quá đấy. Chuyện gì vậy, Lin?
-Dialogue: 0,0:43:21.33,0:43:24.01,Main,,0,0,0,,Đây là người mới, cô bé thấy không khỏe.
-Dialogue: 0,0:44:55.61,0:45:00.15,Main,,0,0,0,,Em hãy đến chỗ cây cầu.\NTôi sẽ dẫn em đi gặp bố mẹ.
-Dialogue: 0,0:45:44.20,0:45:46.03,Main,,0,0,0,,Giày mình đâu?
-Dialogue: 0,0:45:59.47,0:46:01.17,Main,,0,0,0,,Cảm ơn các cậu.
-Dialogue: 0,0:46:31.59,0:46:34.87,Main,,0,0,0,,NHÀ TẮM
-Dialogue: 0,0:47:01.62,0:47:06.09,Main,,0,0,0,,NHÀ TẮM
-Dialogue: 0,0:47:09.54,0:47:11.24,Main,,0,0,0,,Đi nào.
-Dialogue: 0,0:47:54.13,0:47:56.95,Main,,0,0,0,,Bố ơi, mẹ ơi, là con đây!
-Dialogue: 0,0:47:57.21,0:47:58.77,Main,,0,0,0,,Sen đây ạ.
-Dialogue: 0,0:47:59.26,0:48:01.83,Main,,0,0,0,,Mẹ ơi, bố ơi!
-Dialogue: 0,0:48:04.72,0:48:07.07,Main,,0,0,0,,Họ bị bệnh ạ? Hay là bị thương ạ?
-Dialogue: 0,0:48:07.07,0:48:09.78,Main,,0,0,0,,Không, họ chỉ đang ngủ vì no rồi thôi.
-Dialogue: 0,0:48:10.27,0:48:13.55,Main,,0,0,0,,Giờ họ đã quên chuyện\Nmình từng là con người.
-Dialogue: 0,0:48:18.86,0:48:21.63,Main,,0,0,0,,Bố ơi, mẹ ơi!\NChắc chắn con sẽ cứu hai người.
-Dialogue: 0,0:48:21.63,0:48:24.81,Main,,0,0,0,,Nên bố mẹ đừng mập lên quá,\Nkẻo lại bị làm thịt mất.
-Dialogue: 0,0:48:32.79,0:48:34.82,Main,,0,0,0,,Em giấu kĩ chúng nhé.
-Dialogue: 0,0:48:37.21,0:48:38.94,Main,,0,0,0,,Em tưởng bị vứt hết rồi.
-Dialogue: 0,0:48:39.09,0:48:41.21,Main,,0,0,0,,Lúc về em sẽ cần mà.
-Dialogue: 0,0:48:47.18,0:48:49.64,Main,,0,0,0,,Đây là thiệp chia tay của em.
-Dialogue: 0,0:48:49.64,0:48:51.07,Main,,0,0,0,,CHÚC MAY MẮN CHIHIRO\NCHÚNG TA SẼ GẶP LẠI
-Dialogue: 0,0:48:51.07,0:48:52.66,Main,,0,0,0,,"Chihiro"?
-Dialogue: 0,0:48:52.81,0:48:56.18,Main,,0,0,0,,Chihiro à? Đó là tên của em.
-Dialogue: 0,0:48:56.94,0:48:59.67,Main,,0,0,0,,Yubaba cướp tên người khác\Nđể khống chế họ đấy.
-Dialogue: 0,0:49:00.11,0:49:04.55,Main,,0,0,0,,Ở đây em sẽ luôn là Sen,\Ndần dần tên thật của em sẽ bị giấu đi hẳn.
-Dialogue: 0,0:49:04.55,0:49:07.92,Main,,0,0,0,,Suýt nữa em đã đánh mất bản thân\Nvà trở thành Sen rồi.
-Dialogue: 0,0:49:08.49,0:49:12.07,Main,,0,0,0,,Nếu em bị cướp mất tên,\Nem sẽ không còn đường về nữa.
-Dialogue: 0,0:49:12.66,0:49:15.43,Main,,0,0,0,,Tôi không thể nhớ ra tên mình.
-Dialogue: 0,0:49:15.43,0:49:17.45,Main,,0,0,0,,Tên thật của anh ấy ạ?
-Dialogue: 0,0:49:17.43,0:49:21.00,Main,,0,0,0,,Ừ, nhưng là là tôi lại nhớ\Nrất rõ về em, Chihiro.
-Dialogue: 0,0:49:23.09,0:49:25.97,Main,,0,0,0,,Ăn đi nào. Em chưa ăn gì cả, phải không?
-Dialogue: 0,0:49:25.97,0:49:27.72,Main,,0,0,0,,Em không muốn ăn.
-Dialogue: 0,0:49:27.72,0:49:31.20,Main,,0,0,0,,Khi làm món này, tôi đã niệm phép\Nđể giúp em khỏe lên đấy.
-Dialogue: 0,0:49:31.20,0:49:32.42,Main,,0,0,0,,Ăn nhé.
-Dialogue: 0,0:50:08.39,0:50:11.38,Main,,0,0,0,,Em đã chịu khổ nhiều rồi nhỉ? Ăn thêm đi.
-Dialogue: 0,0:50:21.86,0:50:24.89,Main,,0,0,0,,DẦU
-Dialogue: 0,0:50:25.78,0:50:27.38,Main,,0,0,0,,Em tự về được chứ?
-Dialogue: 0,0:50:27.38,0:50:30.05,Main,,0,0,0,,Vâng. Cảm ơn anh, Haku.\NEm sẽ cố gắng làm việc.
-Dialogue: 0,0:50:30.05,0:50:31.44,Main,,0,0,0,,Ừ.
-Dialogue: 0,0:52:04.92,0:52:07.65,Main,,0,0,0,,Em đi đâu vậy chứ? Chị lo lắm đó!
-Dialogue: 0,0:52:07.65,0:52:08.90,Main,,0,0,0,,Xin lỗi chị.
-Dialogue: 0,0:52:14.97,0:52:16.57,Main,,0,0,0,,- Thật sao?\N- Nhìn xem!
-Dialogue: 0,0:52:16.57,0:52:18.07,Main,,0,0,0,,Tuyệt thật đó.
-Dialogue: 0,0:52:18.07,0:52:19.47,Main,,0,0,0,,Cản đường quá.
-Dialogue: 0,0:52:32.74,0:52:35.27,Main,,0,0,0,,Sen, em không vắt mạnh hơn được sao?
-Dialogue: 0,0:52:35.37,0:52:38.22,Main,,0,0,0,,- Từ nay, Lin và Sen sẽ lo bồn tắm lớn.\N- Hả?
-Dialogue: 0,0:52:38.37,0:52:40.55,Main,,0,0,0,,Nhưng mà đó là việc của Ếch cơ mà?
-Dialogue: 0,0:52:40.55,0:52:43.72,Main,,0,0,0,,Lệnh của cấp trên đấy.\NĐừng lười biếng đùn đẩy!
-Dialogue: 0,0:53:03.64,0:53:05.75,Main,,0,0,0,,Dạ, ngài đứng đó sẽ bị ướt đấy ạ.
-Dialogue: 0,0:53:09.75,0:53:11.46,Main,,0,0,0,,Sen, nhanh lên em!
-Dialogue: 0,0:53:11.46,0:53:12.78,Main,,0,0,0,,Vâng.
-Dialogue: 0,0:53:12.78,0:53:14.85,Main,,0,0,0,,Tôi sẽ để cửa cho ngài.
-Dialogue: 0,0:53:42.43,0:53:44.66,Main,,0,0,0,,- Lin dọn bồn tắm lớn à?\N- Kệ tôi đi!
-Dialogue: 0,0:53:48.10,0:53:51.18,Main,,0,0,0,,Thật quá quắt mà.\NBồn này chắc chẳng có ai rửa.
-Dialogue: 0,0:54:05.71,0:54:09.14,Main,,0,0,0,,Cái bồn này chuyên dùng cho\Nnhững vị khách dơ bẩn.
-Dialogue: 0,0:54:09.14,0:54:10.98,Main,,0,0,0,,Toàn là nhớp, không chà ra nổi.
-Dialogue: 0,0:54:11.13,0:54:13.71,Main,,0,0,0,,Lin, Sen, mấy vị khách đầu tiên\Nsắp tới đấy.
-Dialogue: 0,0:54:13.73,0:54:15.61,Main,,0,0,0,,Rồi, chúng tôi chuẩn bị ngay!
-Dialogue: 0,0:54:15.61,0:54:17.90,Main,,0,0,0,,Bực thật! Rõ ràng là gây khó dễ bọn mình!
-Dialogue: 0,0:54:17.90,0:54:19.69,Main,,0,0,0,,Phải đổ nước nóng thảo dược vào.
-Dialogue: 0,0:54:19.69,0:54:22.32,Main,,0,0,0,,- Sen, em ra quầy quản lý lấy thẻ đi.\N- Thẻ gì ạ?
-Dialogue: 0,0:54:24.97,0:54:28.34,Main,,0,0,0,,- Lấy thẻ nước nóng thảo dược!\N- Vâng.
-Dialogue: 0,0:54:29.35,0:54:31.33,Main,,0,0,0,,Chị ơi, quầy quản lý ở đâu?
-Dialogue: 0,0:54:35.11,0:54:38.10,Main,,0,0,0,,Gì vậy nhỉ? Có thứ gì đó đang đến.
-Dialogue: 0,0:54:47.08,0:54:51.24,Main,,0,0,0,,Một kẻ khó chịu đã lẩn vào màn mưa\Nvà xâm nhập khu vực này.
-Dialogue: 0,0:55:15.15,0:55:17.96,Main,,0,0,0,,Sao có thể lãng phí thẻ vào vụ đó?
-Dialogue: 0,0:55:17.96,0:55:19.98,Main,,0,0,0,,Buổi sáng an lành ạ.
-Dialogue: 0,0:55:20.03,0:55:22.26,Main,,0,0,0,,Quý khách có thấy thư giãn không ạ?
-Dialogue: 0,0:55:22.41,0:55:23.93,Main,,0,0,0,,Cho ngài Kasuga.
-Dialogue: 0,0:55:23.93,0:55:26.19,Main,,0,0,0,,Thẻ nước lưu huỳnh cao cấp ạ.
-Dialogue: 0,0:55:26.24,0:55:28.97,Main,,0,0,0,,Mày có đứng bao lâu cũng vậy.\NVề làm việc đi!
-Dialogue: 0,0:55:28.97,0:55:30.93,Main,,0,0,0,,Chà rửa bằng tay thôi.
-Dialogue: 0,0:55:30.93,0:55:32.68,Main,,0,0,0,,Chào buổi sáng ạ.
-Dialogue: 0,0:55:32.68,0:55:33.98,Main,,0,0,0,,Tự tay mà chà đi.
-Dialogue: 0,0:55:34.13,0:55:37.48,Main,,0,0,0,,Dạ nhưng... nghe bảo\Nphải có nước nóng thảo dược ạ.
-Dialogue: 0,0:55:37.48,0:55:39.27,Main,,0,0,0,,Mày thật chẳng biết điều.
-Dialogue: 0,0:55:39.27,0:55:43.46,Main,,0,0,0,,Vâng, nước nóng hoa ngải cứu phải không ạ?\NMời quý khách thong thả tận hưởng.
-Dialogue: 0,0:55:52.31,0:55:55.22,Main,,0,0,0,,Vâng, quầy quản lý xin nghe. Vâng.
-Dialogue: 0,0:55:57.11,0:55:59.79,Main,,0,0,0,,- Cháu cảm ơn ạ.\N- Khoan, không phải.
-Dialogue: 0,0:55:59.79,0:56:02.26,Main,,0,0,0,,- Đứng lại đó, ê nè!\N- {\i1}Chuyện gì đấy?{\i0}
-Dialogue: 0,0:56:02.26,0:56:03.80,Main,,0,0,0,,Dạ không có gì đâu ạ.
-Dialogue: 0,0:56:03.95,0:56:05.84,Main,,0,0,0,,Có thứ gì đó đang tiến vào.
-Dialogue: 0,0:56:05.84,0:56:06.80,Main,,0,0,0,,{\i1}Con người ạ?{\i0}
-Dialogue: 0,0:56:06.80,0:56:09.82,Main,,0,0,0,,Cần phải điều tra chuyện đấy.\NVì hôm nay Haku không ở đây.
-Dialogue: 0,0:56:09.80,0:56:12.47,Main,,0,0,0,,Chà, em lấy được loại tốt đó.
-Dialogue: 0,0:56:12.47,0:56:14.91,Main,,0,0,0,,Ta sẽ gửi nó đến chỗ ông Kamaji.
-Dialogue: 0,0:56:16.38,0:56:18.48,Main,,0,0,0,,Giờ ít khách nên nước sẽ tới ngay.
-Dialogue: 0,0:56:24.34,0:56:27.63,Main,,0,0,0,,Giật cái dây này nước sẽ tràn xuống.\NEm thử xem.
-Dialogue: 0,0:56:36.12,0:56:38.42,Main,,0,0,0,,Sen à, em vụng về thật đấy.
-Dialogue: 0,0:56:38.42,0:56:40.71,Main,,0,0,0,,Ôi chao, màu nước lạ quá.
-Dialogue: 0,0:56:40.71,0:56:43.13,Main,,0,0,0,,Trong đây có trộn giun đất sấy khô đó.
-Dialogue: 0,0:56:43.28,0:56:46.69,Main,,0,0,0,,Nước đục vầy thì có cọ rửa bồn\Nhay không cũng vậy.
-Dialogue: 0,0:56:48.41,0:56:51.65,Main,,0,0,0,,Đợi bồn đầy thì kéo dây lần nữa\Nđể tắt nước nhé.
-Dialogue: 0,0:56:51.83,0:56:53.68,Main,,0,0,0,,Giờ bỏ tay ra cũng được.
-Dialogue: 0,0:56:53.68,0:56:55.48,Main,,0,0,0,,Chị đi lấy bữa sáng đây.
-Dialogue: 0,0:56:55.48,0:56:56.83,Main,,0,0,0,,Cảm ơn chị.
-Dialogue: 0,0:57:18.65,0:57:21.92,Main,,0,0,0,,Đau quá... Ui da...
-Dialogue: 0,0:57:24.99,0:57:27.94,Main,,0,0,0,,Xin lỗi...\Nbồn tắm chưa được chuẩn bị xong ạ.
-Dialogue: 0,0:57:33.33,0:57:34.91,Main,,0,0,0,,Sao nhiều thẻ quá?
-Dialogue: 0,0:57:37.42,0:57:39.54,Main,,0,0,0,,Ngài cho tôi sao ạ?
-Dialogue: 0,0:57:42.56,0:57:45.19,Main,,0,0,0,,Tôi không cần nhiều như vậy đâu ạ.
-Dialogue: 0,0:57:47.68,0:57:49.70,Main,,0,0,0,,Không cần. Một cái là đủ rồi.
-Dialogue: 0,0:58:04.78,0:58:07.09,Main,,0,0,0,,- Bà chủ ạ.\N- Một vị Thần Nhớp Nháp à?
-Dialogue: 0,0:58:07.09,0:58:09.30,Main,,0,0,0,,Vâng, ông ấy còn là vị Thần rất lớn ạ.
-Dialogue: 0,0:58:09.30,0:58:11.13,Main,,0,0,0,,Ông ta đang hướng về phía cây cầu.
-Dialogue: 0,0:58:11.13,0:58:12.84,Main,,0,0,0,,Xin hãy về cho.
-Dialogue: 0,0:58:12.84,0:58:16.22,Main,,0,0,0,,Ngài về đi ạ.
-Dialogue: 0,0:58:16.22,0:58:17.35,Main,,0,0,0,,Mong ngài rời khỏi đây giúp.
-Dialogue: 0,0:58:17.35,0:58:19.98,Main,,0,0,0,,Xin ngài về đi. Vui lòng rời khỏi đây ạ.
-Dialogue: 0,0:58:19.98,0:58:23.15,Main,,0,0,0,,Ư... Mùi kinh tởm quá...
-Dialogue: 0,0:58:23.30,0:58:24.86,Main,,0,0,0,,Hừm, quái lạ thật.
-Dialogue: 0,0:58:24.86,0:58:27.36,Main,,0,0,0,,Thứ ta cảm nhận được\Nkhông phải là Thần Nhớp Nháp.
-Dialogue: 0,0:58:27.36,0:58:29.90,Main,,0,0,0,,Nếu đã đến rồi thì đành vậy.\NĐón tiếp đi nào.
-Dialogue: 0,0:58:30.39,0:58:34.13,Main,,0,0,0,,Giờ chỉ còn cách làm nhanh,\Nđể ông ta rời đi càng sớm càng tốt.
-Dialogue: 0,0:58:34.56,0:58:36.70,Main,,0,0,0,,Thật xin lỗi, xin mọi người trở về phòng.
-Dialogue: 0,0:58:36.70,0:58:38.41,Main,,0,0,0,,Thần Nhớp Nháp tới, mau về phòng ạ.
-Dialogue: 0,0:58:40.15,0:58:43.42,Main,,0,0,0,,- Lin, Sen. Yubaba cho gọi hai người.\N- A, vâng.
-Dialogue: 0,0:58:43.57,0:58:46.21,Main,,0,0,0,,Đây là nhiệm vụ đầu tiên của ngươi.
-Dialogue: 0,0:58:46.21,0:58:49.17,Main,,0,0,0,,Hãy chăm sóc vị khách\Nsắp dùng bồn tắm lớn.
-Dialogue: 0,0:58:49.17,0:58:50.21,Main,,0,0,0,,Dạ thưa...
-Dialogue: 0,0:58:50.21,0:58:53.22,Main,,0,0,0,,Phàn nàn là thành than đá ngay đó. Rõ chứ?
-Dialogue: 0,0:58:53.22,0:58:55.07,Main,,0,0,0,,Tôi thấy ông ta rồi.
-Dialogue: 0,0:59:05.38,0:59:07.73,Main,,0,0,0,,Dừng lại! Vậy là vô lễ với khách hàng!
-Dialogue: 0,0:59:15.39,0:59:19.34,Main,,0,0,0,,Chào mừng ngài\Nđến với nhà tắm của chúng tôi...
-Dialogue: 0,0:59:22.15,0:59:24.62,Main,,0,0,0,,Hở? À, tiền sao...
-Dialogue: 0,0:59:24.62,0:59:27.25,Main,,0,0,0,,Sen! Mau nhận tiền của khách!
-Dialogue: 0,0:59:27.25,0:59:28.69,Main,,0,0,0,,Ơ, vâng!
-Dialogue: 0,0:59:36.54,0:59:41.47,Main,,0,0,0,,Còn đứng nghệch ra đó làm gì?\NMau dẫn đường cho ngài ấy.
-Dialogue: 0,0:59:41.47,0:59:43.03,Main,,0,0,0,,Mời ngài theo tôi.
-Dialogue: 0,1:00:01.69,1:00:03.47,Main,,0,0,0,,Sen!
-Dialogue: 0,1:00:07.63,1:00:10.27,Main,,0,0,0,,Ối trời... Bốc mùi quá.
-Dialogue: 0,1:00:11.07,1:00:12.34,Main,,0,0,0,,Đồ ăn mốc rồi!
-Dialogue: 0,1:00:12.34,1:00:14.69,Main,,0,0,0,,Mở cửa sổ! Mở tất cả ra!
-Dialogue: 0,1:00:57.45,1:01:00.40,Main,,0,0,0,,Dạ? Ngài đợi tôi một lát.
-Dialogue: 0,1:01:05.88,1:01:07.27,Main,,0,0,0,,Bẩn quá đi mất.
-Dialogue: 0,1:01:07.27,1:01:08.98,Main,,0,0,0,,Đây đâu phải chuyện cười ạ.
-Dialogue: 0,1:01:08.98,1:01:10.65,Main,,0,0,0,,Để xem con nhỏ đó làm gì.
-Dialogue: 0,1:01:15.22,1:01:17.78,Main,,0,0,0,,À, nó định xả nước nóng vào bồn.
-Dialogue: 0,1:01:17.78,1:01:21.59,Main,,0,0,0,,Trời ơi, nó đang sờ vô tường\Nbằng bàn tay bẩn thỉu đó.
-Dialogue: 0,1:01:33.57,1:01:35.80,Main,,0,0,0,,Gì cơ?\NNgươi đưa cho Sen mấy tấm thẻ mới sao?
-Dialogue: 0,1:01:35.80,1:01:38.48,Main,,0,0,0,,Làm gì có ạ, tôi đâu dám lãng phí thế.
-Dialogue: 0,1:02:19.53,1:02:22.43,Main,,0,0,0,,Trời, hết bao nhiêu\Nlà nước thảo dược đắt tiền!
-Dialogue: 0,1:02:48.29,1:02:50.43,Main,,0,0,0,,Sen! Sen ơi, em ở đâu?
-Dialogue: 0,1:02:50.41,1:02:51.79,Main,,0,0,0,,Chị Lin!
-Dialogue: 0,1:02:51.79,1:02:53.12,Main,,0,0,0,,Em có sao không?
-Dialogue: 0,1:02:53.12,1:02:55.92,Main,,0,0,0,,Chị đã nhờ ông Kamaji\Nxả hết toàn bộ nước ra rồi.
-Dialogue: 0,1:02:56.07,1:02:58.55,Main,,0,0,0,,Toàn là nước thảo dược cao cấp!
-Dialogue: 0,1:02:58.70,1:03:02.26,Main,,0,0,0,,Cảm ơn ạ. Chị ơi, hình như ngài ấy\Nđang bị gai đâm vào người.
-Dialogue: 0,1:03:02.26,1:03:05.05,Main,,0,0,0,,- Gai sao?\N- Sâu lắm, không rút ra được.
-Dialogue: 0,1:03:05.05,1:03:09.00,Main,,0,0,0,,Gai? Nó bảo là gai sao?
-Dialogue: 0,1:03:09.00,1:03:11.95,Main,,0,0,0,,Mau triệu tập mọi người xuống dưới. Mau!
-Dialogue: 0,1:03:15.38,1:03:19.57,Main,,0,0,0,,Sen, Lin.\NVị này không phải Thần Nhớp Nháp đâu.
-Dialogue: 0,1:03:21.51,1:03:23.24,Main,,0,0,0,,Hãy dùng sợi thừng này!
-Dialogue: 0,1:03:23.24,1:03:24.55,Main,,0,0,0,,Vâng.
-Dialogue: 0,1:03:33.15,1:03:35.92,Main,,0,0,0,,- Giữ cho chặt vào nhé!\N- Vâng.
-Dialogue: 0,1:03:36.07,1:03:39.90,Main,,0,0,0,,Đừng lề mề nữa.\NĐàn bà con gái cũng vào giúp luôn đi.
-Dialogue: 0,1:03:39.92,1:03:41.92,Main,,0,0,0,,Đã buộc xong rồi ạ.
-Dialogue: 0,1:03:41.92,1:03:46.59,Main,,0,0,0,,Được rồi, cả nhà tắm hãy hợp lực!
-Dialogue: 0,1:03:46.59,1:03:49.41,Main,,0,0,0,,Kéo đi! Kéo mạnh vào!
-Dialogue: 0,1:03:49.43,1:03:51.93,Main,,0,0,0,,Kéo đi!
-Dialogue: 0,1:03:51.93,1:03:54.20,Main,,0,0,0,,Kéo đi!
-Dialogue: 0,1:03:54.44,1:03:56.84,Main,,0,0,0,,Kéo đi!
-Dialogue: 0,1:03:56.84,1:03:59.42,Main,,0,0,0,,Kéo đi!
-Dialogue: 0,1:04:04.26,1:04:05.70,Main,,0,0,0,,Xe đạp sao?
-Dialogue: 0,1:04:05.70,1:04:09.43,Main,,0,0,0,,Biết ngay. Nào, kéo mạnh hơn nữa!
-Dialogue: 0,1:04:09.45,1:04:12.08,Main,,0,0,0,,Kéo đi!
-Dialogue: 0,1:04:12.08,1:04:15.39,Main,,0,0,0,,Mạnh lên! Mạnh lên!
-Dialogue: 0,1:04:43.47,1:04:46.42,Main,,0,0,0,,Sen! Em có sao không?
-Dialogue: 0,1:04:56.40,1:04:59.64,Main,,0,0,0,,Làm tốt lắm...
-Dialogue: 0,1:05:28.70,1:05:30.17,Main,,0,0,0,,Là vàng đấy!
-Dialogue: 0,1:05:30.64,1:05:33.70,Main,,0,0,0,,Nè! Đây là tài sản của nhà tắm,\Nđừng tự tiện nhặt như vậy!
-Dialogue: 0,1:05:33.70,1:05:37.26,Main,,0,0,0,,Im lặng đi! Khách quý vẫn còn ở đây cơ mà.
-Dialogue: 0,1:05:42.78,1:05:46.09,Main,,0,0,0,,Sen, đang chắn đường khách ra đấy.\NMau bước xuống.
-Dialogue: 0,1:05:46.09,1:05:48.80,Main,,0,0,0,,Mở cửa lớn ra! Tiễn khách quý về!
-Dialogue: 0,1:06:08.39,1:06:11.11,Main,,0,0,0,,Tuyệt vời!
-Dialogue: 0,1:06:15.24,1:06:19.68,Main,,0,0,0,,Sen! Ngươi giỏi lắm,\Nkiếm bộn tiền luôn đấy!
-Dialogue: 0,1:06:20.06,1:06:22.92,Main,,0,0,0,,Vị ấy chính là Thần Sông đầy uy danh.
-Dialogue: 0,1:06:22.92,1:06:24.75,Main,,0,0,0,,Các ngươi cũng phải noi gương Sen đấy.
-Dialogue: 0,1:06:24.75,1:06:27.31,Main,,0,0,0,,Hôm nay ta sẽ đãi rượu.
-Dialogue: 0,1:06:27.45,1:06:30.17,Main,,0,0,0,,Giờ thì mau nộp lại hết vàng\Ncác ngươi đã nhặt.
-Dialogue: 0,1:06:30.17,1:06:34.76,Main,,0,0,0,,Ơ kìa! Không phải chứ! Keo kiệt quá đi!
-Dialogue: 0,1:06:43.88,1:06:46.08,Main,,0,0,0,,Ăn không? Chị thó được đó.
-Dialogue: 0,1:06:46.42,1:06:47.80,Main,,0,0,0,,Cảm ơn chị.
-Dialogue: 0,1:06:47.80,1:06:50.09,Main,,0,0,0,,Hầy, mệt thật chứ.
-Dialogue: 0,1:06:52.56,1:06:54.28,Main,,0,0,0,,Không thấy anh Haku đâu cả.
-Dialogue: 0,1:06:54.28,1:06:56.28,Main,,0,0,0,,Lại nhắc tới Haku nữa à?
-Dialogue: 0,1:06:56.93,1:06:59.60,Main,,0,0,0,,Tên đó thỉnh thoảng lại biến mất mà.
-Dialogue: 0,1:06:59.69,1:07:03.79,Main,,0,0,0,,Chị nghe đồn, hắn luôn làm\Nnhững việc mờ ám theo lệnh của Yubaba.
-Dialogue: 0,1:07:03.79,1:07:06.21,Main,,0,0,0,,- Vậy à...\N- Lin, tôi tắt đèn nhé.
-Dialogue: 0,1:07:06.21,1:07:07.56,Main,,0,0,0,,Ừ.
-Dialogue: 0,1:07:32.39,1:07:35.20,Main,,0,0,0,,Thị trấn kìa, nhìn như biển vậy.
-Dialogue: 0,1:07:35.20,1:07:38.43,Main,,0,0,0,,Đương nhiên. Trời mưa như vậy,\Ncó thể thành đại dương đó.
-Dialogue: 0,1:07:40.10,1:07:44.39,Main,,0,0,0,,Một ngày nào đó chị sẽ sang thị trấn ấy.\NChắc chắn sẽ bỏ việc chỗ này.
-Dialogue: 0,1:08:07.10,1:08:09.83,Main,,0,0,0,,Hửm? Em sao vậy?
-Dialogue: 0,1:08:39.33,1:08:40.95,Main,,0,0,0,,Là vàng!
-Dialogue: 0,1:08:43.75,1:08:45.73,Main,,0,0,0,,Ông là ai?
-Dialogue: 0,1:08:45.73,1:08:48.90,Main,,0,0,0,,Ông đâu phải khách hàng.\NÔng không được bước vào đó!
-Dialogue: 0,1:08:55.01,1:08:58.70,Main,,0,0,0,,Vàng hả, vàng hả? Ông, ông cho tôi sao?
-Dialogue: 0,1:09:03.70,1:09:06.31,Main,,0,0,0,,Ông có thể biến ra vàng sao?
-Dialogue: 0,1:09:11.61,1:09:13.19,Main,,0,0,0,,Đưa cho tôi!
-Dialogue: 0,1:09:20.74,1:09:22.76,Main,,0,0,0,,Ai đấy, sao lại ở đây giờ này?
-Dialogue: 0,1:09:23.54,1:09:26.24,Main,,0,0,0,,Đã qua giờ tắt đèn rồi cơ mà.
-Dialogue: 0,1:09:29.42,1:09:33.90,Main,,0,0,0,,Ông Aniyaku, ta đói bụng quá trời.\NBụng đang sôi lên đây này.
-Dialogue: 0,1:09:33.90,1:09:35.28,Main,,0,0,0,,Giọng nói đó là của...
-Dialogue: 0,1:09:35.28,1:09:37.28,Main,,0,0,0,,Tiền cọc đó. Cầm lấy!
-Dialogue: 0,1:09:37.68,1:09:40.70,Main,,0,0,0,,Ta là khách, ta muốn vào bồn tắm.
-Dialogue: 0,1:09:40.70,1:09:42.41,Main,,0,0,0,,Gọi tất cả dậy nhanh lên!
-Dialogue: 0,1:09:47.60,1:09:51.29,Main,,0,0,0,,Bố ơi, mẹ ơi.\NNgài Thần Sông cho con bánh này.
-Dialogue: 0,1:09:51.29,1:09:54.35,Main,,0,0,0,,Bố mẹ ăn vào\Nsẽ có thể biến lại thành người đó.
-Dialogue: 0,1:09:57.99,1:10:00.23,Main,,0,0,0,,Bố, mẹ, hai người ở đâu?
-Dialogue: 0,1:10:00.41,1:10:01.99,Main,,0,0,0,,Bố ơi!
-Dialogue: 0,1:10:13.13,1:10:14.62,Main,,0,0,0,,Ác mộng thật.
-Dialogue: 0,1:10:15.55,1:10:17.13,Main,,0,0,0,,Chị Lin?
-Dialogue: 0,1:10:20.89,1:10:22.59,Main,,0,0,0,,Không có ai cả.
-Dialogue: 0,1:10:28.98,1:10:32.14,Main,,0,0,0,,Ôi! Đúng là hóa thành biển thật rồi!
-Dialogue: 0,1:10:36.95,1:10:40.27,Main,,0,0,0,,Từ đây có thể thấy được chỗ bố mẹ luôn.
-Dialogue: 0,1:10:43.87,1:10:46.05,Main,,0,0,0,,Ông Kamaji đã đun nước rồi sao?
-Dialogue: 0,1:10:46.05,1:10:48.28,Main,,0,0,0,,Mình ngủ lâu đến thế cơ à?
-Dialogue: 0,1:10:51.25,1:10:54.73,Main,,0,0,0,,Khách quý đang chờ đấy.\NMấy người, không nhanh tay lên được à?
-Dialogue: 0,1:10:54.73,1:10:58.86,Main,,0,0,0,,Mau mau đưa đồ ăn lên,\Nđồ thừa cũng được, đem nhiều vào!
-Dialogue: 0,1:11:00.55,1:11:02.78,Main,,0,0,0,,- Sen!\N- Chị Lin.
-Dialogue: 0,1:11:02.78,1:11:05.82,Main,,0,0,0,,Chị định về phòng gọi em dậy đấy.\NNhìn này!
-Dialogue: 0,1:11:05.82,1:11:08.33,Main,,0,0,0,,Vàng thật đó. Khách cho chị.
-Dialogue: 0,1:11:08.48,1:11:10.83,Main,,0,0,0,,Vị khách mới tới này hào phóng lắm!
-Dialogue: 0,1:11:10.83,1:11:12.79,Main,,0,0,0,,Thưa quý khách! Mời ngài dùng món này ạ!
-Dialogue: 0,1:11:12.79,1:11:16.64,Main,,0,0,0,,Hãy nếm qua món này thưa ngài!
-Dialogue: 0,1:11:18.32,1:11:20.88,Main,,0,0,0,,Ở đây này, hãy ăn và thưởng cho tôi nữa.
-Dialogue: 0,1:11:20.88,1:11:21.92,Main,,0,0,0,,Chỗ này ạ.
-Dialogue: 0,1:11:21.92,1:11:24.99,Main,,0,0,0,,Ta vẫn còn đói lắm.\NMang hết đồ ăn lên đây!
-Dialogue: 0,1:11:29.71,1:11:31.23,Main,,0,0,0,,Vị khách đó...
-Dialogue: 0,1:11:31.38,1:11:33.56,Main,,0,0,0,,Sen cũng vào đi. Yubaba vẫn còn ngủ.
-Dialogue: 0,1:11:33.56,1:11:35.04,Main,,0,0,0,,Cơ hội trời cho đó.
-Dialogue: 0,1:11:35.17,1:11:37.23,Main,,0,0,0,,Em phải đến chỗ ông Kamaji.
-Dialogue: 0,1:11:37.23,1:11:39.94,Main,,0,0,0,,Lúc này em đừng nên đến chỗ ông ấy.
-Dialogue: 0,1:11:39.94,1:11:42.28,Main,,0,0,0,,Ông Kamaji vừa bị gọi dậy nên đang quạu.
-Dialogue: 0,1:11:42.28,1:11:44.59,Main,,0,0,0,,- Lin, vào lần nữa đi.\N- Ừ!
-Dialogue: 0,1:12:09.29,1:12:12.95,Main,,0,0,0,,Nếu mình không nhận ra bố mẹ\Nthì phải làm sao bây giờ?
-Dialogue: 0,1:12:13.42,1:12:16.50,Main,,0,0,0,,Bố béo lên nhiều quá sẽ xấu lắm.
-Dialogue: 0,1:12:44.49,1:12:46.22,Main,,0,0,0,,Con rồng chỗ cây cầu!
-Dialogue: 0,1:12:46.37,1:12:48.03,Main,,0,0,0,,Nó đang đến.
-Dialogue: 0,1:12:50.76,1:12:52.28,Main,,0,0,0,,Gì vậy? Không phải chim.
-Dialogue: 0,1:13:03.34,1:13:06.78,Main,,0,0,0,,Anh Haku! Cố lên anh! Em ở đây!
-Dialogue: 0,1:13:06.78,1:13:07.95,Main,,0,0,0,,Haku?
-Dialogue: 0,1:13:07.95,1:13:09.55,Main,,0,0,0,,Anh Haku!
-Dialogue: 0,1:13:12.77,1:13:14.37,Main,,0,0,0,,Ối!
-Dialogue: 0,1:13:27.32,1:13:29.99,Main,,0,0,0,,Chỉ là giấy thôi mà.
-Dialogue: 0,1:13:57.98,1:14:00.52,Main,,0,0,0,,Là anh Haku phải không?
-Dialogue: 0,1:14:06.49,1:14:07.80,Main,,0,0,0,,Anh bị thương rồi à?
-Dialogue: 0,1:14:07.80,1:14:11.34,Main,,0,0,0,,Đàn chim giấy kia đã bay đi rồi.\NỔn hết cả rồi anh.
-Dialogue: 0,1:14:24.27,1:14:26.27,Main,,0,0,0,,Anh ấy đến chỗ của Yubaba à.
-Dialogue: 0,1:14:26.43,1:14:29.32,Main,,0,0,0,,Làm sao đây. Anh Haku sẽ chết mất.
-Dialogue: 0,1:14:36.81,1:14:41.39,Main,,0,0,0,,{\i1}Được rồi, mau chào đón quý ngài hào phóng{\i0}
-Dialogue: 0,1:14:41.57,1:14:45.92,Main,,0,0,0,,{\i1}Người vĩ đại nhất thế gian này{\i0}\N{\i1}Mau chào đón ngài{\i0}
-Dialogue: 0,1:14:46.74,1:14:48.96,Main,,0,0,0,,Chào mừng quý khách.
-Dialogue: 0,1:14:48.96,1:14:52.01,Main,,0,0,0,,{\i1}Xin ngài ban phúc, xin ngài ban phúc{\i0}
-Dialogue: 0,1:14:52.01,1:14:54.18,Main,,0,0,0,,{\i1}Thưa ngài{\i0}\N{\i1}Xin hãy thưởng lộc cho chúng tôi{\i0}
-Dialogue: 0,1:14:54.18,1:14:56.05,Main,,0,0,0,,- Thưa ngài!\N- {\i1}Xin ngài ban phúc{\i0}
-Dialogue: 0,1:14:56.05,1:14:57.56,Main,,0,0,0,,{\i1}Cầu xin ngài!{\i0}
-Dialogue: 0,1:14:57.56,1:14:59.47,Main,,0,0,0,,- Ngài đến kìa.\N- Lần này phải xin được.
-Dialogue: 0,1:14:59.47,1:15:01.44,Main,,0,0,0,,Ngài ấy có thể tạo ra vàng từ tay đấy.
-Dialogue: 0,1:15:02.00,1:15:05.61,Main,,0,0,0,,Xin ngài hãy ghé sang đây nữa ạ!
-Dialogue: 0,1:15:09.18,1:15:10.82,Main,,0,0,0,,Này, mày làm gì thế?
-Dialogue: 0,1:15:10.82,1:15:11.82,Main,,0,0,0,,Cháu muốn đi lên.
-Dialogue: 0,1:15:11.82,1:15:13.51,Main,,0,0,0,,Không được!
-Dialogue: 0,1:15:14.56,1:15:15.95,Main,,0,0,0,,Á! Là máu...
-Dialogue: 0,1:15:19.77,1:15:22.12,Main,,0,0,0,,Tránh ra. Đây là lối dành cho khách.
-Dialogue: 0,1:15:23.40,1:15:25.71,Main,,0,0,0,,Lúc trước, cảm ơn ngài đã giúp tôi.
-Dialogue: 0,1:15:25.71,1:15:27.94,Main,,0,0,0,,Mày làm gì thế? Mau tránh...
-Dialogue: 0,1:15:50.09,1:15:51.90,Main,,0,0,0,,Tôi không muốn, không cần.
-Dialogue: 0,1:15:54.68,1:15:57.34,Main,,0,0,0,,Tôi đang có việc gấp, xin phép ngài!
-Dialogue: 0,1:16:08.32,1:16:11.67,Main,,0,0,0,,Này, đừng hỗn loạn! Mau trật tự đi!
-Dialogue: 0,1:16:12.11,1:16:13.94,Main,,0,0,0,,Mau lui lại!
-Dialogue: 0,1:16:14.28,1:16:16.55,Main,,0,0,0,,Xin lỗi vì đã thất lễ với ngài.
-Dialogue: 0,1:16:16.55,1:16:20.16,Main,,0,0,0,,Con bé đó là con người,\Nlại vừa mới tới, mong ngài bỏ qua.
-Dialogue: 0,1:16:22.46,1:16:24.35,Main,,0,0,0,,Vì sao ngươi lại cười?
-Dialogue: 0,1:16:24.35,1:16:25.56,Main,,0,0,0,,Ngươi đã cười?
-Dialogue: 0,1:16:25.56,1:16:26.91,Main,,0,0,0,,Dạ, tôi nào dám.
-Dialogue: 0,1:16:31.48,1:16:34.24,Main,,0,0,0,,Họ bị ăn rồi!
-Dialogue: 0,1:18:00.82,1:18:02.42,Main,,0,0,0,,Là Yubaba.
-Dialogue: 0,1:19:14.75,1:19:17.83,Main,,0,0,0,,Đây đúng là chuyện lớn mà.
-Dialogue: 0,1:19:18.43,1:19:22.74,Main,,0,0,0,,Đấy chính là Vô Diện. Phải, là Vô Diện đó!
-Dialogue: 0,1:19:22.89,1:19:25.95,Main,,0,0,0,,Lòng tham đã thu hút\Ntên khách quái dị ấy đến đây.
-Dialogue: 0,1:19:26.10,1:19:29.55,Main,,0,0,0,,Ta sẽ đến đó,\Nđừng tự ý làm gì cả kẻo hỏng việc!
-Dialogue: 0,1:19:30.10,1:19:32.79,Main,,0,0,0,,Trời ạ, bẩn hết cả thảm rồi.
-Dialogue: 0,1:19:32.79,1:19:34.92,Main,,0,0,0,,Bọn bây, dọn dẹp Haku đi.
-Dialogue: 0,1:19:34.92,1:19:37.04,Main,,0,0,0,,Nó chẳng còn giá trị nữa rồi.
-Dialogue: 0,1:19:53.85,1:19:55.66,Main,,0,0,0,,Ú òa!
-Dialogue: 0,1:19:59.26,1:20:02.59,Main,,0,0,0,,Thật là, bé Boh lại không ngủ\Ntrên giường rồi.
-Dialogue: 0,1:20:06.39,1:20:10.70,Main,,0,0,0,,A trời, xin lỗi con yêu.\NCon đang ngủ yên mà lại phá con như vậy.
-Dialogue: 0,1:20:10.70,1:20:13.60,Main,,0,0,0,,Baba vẫn còn việc phải làm.
-Dialogue: 0,1:20:16.40,1:20:19.31,Main,,0,0,0,,Con hãy ngủ ngoan nhé.
-Dialogue: 0,1:20:47.14,1:20:49.56,Main,,0,0,0,,Đau quá! Thả chị ra!
-Dialogue: 0,1:20:49.56,1:20:51.83,Main,,0,0,0,,A! Cảm ơn em đã cứu chị.
-Dialogue: 0,1:20:51.83,1:20:55.21,Main,,0,0,0,,Chị đang vội lắm, em bỏ tay ra nhé?
-Dialogue: 0,1:20:55.21,1:20:57.86,Main,,0,0,0,,Chị là mầm bệnh đấy à?
-Dialogue: 0,1:20:57.86,1:21:00.69,Main,,0,0,0,,Ở bên ngoài chỉ toàn là vi khuẩn\Ngây bệnh thôi.
-Dialogue: 0,1:21:01.32,1:21:05.44,Main,,0,0,0,,Chị là con người, tuy ở thế giới này\Nem sẽ hiếm gặp ai như chị.
-Dialogue: 0,1:21:05.53,1:21:08.01,Main,,0,0,0,,Ra ngoài sẽ làm hại cơ thể đó.
-Dialogue: 0,1:21:08.01,1:21:10.20,Main,,0,0,0,,Ở lại chơi với Boh đi.
-Dialogue: 0,1:21:10.22,1:21:11.97,Main,,0,0,0,,Em bị bệnh sao?
-Dialogue: 0,1:21:11.97,1:21:14.93,Main,,0,0,0,,Chỉ cần ra ngoài là sẽ mắc bệnh,\Nnên em luôn ở đây.
-Dialogue: 0,1:21:14.93,1:21:17.42,Main,,0,0,0,,Ở mãi trong đây mới dễ bị ốm đấy!
-Dialogue: 0,1:21:17.42,1:21:21.40,Main,,0,0,0,,Nghe này, một người rất quan trọng\Nđối với chị đang bị thương nặng.
-Dialogue: 0,1:21:21.40,1:21:23.15,Main,,0,0,0,,Vậy nên chị phải đến bên anh ấy ngay.
-Dialogue: 0,1:21:23.15,1:21:24.61,Main,,0,0,0,,Xin em bỏ tay ra đi.
-Dialogue: 0,1:21:24.76,1:21:26.44,Main,,0,0,0,,Chị mà đi là em khóc đó.
-Dialogue: 0,1:21:26.44,1:21:30.12,Main,,0,0,0,,Boh mà khóc là Baba sẽ đến ngay\Nrồi giết chị đó.
-Dialogue: 0,1:21:30.12,1:21:31.66,Main,,0,0,0,,Em sẽ bẻ tay chị đấy.
-Dialogue: 0,1:21:31.66,1:21:33.16,Main,,0,0,0,,Đau, đau quá!
-Dialogue: 0,1:21:33.16,1:21:35.75,Main,,0,0,0,,Nghe chị nhé? Chị sẽ quay lại\Nvà chơi với em sau.
-Dialogue: 0,1:21:35.90,1:21:37.50,Main,,0,0,0,,Không! Chơi ngay giờ cơ!
-Dialogue: 0,1:21:41.50,1:21:43.56,Main,,0,0,0,,Máu! Em thấy không? Máu đấy!
-Dialogue: 0,1:21:55.04,1:21:56.98,Main,,0,0,0,,Anh Haku!
-Dialogue: 0,1:21:56.98,1:21:59.10,Main,,0,0,0,,Làm gì vậy? Mau sang kia, xùy xùy!
-Dialogue: 0,1:21:59.10,1:22:01.75,Main,,0,0,0,,Haku? Anh Haku phải không? Cố lên anh.
-Dialogue: 0,1:22:02.05,1:22:04.37,Main,,0,0,0,,Mấy ông im lặng đi! Anh Haku!
-Dialogue: 0,1:22:10.14,1:22:11.71,Main,,0,0,0,,Mau biến đi chỗ khác!
-Dialogue: 0,1:22:13.60,1:22:15.43,Main,,0,0,0,,Không được làm vậy!
-Dialogue: 0,1:22:30.37,1:22:32.22,Main,,0,0,0,,Em không sợ máu đâu.
-Dialogue: 0,1:22:32.22,1:22:34.22,Main,,0,0,0,,Chị không chơi cùng là em khóc đấy.
-Dialogue: 0,1:22:34.22,1:22:36.22,Main,,0,0,0,,Đợi chị chút nhé! Em là bé ngoan mà!
-Dialogue: 0,1:22:36.22,1:22:39.83,Main,,0,0,0,,Không chơi cùng thì Boh sẽ khóc đó.
-Dialogue: 0,1:22:41.63,1:22:43.02,Main,,0,0,0,,Xin em đấy, đợi tí.
-Dialogue: 0,1:22:43.02,1:22:46.44,Main,,0,0,0,,Ồn ào thật. Im lặng đi nào.
-Dialogue: 0,1:22:47.47,1:22:50.38,Main,,0,0,0,,Mày có vẻ béo quá rồi đấy.
-Dialogue: 0,1:22:57.73,1:23:00.16,Main,,0,0,0,,Quả nhiên cơ thể còn hơi trong suốt.
-Dialogue: 0,1:23:00.16,1:23:01.51,Main,,0,0,0,,Baba.
-Dialogue: 0,1:23:01.61,1:23:05.94,Main,,0,0,0,,Ôi cha ôi cha, mày không phân biệt\Nđược ta và mẹ của mày sao?
-Dialogue: 0,1:23:13.87,1:23:16.93,Main,,0,0,0,,Mày sẽ di chuyển dễ hơn\Ntrong hình dáng đó.
-Dialogue: 0,1:23:16.93,1:23:17.93,Main,,0,0,0,,Để xem nào.
-Dialogue: 0,1:23:18.18,1:23:20.27,Main,,0,0,0,,Nên biến bọn bây thành gì đây?
-Dialogue: 0,1:23:38.06,1:23:40.08,Main,,0,0,0,,Giữ bí mật chuyện này nhé.
-Dialogue: 0,1:23:40.08,1:23:43.18,Main,,0,0,0,,Nếu nói với bất kì ai,\Nta sẽ xé rách miệng ngươi.
-Dialogue: 0,1:23:44.48,1:23:45.92,Main,,0,0,0,,Bà là ai vậy?
-Dialogue: 0,1:23:45.92,1:23:48.46,Main,,0,0,0,,Ta là chị gái song sinh của Yubaba.
-Dialogue: 0,1:23:48.46,1:23:50.59,Main,,0,0,0,,Nhờ có ngươi mà ta có thể\Nchiêm ngưỡng nơi này,
-Dialogue: 0,1:23:50.59,1:23:52.38,Main,,0,0,0,,cũng thú vị đấy.
-Dialogue: 0,1:23:52.38,1:23:54.43,Main,,0,0,0,,Nào, giờ thì giao con rồng đó cho ta.
-Dialogue: 0,1:23:54.58,1:23:57.05,Main,,0,0,0,,Bà định làm gì anh ấy?\NAnh ấy đang bị thương nặng.
-Dialogue: 0,1:23:57.05,1:24:00.56,Main,,0,0,0,,Nó là tay sai của em gái ta,\Nmột con rồng trộm vặt!
-Dialogue: 0,1:24:00.56,1:24:03.69,Main,,0,0,0,,Nó đã lấy trộm con dấu\Nvô cùng quan trọng của ta.
-Dialogue: 0,1:24:03.69,1:24:06.58,Main,,0,0,0,,Anh Haku không làm chuyện vậy đâu.\NAnh ấy hiền lắm!
-Dialogue: 0,1:24:06.56,1:24:10.65,Main,,0,0,0,,Con rồng nào cũng hiền cả.\NBọn chúng hiền lành và đần độn.
-Dialogue: 0,1:24:10.65,1:24:15.32,Main,,0,0,0,,Nó trở thành đệ tử của em gái ta\Nđể có được sức mạnh phép thuật.
-Dialogue: 0,1:24:15.32,1:24:19.58,Main,,0,0,0,,Nó còn non nớt và làm mọi thứ\Nđứa em tham lam của ta yêu cầu.
-Dialogue: 0,1:24:19.58,1:24:21.66,Main,,0,0,0,,Nào, ngươi mau mau tránh ra.
-Dialogue: 0,1:24:21.66,1:24:24.41,Main,,0,0,0,,Dù sao con rồng này cũng hết cứu được rồi.
-Dialogue: 0,1:24:24.41,1:24:27.50,Main,,0,0,0,,Con dấu đó đã được\Nniệm thần chú bảo vệ rồi.
-Dialogue: 0,1:24:27.50,1:24:29.81,Main,,0,0,0,,Ai đánh cắp nó đều phải chết.
-Dialogue: 0,1:24:30.32,1:24:32.02,Main,,0,0,0,,Không được!
-Dialogue: 0,1:24:39.54,1:24:41.93,Main,,0,0,0,,Gì vậy chứ, cái bọn này?
-Dialogue: 0,1:24:41.93,1:24:44.56,Main,,0,0,0,,Nào nào, mau trở về phòng đi.
-Dialogue: 0,1:24:51.93,1:24:54.61,Main,,0,0,0,,Ta đã mất cảnh giác rồi.
-Dialogue: 0,1:24:54.61,1:24:57.32,Main,,0,0,0,,Anh Haku! Ôi không!
-Dialogue: 0,1:25:17.28,1:25:18.76,Main,,0,0,0,,Anh Haku!
-Dialogue: 0,1:25:46.48,1:25:47.96,Main,,0,0,0,,- Sao vậy?\N- Anh Haku!
-Dialogue: 0,1:25:47.96,1:25:49.96,Main,,0,0,0,,Nhóc đợi đã!
-Dialogue: 0,1:25:52.71,1:25:54.21,Main,,0,0,0,,Anh Haku!
-Dialogue: 0,1:25:57.37,1:25:59.23,Main,,0,0,0,,Đau lắm không ạ?
-Dialogue: 0,1:26:02.80,1:26:05.07,Main,,0,0,0,,Trời ơi, nguy kịch quá.
-Dialogue: 0,1:26:06.75,1:26:10.19,Main,,0,0,0,,Anh ơi! Cố lên!\NLàm sao đây ông, anh ấy chết mất!
-Dialogue: 0,1:26:10.34,1:26:13.48,Main,,0,0,0,,Trong cơ thể thằng bé có thứ\Nđang cắn nuốt sinh mệnh nó.
-Dialogue: 0,1:26:13.48,1:26:14.65,Main,,0,0,0,,Trong cơ thể ạ?
-Dialogue: 0,1:26:14.65,1:26:18.07,Main,,0,0,0,,Phép thuật mạnh quá.\NLão không thể giúp gì được.
-Dialogue: 0,1:26:18.22,1:26:21.66,Main,,0,0,0,,Haku, Thần Sông đã cho em cái này.\NLà bánh Dango đấy.
-Dialogue: 0,1:26:21.66,1:26:23.93,Main,,0,0,0,,Có lẽ sẽ hóa giải được phép, ăn đi anh.
-Dialogue: 0,1:26:25.95,1:26:28.45,Main,,0,0,0,,Anh Haku, mở miệng ra đi anh!
-Dialogue: 0,1:26:28.45,1:26:31.27,Main,,0,0,0,,Em xin anh đấy. Mau ăn đi!
-Dialogue: 0,1:26:32.78,1:26:34.84,Main,,0,0,0,,Anh xem, không sao cả.
-Dialogue: 0,1:26:34.99,1:26:37.21,Main,,0,0,0,,Là linh dược Dango sao?
-Dialogue: 0,1:26:37.21,1:26:40.51,Main,,0,0,0,,Mở miệng ra đi, ngoan nào anh.
-Dialogue: 0,1:26:44.12,1:26:45.74,Main,,0,0,0,,Không sao đâu.
-Dialogue: 0,1:26:45.91,1:26:47.52,Main,,0,0,0,,Nuốt xuống đi!
-Dialogue: 0,1:27:05.87,1:27:07.37,Main,,0,0,0,,Ra rồi! Là nó đấy!
-Dialogue: 0,1:27:19.46,1:27:21.30,Main,,0,0,0,,Con dấu!
-Dialogue: 0,1:27:21.30,1:27:23.30,Main,,0,0,0,,Nó trốn kìa. Ở kia, ở kia! Bắt lấy nó!
-Dialogue: 0,1:27:42.72,1:27:45.70,Main,,0,0,0,,Sen, mau cắt điềm xui!
-Dialogue: 0,1:27:49.60,1:27:50.79,Main,,0,0,0,,Cắt được rồi!
-Dialogue: 0,1:27:50.79,1:27:53.71,Main,,0,0,0,,Ông ơi, đây là con dấu của chị gái Yubaba.
-Dialogue: 0,1:27:53.86,1:27:56.71,Main,,0,0,0,,Của Zeniba à?\NVậy là con dấu hợp đồng của phù thủy?
-Dialogue: 0,1:27:56.86,1:27:58.85,Main,,0,0,0,,Vật này giá trị lắm đấy...
-Dialogue: 0,1:28:01.61,1:28:05.68,Main,,0,0,0,,A, đúng là anh Haku rồi.\NÔng ơi, là anh Haku đấy ạ.
-Dialogue: 0,1:28:07.41,1:28:10.31,Main,,0,0,0,,Anh Haku? Haku, anh Haku!
-Dialogue: 0,1:28:12.46,1:28:14.60,Main,,0,0,0,,Ông ơi! Anh Haku không còn thở nữa!
-Dialogue: 0,1:28:14.60,1:28:16.06,Main,,0,0,0,,Nó còn yếu lắm,
-Dialogue: 0,1:28:16.06,1:28:18.33,Main,,0,0,0,,không thể xem thường\Nvết thương do phép thuật được.
-Dialogue: 0,1:28:27.43,1:28:30.76,Main,,0,0,0,,Cứ để nó nghỉ ngơi một lúc.
-Dialogue: 0,1:28:32.81,1:28:37.92,Main,,0,0,0,,Haku hồi đó cũng đột nhiên xuất hiện\Nở đây hệt như nhóc vậy đó, Sen.
-Dialogue: 0,1:28:37.92,1:28:40.90,Main,,0,0,0,,Nó bảo nó muốn học phép thuật.
-Dialogue: 0,1:28:40.95,1:28:43.13,Main,,0,0,0,,Lão đã phản đối.
-Dialogue: 0,1:28:43.13,1:28:46.91,Main,,0,0,0,,Lão đã bảo nếu theo học phù thủy,\Ncái giá phải trả lớn lắm.
-Dialogue: 0,1:28:46.91,1:28:49.45,Main,,0,0,0,,Nhưng thằng bé này không nghe lời.
-Dialogue: 0,1:28:49.83,1:28:51.81,Main,,0,0,0,,Nó bảo nó chẳng còn nơi để về.
-Dialogue: 0,1:28:51.81,1:28:55.49,Main,,0,0,0,,Cuối cùng, nó cũng trở thành\Nđệ tử của Yubaba.
-Dialogue: 0,1:28:55.67,1:28:59.11,Main,,0,0,0,,Dần dần, gương mặt nó trở nên tiều tụy.
-Dialogue: 0,1:28:59.11,1:29:02.08,Main,,0,0,0,,Mắt thì ngày càng giá lạnh và đáng sợ.
-Dialogue: 0,1:29:04.07,1:29:08.07,Main,,0,0,0,,Ông Kamaji, cháu sẽ đem trả\Ncon dấu này cho chị của Yubaba.
-Dialogue: 0,1:29:08.07,1:29:11.87,Main,,0,0,0,,Cháu sẽ trả nó và xin lỗi,\Nrồi nhờ bà ấy cứu anh Haku.
-Dialogue: 0,1:29:11.87,1:29:13.93,Main,,0,0,0,,Hãy chỉ cho cháu nơi bà ấy ở.
-Dialogue: 0,1:29:14.19,1:29:16.68,Main,,0,0,0,,Nhóc định đến chỗ của Zeniba à?
-Dialogue: 0,1:29:16.86,1:29:19.96,Main,,0,0,0,,- Mụ phù thủy ấy dễ sợ lắm đó.\N- Làm ơn ạ.
-Dialogue: 0,1:29:20.11,1:29:22.38,Main,,0,0,0,,Anh Haku đã cứu cháu.
-Dialogue: 0,1:29:22.38,1:29:24.21,Main,,0,0,0,,Vậy nên, cháu cũng muốn cứu anh ấy!
-Dialogue: 0,1:29:25.66,1:29:27.30,Main,,0,0,0,,Đi thì cũng được thôi,
-Dialogue: 0,1:29:27.30,1:29:30.95,Main,,0,0,0,,nhưng chẳng biết có quay về được không ấy.
-Dialogue: 0,1:29:31.29,1:29:33.03,Main,,0,0,0,,Đợi lão một chốc.
-Dialogue: 0,1:29:35.46,1:29:38.98,Main,,0,0,0,,Lão nhớ đã để nó ở đây...
-Dialogue: 0,1:29:39.38,1:29:42.73,Main,,0,0,0,,Các cậu, lấy giúp mình giày\Nvà quần áo nhé!
-Dialogue: 0,1:29:50.81,1:29:54.14,Main,,0,0,0,,Sen! Chị tìm em nãy giờ đấy!
-Dialogue: 0,1:29:56.62,1:29:57.71,Main,,0,0,0,,Chị Lin.
-Dialogue: 0,1:29:57.71,1:30:00.64,Main,,0,0,0,,Haku đấy sao?\NNơi này xảy ra chuyện gì vậy?
-Dialogue: 0,1:30:01.03,1:30:02.60,Main,,0,0,0,,Bọn này là ai?
-Dialogue: 0,1:30:03.03,1:30:05.63,Main,,0,0,0,,Bạn mới của em ạ, nhỉ?
-Dialogue: 0,1:30:05.78,1:30:09.09,Main,,0,0,0,,Yubaba đang lùng sục khắp nơi\Nđể tìm em đấy!
-Dialogue: 0,1:30:09.09,1:30:12.89,Main,,0,0,0,,Vị khách quý tưởng chừng hào phóng kia\Nhóa ra lại là quái vật Vô Diện.
-Dialogue: 0,1:30:13.04,1:30:15.28,Main,,0,0,0,,Yubaba bảo em đã dẫn hắn vào đây.
-Dialogue: 0,1:30:18.88,1:30:20.44,Main,,0,0,0,,Có lẽ vậy thật ạ.
-Dialogue: 0,1:30:20.44,1:30:22.61,Main,,0,0,0,,Gì chứ? Em nói thật đấy à?
-Dialogue: 0,1:30:22.61,1:30:24.40,Main,,0,0,0,,Vì em nghĩ đấy là khách hàng...
-Dialogue: 0,1:30:24.40,1:30:27.69,Main,,0,0,0,,Làm sao bây giờ, hắn ta\Nđã ăn trọn ba người rồi đấy.
-Dialogue: 0,1:30:27.69,1:30:31.13,Main,,0,0,0,,Có rồi, tìm ra rồi. Sen, lão tìm thấy rồi!
-Dialogue: 0,1:30:31.41,1:30:33.20,Main,,0,0,0,,Ông ơi, bọn cháu đang bận lắm.
-Dialogue: 0,1:30:33.20,1:30:34.41,Main,,0,0,0,,Nhóc có thể dùng nó.
-Dialogue: 0,1:30:34.41,1:30:35.89,Main,,0,0,0,,{\an8}VÉ TÀU
-Dialogue: 0,1:30:35.91,1:30:39.21,Main,,0,0,0,,Ồ, là vé tàu cơ à?\NÔng lấy đâu ra thứ này thế?
-Dialogue: 0,1:30:39.21,1:30:41.75,Main,,0,0,0,,Đây là tấm vé còn sót lại\Ntừ 40 năm về trước.
-Dialogue: 0,1:30:41.75,1:30:45.54,Main,,0,0,0,,Nghe đây, nhóc hãy đi bằng tàu\Nđến ga Đáy Đầm Lầy ở trạm dừng thứ sáu.
-Dialogue: 0,1:30:45.70,1:30:46.92,Main,,0,0,0,,Đáy Đầm Lầy ạ?
-Dialogue: 0,1:30:46.92,1:30:48.92,Main,,0,0,0,,Ừ, cứ nhớ trạm dừng thứ sáu là được.
-Dialogue: 0,1:30:48.92,1:30:50.30,Main,,0,0,0,,Trạm thứ sáu.
-Dialogue: 0,1:30:50.30,1:30:51.80,Main,,0,0,0,,Đừng nhầm nhé.
-Dialogue: 0,1:30:51.80,1:30:56.01,Main,,0,0,0,,Ngày xưa sẽ có chuyến tàu quay lại,\Nnhưng giờ phải đi một chiều.
-Dialogue: 0,1:30:56.01,1:30:57.81,Main,,0,0,0,,Dù vậy nhóc vẫn muốn đi sao?
-Dialogue: 0,1:30:57.81,1:31:01.12,Main,,0,0,0,,Vâng. Cháu sẽ đi bộ dọc đường ray\Nđể trở lại.
-Dialogue: 0,1:31:02.63,1:31:04.52,Main,,0,0,0,,Phía Yubaba em tính sao?
-Dialogue: 0,1:31:04.52,1:31:06.12,Main,,0,0,0,,Giờ em sẽ đến đó.
-Dialogue: 0,1:31:06.76,1:31:10.61,Main,,0,0,0,,Haku, em chắc chắn sẽ quay lại.\NAnh không được chết đâu đấy!
-Dialogue: 0,1:31:11.01,1:31:12.88,Main,,0,0,0,,Chuyện gì vậy ông?
-Dialogue: 0,1:31:13.18,1:31:15.93,Main,,0,0,0,,Cháu không hiểu à?Tình yêu, tình yêu đó!
-Dialogue: 0,1:31:23.57,1:31:25.79,Main,,0,0,0,,Hắn càng ngày càng to lên.
-Dialogue: 0,1:31:25.79,1:31:27.84,Main,,0,0,0,,- Ôi!\N- Tôi không muốn bị ăn thịt!
-Dialogue: 0,1:31:27.84,1:31:29.31,Main,,0,0,0,,Tới rồi.
-Dialogue: 0,1:31:36.29,1:31:40.57,Main,,0,0,0,,Sen à, cảm ơn trời.\NYubaba không thể ngăn hắn nữa rồi.
-Dialogue: 0,1:31:43.42,1:31:47.21,Main,,0,0,0,,Đừng nổi cơn thịnh nộ như thế.\NSen sẽ đến ngay thôi.
-Dialogue: 0,1:31:47.51,1:31:50.28,Main,,0,0,0,,Sen đâu rồi? Mau cho gọi Sen!
-Dialogue: 0,1:31:50.43,1:31:52.17,Main,,0,0,0,,Vào đó mau lên!
-Dialogue: 0,1:31:57.35,1:31:59.45,Main,,0,0,0,,Thưa bà Yubaba, Sen đến rồi.
-Dialogue: 0,1:31:59.45,1:32:00.90,Main,,0,0,0,,Chậm chạp quá!
-Dialogue: 0,1:32:00.90,1:32:03.29,Main,,0,0,0,,Thưa quý khách, Sen đã đến.
-Dialogue: 0,1:32:03.29,1:32:05.68,Main,,0,0,0,,Ngài vui lòng đợi trong chốc lát.
-Dialogue: 0,1:32:06.28,1:32:09.71,Main,,0,0,0,,Sao ngươi lề mề thế?\NCứ như vậy chúng ta sẽ lỗ nặng đấy!
-Dialogue: 0,1:32:09.71,1:32:13.02,Main,,0,0,0,,Mau vào đó dụ dỗ,\Nrồi bòn sạch tiền của hắn cho ta...
-Dialogue: 0,1:32:16.05,1:32:18.49,Main,,0,0,0,,Con chuột bẩn thỉu gì thế này?
-Dialogue: 0,1:32:20.54,1:32:23.14,Main,,0,0,0,,Dạ thưa... bà chủ không biết nó sao?
-Dialogue: 0,1:32:23.14,1:32:26.13,Main,,0,0,0,,Làm sao ta biết nó được chứ? Khiếp thật.
-Dialogue: 0,1:32:26.13,1:32:27.73,Main,,0,0,0,,Vào đó mau.
-Dialogue: 0,1:32:28.96,1:32:31.29,Main,,0,0,0,,Xin hãy thong thả tận hưởng ạ.
-Dialogue: 0,1:32:32.13,1:32:34.68,Main,,0,0,0,,Để Sen một mình có ổn không ạ?
-Dialogue: 0,1:32:34.68,1:32:36.88,Main,,0,0,0,,Ngươi muốn vào thế chỗ à?
-Dialogue: 0,1:32:57.03,1:33:00.53,Main,,0,0,0,,Ăn cái này nhé? Ngon lắm đó.
-Dialogue: 0,1:33:02.04,1:33:03.85,Main,,0,0,0,,Sen muốn có vàng không nào?
-Dialogue: 0,1:33:03.85,1:33:06.79,Main,,0,0,0,,Ta sẽ không cho ai ngoài Sen cả.
-Dialogue: 0,1:33:10.31,1:33:12.37,Main,,0,0,0,,Lại đây nào.
-Dialogue: 0,1:33:12.47,1:33:16.30,Main,,0,0,0,,Sen muốn điều gì nhất? Nói ta nghe xem.
-Dialogue: 0,1:33:16.32,1:33:18.53,Main,,0,0,0,,Cậu tới từ đâu vậy?
-Dialogue: 0,1:33:18.53,1:33:21.08,Main,,0,0,0,,Mình có nơi phải đến ngay bây giờ.
-Dialogue: 0,1:33:23.23,1:33:25.83,Main,,0,0,0,,Cậu nên quay về nhà đi.
-Dialogue: 0,1:33:25.83,1:33:29.08,Main,,0,0,0,,Cậu chắc chắn không tạo ra được\Nđiều mình muốn đâu.
-Dialogue: 0,1:33:30.58,1:33:33.98,Main,,0,0,0,,Nhà cậu ở đâu vậy?\NCậu có bố mẹ mà, phải không?
-Dialogue: 0,1:33:34.57,1:33:37.73,Main,,0,0,0,,Không chịu... Không chịu...
-Dialogue: 0,1:33:38.83,1:33:42.97,Main,,0,0,0,,Ta buồn lắm, cô đơn lắm...
-Dialogue: 0,1:33:43.50,1:33:45.12,Main,,0,0,0,,Cậu không biết ư?
-Dialogue: 0,1:33:45.14,1:33:48.91,Main,,0,0,0,,Ta muốn Sen... muốn có Sen.
-Dialogue: 0,1:33:49.42,1:33:50.81,Main,,0,0,0,,Nhận lấy đi.
-Dialogue: 0,1:33:50.81,1:33:52.52,Main,,0,0,0,,Cậu định ăn mình sao?
-Dialogue: 0,1:33:52.52,1:33:54.44,Main,,0,0,0,,Cầm lấy. Cầm lấy!
-Dialogue: 0,1:34:03.56,1:34:06.41,Main,,0,0,0,,Trước khi ăn mình, cậu hãy ăn cái này đi.
-Dialogue: 0,1:34:06.94,1:34:09.83,Main,,0,0,0,,Thật ra mình muốn đưa nó cho bố mẹ.
-Dialogue: 0,1:34:09.83,1:34:11.35,Main,,0,0,0,,Nhưng tặng cậu đấy.
-Dialogue: 0,1:34:31.55,1:34:33.27,Main,,0,0,0,,Sen...
-Dialogue: 0,1:34:35.51,1:34:39.21,Main,,0,0,0,,Con bé này, cho ta ăn cái gì vậy hả?
-Dialogue: 0,1:34:54.36,1:34:56.09,Main,,0,0,0,,Mọi người tránh ra!
-Dialogue: 0,1:34:57.03,1:34:59.23,Main,,0,0,0,,Dù là khách cũng không bỏ qua.
-Dialogue: 0,1:35:12.29,1:35:13.95,Main,,0,0,0,,Ở bên này!
-Dialogue: 0,1:35:14.34,1:35:15.83,Main,,0,0,0,,Ở đây này!
-Dialogue: 0,1:36:00.47,1:36:02.29,Main,,0,0,0,,Không thể tha thứ.
-Dialogue: 0,1:36:19.78,1:36:22.01,Main,,0,0,0,,Sen! Xuống đây nhanh!
-Dialogue: 0,1:36:38.05,1:36:40.69,Main,,0,0,0,,Tới rồi. Ở đây này!
-Dialogue: 0,1:36:40.69,1:36:42.40,Main,,0,0,0,,Em gọi hắn làm gì chứ?
-Dialogue: 0,1:36:46.06,1:36:49.91,Main,,0,0,0,,Cậu ấy biến chất khi ở trong nhà tắm,\Nphải mau kéo cậu ấy ra khỏi đó.
-Dialogue: 0,1:36:49.91,1:36:52.24,Main,,0,0,0,,Nhưng em định dẫn hắn đi đâu chứ?
-Dialogue: 0,1:36:52.24,1:36:54.76,Main,,0,0,0,,- Em không biết nữa.\N- Không biết sao...
-Dialogue: 0,1:36:54.90,1:36:57.92,Main,,0,0,0,,Ôi chao, hắn theo em kìa.
-Dialogue: 0,1:37:15.17,1:37:17.38,Main,,0,0,0,,- Giờ em đi bộ nhé.\N- Vâng.
-Dialogue: 0,1:37:17.38,1:37:19.30,Main,,0,0,0,,Nhà ga nhìn là biết liền.
-Dialogue: 0,1:37:19.30,1:37:20.83,Main,,0,0,0,,Cảm ơn chị.
-Dialogue: 0,1:37:21.26,1:37:23.15,Main,,0,0,0,,Em phải quay lại đấy!
-Dialogue: 0,1:37:23.15,1:37:24.50,Main,,0,0,0,,Vâng.
-Dialogue: 0,1:37:28.31,1:37:29.70,Main,,0,0,0,,Sen!
-Dialogue: 0,1:37:29.70,1:37:31.07,Main,,0,0,0,,Chị từng bảo em khù khờ,
-Dialogue: 0,1:37:31.07,1:37:33.79,Main,,0,0,0,,nhưng mà cho chị rút lại nhé!
-Dialogue: 0,1:37:41.78,1:37:46.09,Main,,0,0,0,,Vô Diện, ngươi mà làm gì Sen\Nthì không yên với ta đâu!
-Dialogue: 0,1:37:49.12,1:37:50.61,Main,,0,0,0,,Kia rồi.
-Dialogue: 0,1:38:02.01,1:38:04.50,Main,,0,0,0,,Tàu đến rồi, đi thôi.
-Dialogue: 0,1:38:27.74,1:38:30.40,Main,,0,0,0,,Dạ, cho cháu đến Đáy Đầm Lầy ạ.
-Dialogue: 0,1:38:36.62,1:38:38.53,Main,,0,0,0,,Cậu cũng muốn đi tàu ư?
-Dialogue: 0,1:38:39.84,1:38:42.12,Main,,0,0,0,,Dạ, người này đi chung với cháu.
-Dialogue: 0,1:39:22.42,1:39:23.91,Main,,0,0,0,,Lại đây.
-Dialogue: 0,1:39:24.38,1:39:26.50,Main,,0,0,0,,Cậu ngồi ngoan nhé.
-Dialogue: 0,1:41:28.17,1:41:29.58,Main,,0,0,0,,Ông ơi.
-Dialogue: 0,1:41:32.19,1:41:34.86,Main,,0,0,0,,Ồ Haku, cháu tỉnh rồi sao?
-Dialogue: 0,1:41:34.86,1:41:36.55,Main,,0,0,0,,Ông ơi, Sen đâu rồi ạ?
-Dialogue: 0,1:41:36.57,1:41:39.57,Main,,0,0,0,,Có chuyện xảy ra đúng không?\NNói cháu nghe đi ạ.
-Dialogue: 0,1:41:39.57,1:41:42.70,Main,,0,0,0,,Cháu không còn nhớ gì hết sao?
-Dialogue: 0,1:41:42.70,1:41:45.30,Main,,0,0,0,,Kí ức của cháu mờ mịt lắm.
-Dialogue: 0,1:41:45.40,1:41:48.52,Main,,0,0,0,,Khi đang chìm trong u ám,\Ncháu nghe tiếng Chihiro gọi.
-Dialogue: 0,1:41:48.73,1:41:51.00,Main,,0,0,0,,Giọng nói ấy đã dẫn dắt cháu.
-Dialogue: 0,1:41:51.00,1:41:52.96,Main,,0,0,0,,Tỉnh lại thì cháu đã ngủ ở đây.
-Dialogue: 0,1:41:52.96,1:41:58.28,Main,,0,0,0,,Ồ, là Chihiro à.\NTên thật của con bé là Chihiro sao?
-Dialogue: 0,1:41:59.16,1:42:02.35,Main,,0,0,0,,Tuyệt thật đó,\Nđúng là sức mạnh của tình yêu mà.
-Dialogue: 0,1:42:05.83,1:42:09.06,Main,,0,0,0,,Chỉ với số vàng này\Nlàm sao bù được tổn thất chứ.
-Dialogue: 0,1:42:09.06,1:42:12.15,Main,,0,0,0,,Sen, con nhỏ ngu đần đó đã làm\Nhao tổn cả đống tiền.
-Dialogue: 0,1:42:12.30,1:42:16.18,Main,,0,0,0,,Nhưng... nhờ ơn Sen\Nmà chúng tôi được cứu ạ.
-Dialogue: 0,1:42:16.18,1:42:17.57,Main,,0,0,0,,Câm mồm!
-Dialogue: 0,1:42:17.57,1:42:20.07,Main,,0,0,0,,Nên nhớ nó là nguyên nhân\Ncủa mọi chuyện đấy!
-Dialogue: 0,1:42:20.07,1:42:22.62,Main,,0,0,0,,Vậy mà nó lại ích kỉ chạy trốn rồi.
-Dialogue: 0,1:42:22.62,1:42:25.37,Main,,0,0,0,,Con nhãi đó đã bỏ rơi bố mẹ mình.
-Dialogue: 0,1:42:25.81,1:42:27.62,Main,,0,0,0,,Đã đến lúc ăn cặp heo đó chứ nhỉ?
-Dialogue: 0,1:42:27.62,1:42:29.87,Main,,0,0,0,,Mau đem chúng đi ướp muối\Nhay giăm bông đi!
-Dialogue: 0,1:42:29.87,1:42:31.56,Main,,0,0,0,,Bà khoan đã.
-Dialogue: 0,1:42:32.50,1:42:34.04,Main,,0,0,0,,Ngài Haku!
-Dialogue: 0,1:42:34.04,1:42:36.51,Main,,0,0,0,,Gì cơ, ngươi còn sống à?
-Dialogue: 0,1:42:38.70,1:42:42.24,Main,,0,0,0,,Bà vẫn chưa nhận ra ư?\NThứ quan trọng của bà bị hoán đổi rồi.
-Dialogue: 0,1:42:42.26,1:42:45.43,Main,,0,0,0,,Ngươi nói chuyện ngông cuồng quá đấy.
-Dialogue: 0,1:42:45.43,1:42:48.14,Main,,0,0,0,,Ngươi dám ngạo mạn như thế từ bao giờ?
-Dialogue: 0,1:43:39.47,1:43:41.25,Main,,0,0,0,,Boh...
-Dialogue: 0,1:43:45.27,1:43:46.97,Main,,0,0,0,,Trời đất ơi!
-Dialogue: 0,1:43:47.52,1:43:50.50,Main,,0,0,0,,- Boh!\N- Là đất sao?
-Dialogue: 0,1:43:50.65,1:43:53.68,Main,,0,0,0,,Boh!
-Dialogue: 0,1:43:53.73,1:43:57.75,Main,,0,0,0,,Con ở đâu vậy, Boh?
-Dialogue: 0,1:43:58.20,1:44:00.48,Main,,0,0,0,,Ra đây với mẹ đi con.
-Dialogue: 0,1:44:01.20,1:44:02.72,Main,,0,0,0,,Boh!
-Dialogue: 0,1:44:05.55,1:44:08.03,Main,,0,0,0,,Boh?
-Dialogue: 0,1:44:12.64,1:44:16.41,Main,,0,0,0,,Tên khốn kia!
-Dialogue: 0,1:44:18.63,1:44:22.38,Main,,0,0,0,,Nói cho ta!
-Dialogue: 0,1:44:23.22,1:44:27.59,Main,,0,0,0,,Ngươi đã đem Boh của ta đi đâu?
-Dialogue: 0,1:44:27.85,1:44:29.77,Main,,0,0,0,,Nó đến chỗ Zeniba rồi.
-Dialogue: 0,1:44:29.77,1:44:31.72,Main,,0,0,0,,Zeniba?
-Dialogue: 0,1:44:52.75,1:44:56.59,Main,,0,0,0,,Ra thế, là mụ phù thủy xấu xa đó à.
-Dialogue: 0,1:44:56.59,1:44:59.62,Main,,0,0,0,,Mụ ta nghĩ làm vậy\Nlà đã thắng được ta sao?
-Dialogue: 0,1:45:00.92,1:45:03.44,Main,,0,0,0,,Rồi? Ngươi định làm gì?
-Dialogue: 0,1:45:03.44,1:45:05.80,Main,,0,0,0,,Tôi sẽ đến đó mang Boh về.
-Dialogue: 0,1:45:05.89,1:45:10.45,Main,,0,0,0,,Đổi lại, bà hãy thả Sen và bố mẹ của em ấy\Nvề lại thế giới của con người.
-Dialogue: 0,1:45:10.45,1:45:12.97,Main,,0,0,0,,Ngươi không nghĩ tới hậu quả của mình à?
-Dialogue: 0,1:45:12.95,1:45:16.96,Main,,0,0,0,,Trao đổi xong, ta sẽ xé xác ngươi ra\Nthành tám mảnh, nghe rõ chưa?
-Dialogue: 0,1:46:03.65,1:46:05.88,Main,,0,0,0,,Chắc là trạm này rồi.
-Dialogue: 0,1:46:06.45,1:46:07.94,Main,,0,0,0,,Đi thôi.
-Dialogue: 0,1:46:34.56,1:46:36.55,Main,,0,0,0,,Ngồi lên vai chị đi!
-Dialogue: 0,1:47:55.03,1:47:56.55,Main,,0,0,0,,Mau vào đi.
-Dialogue: 0,1:48:01.41,1:48:03.14,Main,,0,0,0,,Cháu xin phép.
-Dialogue: 0,1:48:05.28,1:48:08.06,Main,,0,0,0,,Nếu muốn vào thì nhanh lên nào.
-Dialogue: 0,1:48:08.24,1:48:09.73,Main,,0,0,0,,Lại đây đi.
-Dialogue: 0,1:48:12.82,1:48:15.01,Main,,0,0,0,,Giỏi lắm, tới được đây cơ đấy.
-Dialogue: 0,1:48:15.01,1:48:17.07,Main,,0,0,0,,- Dạ thưa bà...\N- Được rồi, ngồi đi.
-Dialogue: 0,1:48:17.33,1:48:19.86,Main,,0,0,0,,Để ta pha cho mấy đứa tách trà.
-Dialogue: 0,1:48:25.42,1:48:29.86,Main,,0,0,0,,Bà Zeniba, đây là thứ anh Haku đã trộm ạ.\NCháu đến để trả lại nó.
-Dialogue: 0,1:48:32.72,1:48:35.57,Main,,0,0,0,,Nhóc con à,\Ncháu có biết đây là thứ gì không?
-Dialogue: 0,1:48:35.57,1:48:38.87,Main,,0,0,0,,Dạ không,\Nnhưng cháu biết nó rất quan trọng với bà.
-Dialogue: 0,1:48:38.87,1:48:41.16,Main,,0,0,0,,Cháu thay mặt anh Haku đến tạ lỗi ạ.
-Dialogue: 0,1:48:41.16,1:48:42.60,Main,,0,0,0,,Thành thật xin lỗi bà.
-Dialogue: 0,1:48:42.91,1:48:46.58,Main,,0,0,0,,Cháu giữ thứ này mà không bị gì à?
-Dialogue: 0,1:48:46.58,1:48:47.50,Main,,0,0,0,,Sao ạ?
-Dialogue: 0,1:48:47.50,1:48:50.40,Main,,0,0,0,,Ơ kìa? Thần chú bảo vệ biến mất rồi sao?
-Dialogue: 0,1:48:51.28,1:48:52.59,Main,,0,0,0,,Xin lỗi bà,
-Dialogue: 0,1:48:52.59,1:48:56.68,Main,,0,0,0,,cháu đã giẫm bẹp con bọ kì lạ\Nđi cùng con dấu rồi.
-Dialogue: 0,1:48:56.83,1:48:59.32,Main,,0,0,0,,Giẫm bẹp sao?
-Dialogue: 0,1:49:01.25,1:49:04.93,Main,,0,0,0,,Nhóc à, con bọ ấy là thứ em gái song sinh\Ncủa ta lén thả vào người đệ tử
-Dialogue: 0,1:49:04.93,1:49:07.60,Main,,0,0,0,,để điều khiển con rồng ấy đấy.
-Dialogue: 0,1:49:07.60,1:49:09.66,Main,,0,0,0,,Giẫm bẹp nó rồi cơ à!
-Dialogue: 0,1:49:12.65,1:49:14.74,Main,,0,0,0,,Thôi, ngồi xuống nào.
-Dialogue: 0,1:49:14.74,1:49:17.76,Main,,0,0,0,,Ngươi là Vô Diện hả?\NNgươi cũng lại đây ngồi đi.
-Dialogue: 0,1:49:18.52,1:49:22.45,Main,,0,0,0,,A, thưa bà, có thể biến họ\Ntrở lại như cũ không ạ?
-Dialogue: 0,1:49:22.45,1:49:25.62,Main,,0,0,0,,Ô? Phép thuật yểm lên mấy đứa\Nđã hết hiệu nghiệm rồi cơ mà.
-Dialogue: 0,1:49:25.62,1:49:28.14,Main,,0,0,0,,Nếu muốn, hai đứa có thể trở lại như cũ.
-Dialogue: 0,1:49:35.32,1:49:39.34,Main,,0,0,0,,Chị em ta giống nhau như đúc,\Nnhưng lại không hợp nhau.
-Dialogue: 0,1:49:39.34,1:49:41.93,Main,,0,0,0,,Cháu cũng thấy mà, bà ấy rất cay độc.
-Dialogue: 0,1:49:41.93,1:49:45.16,Main,,0,0,0,,Phù thủy song sinh vốn đã phiền phức rồi.
-Dialogue: 0,1:49:49.00,1:49:53.73,Main,,0,0,0,,Dù rất muốn giúp cháu,\Nnhưng ta đành bất lực.
-Dialogue: 0,1:49:53.73,1:49:55.82,Main,,0,0,0,,Đấy là nguyên tắc của thế giới này.
-Dialogue: 0,1:49:55.97,1:49:57.45,Main,,0,0,0,,Cháu phải tự tìm cách cứu bố mẹ
-Dialogue: 0,1:49:57.45,1:50:01.07,Main,,0,0,0,,và cả con rồng bạn trai của cháu thôi.
-Dialogue: 0,1:50:01.07,1:50:04.08,Main,,0,0,0,,Nhưng bà ơi, bà có thể cho cháu\Ngợi ý gì không ạ?
-Dialogue: 0,1:50:04.23,1:50:07.96,Main,,0,0,0,,Cháu có cảm giác đã gặp anh Haku\Ntừ rất lâu về trước.
-Dialogue: 0,1:50:07.96,1:50:10.08,Main,,0,0,0,,Nếu vậy thì đơn giản rồi.
-Dialogue: 0,1:50:10.08,1:50:12.96,Main,,0,0,0,,Chuyện đã gặp qua sẽ không thể quên lãng.
-Dialogue: 0,1:50:12.96,1:50:15.27,Main,,0,0,0,,Chỉ là cháu chưa nhớ ra thôi.
-Dialogue: 0,1:50:16.41,1:50:20.03,Main,,0,0,0,,Mà trời cũng khuya lắm rồi,\Ncháu nghỉ lại đây đi.
-Dialogue: 0,1:50:20.16,1:50:23.15,Main,,0,0,0,,Mấy đứa, theo giúp ta nào.
-Dialogue: 0,1:50:29.09,1:50:31.16,Main,,0,0,0,,Nào, cố gắng lên.
-Dialogue: 0,1:50:34.09,1:50:38.61,Main,,0,0,0,,Đúng rồi, giỏi lắm.\NCó mấy đứa giúp thật tốt quá.
-Dialogue: 0,1:50:39.22,1:50:42.63,Main,,0,0,0,,Làm bằng phép thuật\Nthì đâu còn ý nghĩa gì nữa.
-Dialogue: 0,1:50:43.77,1:50:48.25,Main,,0,0,0,,Móc qua chỗ đó, đúng rồi.\NTiếp tục hai lần như vậy đi.
-Dialogue: 0,1:50:48.25,1:50:51.14,Main,,0,0,0,,Bà ơi, cháu phải về thôi ạ.
-Dialogue: 0,1:50:51.62,1:50:55.38,Main,,0,0,0,,Cháu lo anh Haku sẽ chết\Ntrong lúc cháu ở đây mất.
-Dialogue: 0,1:50:55.38,1:50:58.77,Main,,0,0,0,,Cả bố và mẹ cũng có thể bị ăn thịt nữa.
-Dialogue: 0,1:51:00.99,1:51:03.66,Main,,0,0,0,,Nhóc con, cháu đợi một chốc nữa thôi.
-Dialogue: 0,1:51:03.66,1:51:05.60,Main,,0,0,0,,Đây, xong rồi.
-Dialogue: 0,1:51:06.16,1:51:08.57,Main,,0,0,0,,Hãy dùng nó để buộc tóc nhé.
-Dialogue: 0,1:51:12.34,1:51:14.46,Main,,0,0,0,,Đẹp quá ạ.
-Dialogue: 0,1:51:14.48,1:51:16.02,Main,,0,0,0,,Bùa hộ mệnh đấy.
-Dialogue: 0,1:51:16.02,1:51:19.61,Main,,0,0,0,,Nó được đan thành từ những sợi tơ\Nmà bạn bè cháu đã se ra.
-Dialogue: 0,1:51:19.61,1:51:21.30,Main,,0,0,0,,Cảm ơn bà ạ.
-Dialogue: 0,1:51:30.41,1:51:32.17,Main,,0,0,0,,Đúng lúc thật.
-Dialogue: 0,1:51:32.17,1:51:34.50,Main,,0,0,0,,Chúng ta có khách đấy. Cháu ra đón đi.
-Dialogue: 0,1:51:34.50,1:51:35.73,Main,,0,0,0,,Vâng ạ.
-Dialogue: 0,1:51:48.43,1:51:50.18,Main,,0,0,0,,Anh Haku!
-Dialogue: 0,1:51:51.17,1:51:52.66,Main,,0,0,0,,Anh Haku!
-Dialogue: 0,1:51:53.06,1:51:54.91,Main,,0,0,0,,Ôi, tốt quá rồi.
-Dialogue: 0,1:51:55.13,1:51:59.07,Main,,0,0,0,,Vết thương sao rồi anh? Anh ổn rồi à?\NEm mừng quá.
-Dialogue: 0,1:51:59.51,1:52:03.00,Main,,0,0,0,,Cậu đến đúng lúc lắm.
-Dialogue: 0,1:52:03.57,1:52:06.13,Main,,0,0,0,,Bà ơi, anh Haku sống rồi ạ.
-Dialogue: 0,1:52:06.60,1:52:11.04,Main,,0,0,0,,Rồng Haku, ta không còn để bụng\Nnhững gì cậu đã làm đâu.
-Dialogue: 0,1:52:11.04,1:52:14.46,Main,,0,0,0,,Đổi lại, cậu phải bảo vệ\Ncô bé này thật cẩn thận đấy.
-Dialogue: 0,1:52:14.61,1:52:17.79,Main,,0,0,0,,Được rồi, Boh, đến giờ về rồi.
-Dialogue: 0,1:52:17.79,1:52:19.77,Main,,0,0,0,,Lần sau lại ghé chơi nhé.
-Dialogue: 0,1:52:20.41,1:52:24.78,Main,,0,0,0,,Ngươi ở lại đây đi.\NTa cần ngươi giúp nhiều việc đấy.
-Dialogue: 0,1:52:27.29,1:52:28.97,Main,,0,0,0,,Bà ơi.
-Dialogue: 0,1:52:28.97,1:52:31.22,Main,,0,0,0,,Cảm ơn bà, cháu đi đây ạ.
-Dialogue: 0,1:52:31.22,1:52:34.39,Main,,0,0,0,,Đừng lo lắng.\NCháu có thể vượt qua mọi chuyện.
-Dialogue: 0,1:52:34.39,1:52:37.81,Main,,0,0,0,,Tên thật của cháu là Chihiro ạ.
-Dialogue: 0,1:52:37.81,1:52:40.44,Main,,0,0,0,,Chihiro, cái tên đẹp quá.
-Dialogue: 0,1:52:40.44,1:52:43.28,Main,,0,0,0,,- Hãy trân trọng tên của mình nhé.\N- Vâng ạ.
-Dialogue: 0,1:52:43.28,1:52:45.17,Main,,0,0,0,,- Rồi, cháu đi đi.\N- Vâng.
-Dialogue: 0,1:52:46.64,1:52:50.01,Main,,0,0,0,,Bà ơi, cảm ơn bà nhiều lắm. Tạm biệt bà.
-Dialogue: 0,1:53:38.61,1:53:40.53,Main,,0,0,0,,Haku, anh nghe này.
-Dialogue: 0,1:53:40.53,1:53:44.48,Main,,0,0,0,,Tuy em không nhớ rõ,\Nnhưng mẹ đã kể em nghe một chuyện.
-Dialogue: 0,1:53:44.46,1:53:48.47,Main,,0,0,0,,Khi còn nhỏ,\Nem đã từng ngã xuống sông đấy.
-Dialogue: 0,1:53:48.62,1:53:52.66,Main,,0,0,0,,Mẹ bảo dòng sông ấy đã bị lấp mất\Nđể xây chung cư anh ạ.
-Dialogue: 0,1:53:52.71,1:53:55.07,Main,,0,0,0,,Vậy nhưng, em nhớ ra rồi.
-Dialogue: 0,1:53:55.88,1:53:57.70,Main,,0,0,0,,Tên của con sông...
-Dialogue: 0,1:53:58.25,1:54:01.33,Main,,0,0,0,,Tên nó là sông Kohaku!
-Dialogue: 0,1:54:01.56,1:54:05.33,Main,,0,0,0,,Tên thật của anh\Nđược đặt theo sông Kohaku đấy!
-Dialogue: 0,1:54:26.46,1:54:28.09,Main,,0,0,0,,Chihiro, cảm ơn em.
-Dialogue: 0,1:54:28.09,1:54:31.47,Main,,0,0,0,,Tên thật của tôi là\NNigihayami Kohaku Nushi.
-Dialogue: 0,1:54:31.62,1:54:33.01,Main,,0,0,0,,Nigihayami?
-Dialogue: 0,1:54:33.01,1:54:35.14,Main,,0,0,0,,Nigihayami Kohaku Nushi.
-Dialogue: 0,1:54:35.14,1:54:37.98,Main,,0,0,0,,Tên hay quá. Nghe như tên một vị Thần vậy.
-Dialogue: 0,1:54:38.13,1:54:39.81,Main,,0,0,0,,Tôi nhớ ra rồi.
-Dialogue: 0,1:54:39.81,1:54:42.65,Main,,0,0,0,,Tôi đã nhớ ra lúc em ngã vào lòng tôi.
-Dialogue: 0,1:54:42.65,1:54:44.57,Main,,0,0,0,,Em đang định nhặt giày.
-Dialogue: 0,1:54:44.57,1:54:49.00,Main,,0,0,0,,Đúng vậy, anh Kohaku đã cứu em,\Nrồi đưa em đến chỗ nước nông.
-Dialogue: 0,1:54:49.85,1:54:51.24,Main,,0,0,0,,Em vui quá!
-Dialogue: 0,1:55:23.84,1:55:25.79,Main,,0,0,0,,Họ về rồi!
-Dialogue: 0,1:55:38.52,1:55:41.68,Main,,0,0,0,,Các ngươi có dẫn theo Boh về không?
-Dialogue: 0,1:55:44.28,1:55:46.42,Main,,0,0,0,,- Baba.\N- Boh!
-Dialogue: 0,1:55:46.42,1:55:50.27,Main,,0,0,0,,Con có bị thương không?\NKhổ thân cho con quá.
-Dialogue: 0,1:55:50.74,1:55:54.14,Main,,0,0,0,,Boh! Con đã có thể tự đứng rồi sao? Hở?
-Dialogue: 0,1:55:54.29,1:55:56.70,Main,,0,0,0,,Yubaba, bà đã hứa rồi.
-Dialogue: 0,1:55:56.70,1:55:59.89,Main,,0,0,0,,Hãy thả Sen và bố mẹ\Nvề lại thế giới của con người.
-Dialogue: 0,1:55:59.89,1:56:02.85,Main,,0,0,0,,Hứ, sao dễ dàng thế được.
-Dialogue: 0,1:56:02.85,1:56:05.87,Main,,0,0,0,,Thế giới này có nguyên tắc của riêng nó.
-Dialogue: 0,1:56:06.55,1:56:07.94,Main,,0,0,0,,Ồn ào quá!
-Dialogue: 0,1:56:07.94,1:56:10.54,Main,,0,0,0,,Baba keo kiệt quá. Hãy thôi ngay đi.
-Dialogue: 0,1:56:10.68,1:56:13.25,Main,,0,0,0,,Boh thấy vui lắm.
-Dialogue: 0,1:56:13.68,1:56:16.70,Main,,0,0,0,,Nhưng đây là nguyên tắc mà con.
-Dialogue: 0,1:56:16.70,1:56:19.14,Main,,0,0,0,,Không làm theo thì sẽ không thể\Nphá bỏ lời nguyền.
-Dialogue: 0,1:56:19.16,1:56:22.54,Main,,0,0,0,,Nếu mẹ làm chị Sen khóc,\Ncon sẽ ghét mẹ đấy.
-Dialogue: 0,1:56:22.69,1:56:25.42,Main,,0,0,0,,- Con, con ơi...\N- Bà ơi.
-Dialogue: 0,1:56:25.42,1:56:27.06,Main,,0,0,0,,"Bà ơi" sao?
-Dialogue: 0,1:56:27.04,1:56:29.15,Main,,0,0,0,,Giờ cháu sẽ sang đó.
-Dialogue: 0,1:56:40.67,1:56:43.10,Main,,0,0,0,,Anh Haku đã nói luật cho cháu nghe ạ.
-Dialogue: 0,1:56:43.10,1:56:45.06,Main,,0,0,0,,Hừm, ngươi cũng can đảm đấy.
-Dialogue: 0,1:56:45.06,1:56:48.44,Main,,0,0,0,,Đây là bản hợp đồng của ngươi. Đi theo ta.
-Dialogue: 0,1:56:48.44,1:56:50.71,Main,,0,0,0,,Boh, mọi chuyện sẽ xong nhanh thôi
-Dialogue: 0,1:56:51.43,1:56:53.21,Main,,0,0,0,,Chị sẽ ổn thôi.
-Dialogue: 0,1:56:57.39,1:57:01.39,Main,,0,0,0,,Ngươi phải tìm ra bố mẹ của mình\Ntrong đàn heo này.
-Dialogue: 0,1:57:10.57,1:57:12.21,Main,,0,0,0,,Chỉ có một cơ hội thôi.
-Dialogue: 0,1:57:12.21,1:57:14.94,Main,,0,0,0,,Nếu đoán trúng, các ngươi sẽ được tự do.
-Dialogue: 0,1:57:26.54,1:57:30.44,Main,,0,0,0,,Bà ơi, không ổn rồi.\NBố mẹ cháu không có ở đây.
-Dialogue: 0,1:57:30.59,1:57:34.19,Main,,0,0,0,,Không có sao?\NĐấy là câu trả lời của ngươi à?
-Dialogue: 0,1:57:35.47,1:57:37.13,Main,,0,0,0,,Vâng.
-Dialogue: 0,1:57:39.43,1:57:42.87,Main,,0,0,0,,- Đoán trúng rồi!\N- Đoán trúng rồi!
-Dialogue: 0,1:57:43.02,1:57:45.47,Main,,0,0,0,,- Hay lắm!\N- Em làm được rồi!
-Dialogue: 0,1:57:49.15,1:57:50.67,Main,,0,0,0,,Cảm ơn mọi người ạ.
-Dialogue: 0,1:57:50.67,1:57:54.02,Main,,0,0,0,,Đi đi, ngươi thắng rồi.\NMau đi cho khuất mắt ta.
-Dialogue: 0,1:57:54.28,1:57:56.19,Main,,0,0,0,,Cảm ơn bà nhiều ạ.
-Dialogue: 0,1:57:56.74,1:57:58.19,Main,,0,0,0,,Tạm biệt bà.
-Dialogue: 0,1:57:59.04,1:58:01.45,Main,,0,0,0,,- Cảm ơn mọi người.\N- Hẹn gặp lại!
-Dialogue: 0,1:58:01.47,1:58:03.53,Main,,0,0,0,,- Anh Haku!\N- Đi thôi.
-Dialogue: 0,1:58:04.04,1:58:06.81,Main,,0,0,0,,- Bố và mẹ em thì sao?\N- Họ đi trước rồi.
-Dialogue: 0,1:58:14.13,1:58:15.61,Main,,0,0,0,,Không có nước.
-Dialogue: 0,1:58:15.61,1:58:17.36,Main,,0,0,0,,Tôi không thể tiễn em xa hơn.
-Dialogue: 0,1:58:17.36,1:58:20.07,Main,,0,0,0,,Cứ đi ngược lại con đường dẫn đến đây.
-Dialogue: 0,1:58:20.07,1:58:23.37,Main,,0,0,0,,Nhưng em không được quay đầu\Nđến khi ra khỏi hầm.
-Dialogue: 0,1:58:23.52,1:58:25.59,Main,,0,0,0,,Anh Haku? Còn anh Haku thì sao?
-Dialogue: 0,1:58:25.90,1:58:28.79,Main,,0,0,0,,Tôi sẽ không làm đệ tử của Yubaba nữa.
-Dialogue: 0,1:58:28.79,1:58:31.48,Main,,0,0,0,,Đừng lo, giờ tôi đã lấy lại được\Ntên thật rồi.
-Dialogue: 0,1:58:31.50,1:58:33.92,Main,,0,0,0,,Tôi cũng sẽ trở lại nơi của mình.
-Dialogue: 0,1:58:33.92,1:58:36.34,Main,,0,0,0,,- Ta sẽ gặp lại nhau chứ?\N- Ừ, tôi hứa với em.
-Dialogue: 0,1:58:36.34,1:58:38.05,Main,,0,0,0,,- Anh hứa rồi nhé.\N- Tôi hứa mà.
-Dialogue: 0,1:58:38.05,1:58:40.40,Main,,0,0,0,,Đi đi. Nhớ đừng quay đầu lại nhé.
-Dialogue: 0,1:59:03.14,1:59:04.99,Main,,0,0,0,,Chihiro.
-Dialogue: 0,1:59:04.99,1:59:08.00,Main,,0,0,0,,Con làm gì vậy? Mau đến đây đi.
-Dialogue: 0,1:59:11.27,1:59:13.33,Main,,0,0,0,,Bố ơi, mẹ ơi.
-Dialogue: 0,1:59:13.33,1:59:15.17,Main,,0,0,0,,Con làm mẹ lo quá. Tự nhiên biến mất.
-Dialogue: 0,1:59:15.17,1:59:16.52,Main,,0,0,0,,Đi thôi.
-Dialogue: 0,1:59:16.82,1:59:19.22,Main,,0,0,0,,Mẹ ơi, mọi thứ ổn chứ ạ?
-Dialogue: 0,1:59:19.22,1:59:23.36,Main,,0,0,0,,Sao? Xe chuyển đồ có khi sẽ\Nđến nhà trước chúng ta luôn đó.
-Dialogue: 0,1:59:32.52,1:59:35.21,Main,,0,0,0,,Chihiro, nhanh lên nào con.
-Dialogue: 0,1:59:43.53,1:59:45.62,Main,,0,0,0,,Đi cẩn thận nhé.
-Dialogue: 0,1:59:45.62,1:59:49.14,Main,,0,0,0,,Chihiro, con đừng níu chặt như vậy.\NMẹ khó đi lắm.
-Dialogue: 0,2:00:01.16,2:00:02.61,Main,,0,0,0,,Lối ra đây.
-Dialogue: 0,2:00:02.95,2:00:04.32,Main,,0,0,0,,Ơ kìa?
-Dialogue: 0,2:00:04.62,2:00:06.18,Main,,0,0,0,,Gì thế anh?
-Dialogue: 0,2:00:06.54,2:00:08.28,Main,,0,0,0,,Kinh khủng quá.
-Dialogue: 0,2:00:09.75,2:00:12.28,Main,,0,0,0,,Ôi trời, ở trong cũng bám đầy bụi.
-Dialogue: 0,2:00:12.33,2:00:14.27,Main,,0,0,0,,- Ai phá mình à?\N- Chắc vậy rồi.
-Dialogue: 0,2:00:14.27,2:00:17.16,Main,,0,0,0,,Vậy nên em mới không muốn đi đường này.
-Dialogue: 0,2:00:22.47,2:00:25.13,Main,,0,0,0,,Được rồi, không sao cả.
-Dialogue: 0,2:00:26.31,2:00:28.43,Main,,0,0,0,,Chihiro, đi thôi con.
-Dialogue: 0,2:00:28.60,2:00:31.39,Main,,0,0,0,,Chihiro! Nhanh nào con.
-Dialogue: 0,2:04:24.96,2:04:27.19,Main,,0,0,0,,HẾT
-Dialogue: 0,2:04:27.19,2:04:29.54,Main,,0,0,0,,Biên dịch: Trâm Trần, Mai Uyên
+Dialogue: 0,0:10:45.37,0:10:47.50,Signs,,0,0,0,,DẦU
+Dialogue: 0,0:10:53.92,0:11:01.56,Signs,,0,0,0,,NHÀ TẮM
+Dialogue: 0,0:11:09.38,0:11:10.62,Main,,0,0,0,,Là tàu kìa!
+Dialogue: 0,0:11:21.43,0:11:23.37,Main,,0,0,0,,Không được ở đây! Mau quay về đi!
+Dialogue: 0,0:11:24.36,0:11:27.08,Main,,0,0,0,,Trời ắp tối rồi!\N Về mau đi kẻo tối bây giờ!
+Dialogue: 0,0:11:27.37,0:11:29.63,Signs,,0,0,0,,NHÀ TẮM
+Dialogue: 0,0:11:29.93,0:11:32.30,Main,,0,0,0,,Họ thắp đèn lên rồi. \NMau!
+Dialogue: 0,0:11:32.30,0:11:34.88,Main,,0,0,0,,Huynh sẽ kéo dài thời gian.\NMuội mau chạy qua sông đi.
+Dialogue: 0,0:11:37.76,0:11:40.51,Signs,,0,0,0,,DẦU
+Dialogue: 0,0:11:48.99,0:11:50.91,Main,,0,0,0,,Anh ta bị sao thế nhở?
+Dialogue: 0,0:11:59.72,0:12:00.95,Main,,0,0,0,,Bố ơi!
+Dialogue: 0,0:12:02.01,0:12:05.45,Main,,0,0,0,,Bố ơi, mình về đi! Về đi mà bố!
+Dialogue: 0,0:12:27.84,0:12:29.66,Main,,0,0,0,,Không!
+Dialogue: 0,0:12:32.10,0:12:35.28,Main,,0,0,0,,Bố ơi! Mẹ ơi!
+Dialogue: 0,0:12:44.51,0:12:46.47,Main,,0,0,0,,Mẹ ơi!
+Dialogue: 0,0:13:08.55,0:13:09.79,Main,,0,0,0,,Ôi nước!
+Dialogue: 0,0:13:23.31,0:13:26.05,Main,,0,0,0,,Không thể nào... Là mơ thôi, mơ thôi!
+Dialogue: 0,0:13:28.72,0:13:31.25,Main,,0,0,0,,Tỉnh lại đi! Tỉnh lại đi!\N Tỉnh lại!
+Dialogue: 0,0:13:32.39,0:13:33.85,Main,,0,0,0,,Tỉnh lại đi mà...
+Dialogue: 0,0:13:39.40,0:13:41.73,Main,,0,0,0,,Đây chỉ là giấc mơ, mơ thôi.
+Dialogue: 0,0:13:42.38,0:13:44.95,Main,,0,0,0,,Tất cả biến đi, mau biến đi!
+Dialogue: 0,0:13:45.35,0:13:46.57,Main,,0,0,0,,Biến đi!
+Dialogue: 0,0:13:54.86,0:13:56.17,Main,,0,0,0,,Trong suốt sao?
+Dialogue: 0,0:13:59.23,0:14:01.38,Main,,0,0,0,,Là mơ thôi! Nhất định là mơ thôi!
+Dialogue: 0,0:14:54.62,0:14:56.73,Main,,0,0,0,,Đừng sợ! \NCó huynh đứng về phía muội mà.
+Dialogue: 0,0:14:57.21,0:14:58.92,Main,,0,0,0,,Không! Không! Không!
+Dialogue: 0,0:14:59.29,0:15:01.05,Main,,0,0,0,,Há miệng ra đi! \NMau ăn cái này đi!
+Dialogue: 0,0:15:01.42,0:15:04.13,Main,,0,0,0,,Muội mà không ăn đồ của thế giới này,\N là bị biến mất đấy.
+Dialogue: 0,0:15:04.13,0:15:04.72,Main,,0,0,0,,Không!
+Dialogue: 0,0:15:09.51,0:15:10.47,Main,,0,0,0,,Đừng lo.
+Dialogue: 0,0:15:10.81,0:15:12.72,Main,,0,0,0,,Ăn vào không bị biến thành lợn đâu.
+Dialogue: 0,0:15:12.72,0:15:14.16,Main,,0,0,0,,Nhai rồi nuốt đi.
+Dialogue: 0,0:15:24.70,0:15:26.57,Main,,0,0,0,,Ngoan lắm! Giờ ổn cả rồi.
+Dialogue: 0,0:15:26.78,0:15:28.09,Main,,0,0,0,,Chạm vào thử xem.
+Dialogue: 0,0:15:36.75,0:15:38.09,Main,,0,0,0,,Chạm được rồi.
+Dialogue: 0,0:15:38.09,0:15:40.34,Main,,0,0,0,,Đó! Nào, đi với huynh.
+Dialogue: 0,0:15:40.54,0:15:42.35,Main,,0,0,0,,Con bố mẹ thì sao?
+Dialogue: 0,0:15:42.35,0:15:44.46,Main,,0,0,0,,Họ ở đâu?\N Họ không bị thành lợn đâu nhỉ?
+Dialogue: 0,0:15:44.84,0:15:46.98,Main,,0,0,0,,Giờ thì chưa được, nhưng rồi sẽ gặp lại thôi.
+Dialogue: 0,0:15:50.64,0:15:51.51,Main,,0,0,0,,Yên lặng!
+Dialogue: 0,0:16:09.57,0:16:11.19,Main,,0,0,0,,Là đang tìm muội đấy.
+Dialogue: 0,0:16:11.19,0:16:12.84,Main,,0,0,0,,Gấp lắm rồi! Chạy thôi!
+Dialogue: 0,0:16:14.55,0:16:16.51,Main,,0,0,0,,Không đứng lên được! Làm sao giờ?
+Dialogue: 0,0:16:16.81,0:16:18.37,Main,,0,0,0,,Cảm thấy chả còn tý sức nào.
+Dialogue: 0,0:16:18.37,0:16:20.64,Main,,0,0,0,,Bình tĩnh lại, hít một hơi thật sâu.
+Dialogue: 0,0:16:24.21,0:16:27.22,Main,,0,0,0,,Nhân danh Phong Thủy đang trú ngụ bên trong.
+Dialogue: 0,0:16:27.22,0:16:28.59,Main,,0,0,0,,Giải phóng!
+Dialogue: 0,0:16:28.80,0:16:29.99,Main,,0,0,0,,Đứng lên nào!
+Dialogue: 0,0:16:38.02,0:16:39.79,Signs,,0,0,0,,CẤM VÀO
+Dialogue: 0,0:17:01.83,0:17:08.17,Signs,,0,0,0,,DẦU
+Dialogue: 0,0:17:12.18,0:17:15.03,Main,,0,0,0,,Khi đi qua cầu, muội nhớ phải nín thở.
+Dialogue: 0,0:17:16.39,0:17:18.58,Main,,0,0,0,,Không cần biết thở nhẹ tới đâu,
+Dialogue: 0,0:17:18.58,0:17:21.29,Main,,0,0,0,,phép thuật sẽ bị giải,\Nngười trong tiệm sẽ để ý được.
+Dialogue: 0,0:17:26.82,0:17:28.15,Main,,0,0,0,,Sợ lắm.
+Dialogue: 0,0:17:28.15,0:17:29.86,Main,,0,0,0,,Bình tĩnh nào.
+Dialogue: 0,0:17:29.86,0:17:33.00,Main,,0,0,0,,Kính chào khách quan.\N Đa tạ khách quan chiếu cố.
+Dialogue: 0,0:17:33.00,0:17:35.37,Main,,0,0,0,,Kính chào khách quan!
+Dialogue: 0,0:17:35.74,0:17:37.08,Main,,0,0,0,,Ta xong việc về rồi đây.
+Dialogue: 0,0:17:37.08,0:17:38.87,Main,,0,0,0,,Vâng! Mừng ngài trở về.
+Dialogue: 0,0:17:39.96,0:17:41.26,Main,,0,0,0,,Hít sâu vào.
+Dialogue: 0,0:17:42.87,0:17:44.14,Main,,0,0,0,,Ngừng thở.
+Dialogue: 0,0:18:01.08,0:18:04.77,Main,,0,0,0,,Kính chào khách quan! \NTiểu nữ nhớ các ngài lắm!
+Dialogue: 0,0:18:06.23,0:18:07.86,Main,,0,0,0,,Cố lên! Gần được rồi.
+Dialogue: 0,0:18:08.86,0:18:10.36,Main,,0,0,0,,Ngài Haku!
+Dialogue: 0,0:18:10.70,0:18:12.71,Main,,0,0,0,,Ngài đi đâu về đấy ạ?
+Dialogue: 0,0:18:14.79,0:18:15.95,Main,,0,0,0,,Con người à?
+Dialogue: 0,0:18:16.87,0:18:18.08,Main,,0,0,0,,Chạy!
+Dialogue: 0,0:18:35.01,0:18:37.04,Main,,0,0,0,,Ngài Haku! Ngài Haku!
+Dialogue: 0,0:18:37.55,0:18:39.97,Main,,0,0,0,,Ngửi thấy gì không?\NCó con người lọt vào đây.
+Dialogue: 0,0:18:39.97,0:18:42.18,Main,,0,0,0,,Thối quá! Thối quá!
+Dialogue: 0,0:18:42.18,0:18:43.15,Main,,0,0,0,,Họ biết rồi.
+Dialogue: 0,0:18:43.15,0:18:45.10,Main,,0,0,0,,Xin lỗi, em đã không nín được nữa.
+Dialogue: 0,0:18:45.10,0:18:47.15,Main,,0,0,0,,Không đâu, Chihiro đã cố gắng rồi.
+Dialogue: 0,0:18:47.52,0:18:50.08,Main,,0,0,0,,Muội nghe kỹ lời huynh bảo \Ncần làm gì tiếp theo này.
+Dialogue: 0,0:18:50.08,0:18:51.65,Main,,0,0,0,,Nếu ở đây thì sẽ bị phát hiện.
+Dialogue: 0,0:18:52.29,0:18:53.90,Main,,0,0,0,,Huynh sẽ đi đánh lạc hướng.
+Dialogue: 0,0:18:53.90,0:18:55.67,Main,,0,0,0,,Nhân lúc đó, Chihiro hãy rời khỏi đây...
+Dialogue: 0,0:18:55.67,0:18:58.16,Main,,0,0,0,,Không! Đừng đi mà! \NỞ lại đây đi, em xin mà!
+Dialogue: 0,0:18:58.83,0:19:01.83,Main,,0,0,0,,Đây là cách duy nhất\N để tồn tại trong thế giới này.
+Dialogue: 0,0:19:02.04,0:19:03.68,Main,,0,0,0,,Để cứu gia đình muội.
+Dialogue: 0,0:19:04.75,0:19:07.38,Main,,0,0,0,,Vậy là việc họ bị biến thành lợn\N không phải mơ.
+Dialogue: 0,0:19:07.58,0:19:08.81,Main,,0,0,0,,Yên nào.
+Dialogue: 0,0:19:09.80,0:19:13.34,Main,,0,0,0,,Đợi xung quanh lắng xuống,\Nmuội hãy thoát ra bằng cửa phía sau,
+Dialogue: 0,0:19:13.55,0:19:16.41,Main,,0,0,0,,rồi men theo cầu thang bên ngoài\N xuống phía dưới.
+Dialogue: 0,0:19:16.41,0:19:20.32,Main,,0,0,0,,Sẽ có một nơi có khói bốc lên,\Nđấy là buồng đun nước.
+Dialogue: 0,0:19:20.32,0:19:23.83,Main,,0,0,0,,Ở đó có ông Kamajī,\Nmuội hãy đến gặp ông ấy.
+Dialogue: 0,0:19:24.29,0:19:25.14,Main,,0,0,0,,Kamajī?
+Dialogue: 0,0:19:26.23,0:19:28.81,Main,,0,0,0,,Hay xin ông ấy cho làm việc ở đó.
+Dialogue: 0,0:19:28.81,0:19:30.40,Main,,0,0,0,,Bị từ chối cũng phải năn nỉ.
+Dialogue: 0,0:19:30.98,0:19:34.42,Main,,0,0,0,,Những người không có việc làm ở đây\Nsẽ bị Yubāba biến thành thú.
+Dialogue: 0,0:19:34.86,0:19:36.28,Main,,0,0,0,,Yubāba là ai?
+Dialogue: 0,0:19:36.28,0:19:38.91,Main,,0,0,0,,Gặp rồi em sẽ biết,\Nbà ta là phù thủy cai trị nơi này.
+Dialogue: 0,0:19:39.28,0:19:42.60,Main,,0,0,0,,Có thể sẽ ép muội "không thích" hay "muốn về",\N nhưng mà...
+Dialogue: 0,0:19:42.60,0:19:44.16,Main,,0,0,0,,hãy cứ nói là muốn làm việc.
+Dialogue: 0,0:19:44.37,0:19:47.04,Main,,0,0,0,,Biết là cực khổ, \Nnhưng phải nhẫn nhịn chờ đợi thời cơ.
+Dialogue: 0,0:19:47.04,0:19:49.13,Main,,0,0,0,,Bằng cách đó,\N Yubāba sẽ chẳng thể làm gì muội.
+Dialogue: 0,0:19:49.13,0:19:50.17,Main,,0,0,0,,Vâng.
+Dialogue: 0,0:19:50.54,0:19:53.17,Main,,0,0,0,,Ngài Haku! Ngài Haku!
+Dialogue: 0,0:19:53.38,0:19:54.70,Main,,0,0,0,,Huynh phải đi rồi.
+Dialogue: 0,0:19:54.70,0:19:57.43,Main,,0,0,0,,Đừng quên là... \Nhuynh sẽ luôn đứng về phía Chihiro.
+Dialogue: 0,0:19:57.43,0:19:58.93,Main,,0,0,0,,Sao anh lại biết tên em thế?
+Dialogue: 0,0:19:59.30,0:20:01.43,Main,,0,0,0,,Huynh đã biết từ con muội còn bé rồi.
+Dialogue: 0,0:20:01.64,0:20:03.74,Main,,0,0,0,,Tên huynh là Haku.
+Dialogue: 0,0:20:05.27,0:20:06.56,Main,,0,0,0,,Ngài Haku!
+Dialogue: 0,0:20:06.56,0:20:08.08,Main,,0,0,0,,Haku ở đây.
+Dialogue: 0,0:20:10.10,0:20:12.69,Main,,0,0,0,,Ngài Haku, Yubāba ngài ấy...
+Dialogue: 0,0:20:12.90,0:20:15.71,Main,,0,0,0,,Ta biết rồi.\NTa ra ngoài cũng vì chuyện đó.
+Dialogue: 0,0:22:09.52,0:22:11.55,Main,top,0,0,0,,{\an8}Gọi món nào!                            Tới ngay ạ!
+Dialogue: 0,0:22:11.55,0:22:12.82,Main,top,0,0,0,,{\an8}Rượu cho ngài Ōtori đâu?
+Dialogue: 0,0:22:12.82,0:22:15.31,Main,top,0,0,0,,{\an8}Cớ liền đây.                             Nhanh lên đấy!
+Dialogue: 0,0:22:15.52,0:22:17.84,Main,top,0,0,0,,{\an8}Lâu rồi mới đông như này.
+Dialogue: 0,0:22:17.84,0:22:19.67,Main,top,0,0,0,,{\an8}Phải uống thật nhiều vào đấy.
+Dialogue: 0,0:22:19.67,0:22:20.84,Main,top,0,0,0,,{\an8}Lại chả.
+Dialogue: 0,0:24:23.90,0:24:25.32,Main,,0,0,0,,D-Dạ thưa...
+Dialogue: 0,0:24:26.56,0:24:27.80,Main,,0,0,0,,Cháu xin lỗi...
+Dialogue: 0,0:24:34.58,0:24:36.22,Main,,0,0,0,,D-Dạ thưa...
+Dialogue: 0,0:24:42.84,0:24:45.21,Main,,0,0,0,,Dạ thưa! Ông có phải ông Kamajī không ạ?
+Dialogue: 0,0:24:52.97,0:24:55.17,Main,,0,0,0,,Dạ thưa!\N Anh Haku bảo cháu tới chỗ ông.
+Dialogue: 0,0:24:55.17,0:24:56.68,Main,,0,0,0,,Xin hãy cho cháu làm việc ở đây!
+Dialogue: 0,0:25:01.02,0:25:04.29,Main,,0,0,0,,Giời ạ!\N Cùng một lúc mà nhiều như này...
+Dialogue: 0,0:25:05.13,0:25:07.46,Main,,0,0,0,,Đám tí hon đâu! Ra làm việc!
+Dialogue: 0,0:25:08.90,0:25:11.24,Main,,0,0,0,,Lão là Kamajī đây.
+Dialogue: 0,0:25:11.45,0:25:14.05,Main,,0,0,0,,Là lão già nô dịch cho những bồn tắm.
+Dialogue: 0,0:25:14.05,0:25:16.26,Main,,0,0,0,,Đám tí hon, có nhanh lên không!
+Dialogue: 0,0:25:17.16,0:25:19.44,Main,,0,0,0,,Dạ thưa! \NXin hãy cho cháu làm việc ở đây!
+Dialogue: 0,0:25:19.44,0:25:21.50,Main,,0,0,0,,Khỏi~ Ở đây đủ tay đủ chân rồi.
+Dialogue: 0,0:25:21.71,0:25:24.13,Main,,0,0,0,,Xung quanh đây có đầy bồ hóng rồi.
+Dialogue: 0,0:25:24.13,0:25:26.88,Main,,0,0,0,,Muốn thay bao nhiêu đứa cũng có.
+Dialogue: 0,0:25:46.57,0:25:52.16,Signs,,0,0,0,,
+Dialogue: 0,0:25:57.08,0:26:00.00,Signs,,0,0,0,,
+Dialogue: 0,0:26:15.35,0:26:20.60,Signs,,0,0,0,,
+Dialogue: 0,0:25:41.23,0:25:42.91,Main,,0,0,0,,A, xin lỗi nha!
+Dialogue: 0,0:25:46.94,0:25:48.67,Main,,0,0,0,,A, đợi tý.
+Dialogue: 0,0:26:00.79,0:26:02.27,Main,,0,0,0,,Vướng! Vướng!
+Dialogue: 0,0:26:55.39,0:26:57.36,Main,,0,0,0,,Ơ, phải làm gì với nó đây?
+Dialogue: 0,0:27:04.35,0:27:06.10,Main,,0,0,0,,Đặt ở đây được không?
+Dialogue: 0,0:27:06.31,0:27:08.61,Main,,0,0,0,,Đã nhúng tay vào rồi thì làm cho xong đi!
+Dialogue: 0,0:28:08.21,0:28:10.04,Main,,0,0,0,,Này này! Dám tí hon kia!
+Dialogue: 0,0:28:10.25,0:28:12.30,Main,,0,0,0,,Bọn mi muốn quay lại\N làm bồ hóng hả!
+Dialogue: 0,0:28:12.30,0:28:16.05,Main,,0,0,0,,Còn cái con nhóc này nữa, \Nđừng tự ý xen vào rồi cướp việc của kẻ khác.
+Dialogue: 0,0:28:16.26,0:28:19.55,Main,,0,0,0,,Nếu không làm việc, phép thuật\Nsẽ không hiệu nghiệm với chúng nữa.
+Dialogue: 0,0:28:19.76,0:28:22.81,Main,,0,0,0,,Ở đây không có việc cho nhóc làm đâu.\NĐến chỗ khác mà tìm.
+Dialogue: 0,0:28:31.73,0:28:34.48,Main,,0,0,0,,Này cái bọn nhãi kia! Ý kiến gì hả?
+Dialogue: 0,0:28:34.48,0:28:36.03,Main,,0,0,0,,Làm việc, làm việc mau!
+Dialogue: 0,0:28:37.07,0:28:38.55,Main,,0,0,0,,Giờ ăn đến rồi~
+Dialogue: 0,0:28:38.95,0:28:41.18,Main,,0,0,0,,Gì chứ! Lại to tiếng nữa rồi.
+Dialogue: 0,0:28:43.24,0:28:45.13,Main,,0,0,0,,Bớt bớt đi mà~
+Dialogue: 0,0:28:45.13,0:28:46.10,Main,,0,0,0,,Còn bát đâu?
+Dialogue: 0,0:28:46.66,0:28:49.02,Main,,0,0,0,,Đã dặn ông là để nó cẩn thận rồi mà.
+Dialogue: 0,0:28:49.25,0:28:51.92,Main,,0,0,0,,Giờ ăn đến rồi! Nghỉ giải lao!
+Dialogue: 0,0:29:07.60,0:29:09.87,Main,,0,0,0,,Đây chẳng phải con người sao!\N Thôi chết!
+Dialogue: 0,0:29:09.87,0:29:12.12,Main,,0,0,0,,Ở trên người ta rần rần vì nó đấy.
+Dialogue: 0,0:29:13.15,0:29:15.06,Main,,0,0,0,,Nó là cháu của lão.
+Dialogue: 0,0:29:15.06,0:29:15.69,Main,,0,0,0,,Cháu á?
+Dialogue: 0,0:29:17.40,0:29:21.20,Main,,0,0,0,,Nó bảo muốn làm việc,\N nhưng ở đây đủ tay đủ chân rồi.
+Dialogue: 0,0:29:21.20,0:29:24.94,Main,,0,0,0,,Hay là, cháu đưa nó đến chỗ Yubāba nhé?
+Dialogue: 0,0:29:24.94,0:29:26.74,Main,,0,0,0,,Sau đó thì tự thân nó lo.
+Dialogue: 0,0:29:26.95,0:29:29.44,Main,,0,0,0,,Thôi ông ơi! \NLàm thế thì cháu toi đời.
+Dialogue: 0,0:29:29.44,0:29:32.70,Main,,0,0,0,,Thế cái này thì sao?\N Kỳ giông thui than.
+Dialogue: 0,0:29:32.70,0:29:34.23,Main,,0,0,0,,Loại thượng hạng đấy.
+Dialogue: 0,0:29:36.21,0:29:40.38,Main,,0,0,0,,Nếu muốn làm việc \Nthì phải làm khế ước với Yubāba .
+Dialogue: 0,0:29:40.38,0:29:42.64,Main,,0,0,0,,Tự đi và thử vận may xem sao.
+Dialogue: 0,0:29:43.66,0:29:46.64,Main,,0,0,0,,Thôi được! Con nhỏ kia, đi theo chị!
+Dialogue: 0,0:29:52.90,0:29:55.69,Main,,0,0,0,,Nhóc nhá! Không thể nói "vâng",\Nhay "nhờ chị ạ" được à?
+Dialogue: 0,0:29:55.69,0:29:57.02,Main,,0,0,0,,V-Vâng!
+Dialogue: 0,0:29:57.02,0:29:58.75,Main,,0,0,0,,Lơ nga lơ ngơ! \NMau nhanh cái chân lên!
+Dialogue: 0,0:29:58.75,0:29:59.60,Main,,0,0,0,,Vâng.
+Dialogue: 0,0:30:02.16,0:30:04.56,Main,,0,0,0,,Mang giày theo để tế à!
+Dialogue: 0,0:30:04.56,0:30:05.41,Main,,0,0,0,,Cả tất nữa!
+Dialogue: 0,0:30:05.41,0:30:05.74,Main,,0,0,0,,Vâng!
+Dialogue: 0,0:30:11.87,0:30:14.33,Main,,0,0,0,,Nhóc còn chưa biết đường \Ncảm ơn ông Kamajī à?
+Dialogue: 0,0:30:14.33,0:30:15.76,Main,,0,0,0,,Ông ấy đã giúp nhóc cơ mà?
+Dialogue: 0,0:30:18.13,0:30:20.13,Main,,0,0,0,,Cháu cảm ơn ông ạ!
+Dialogue: 0,0:30:21.55,0:30:22.97,Main,,0,0,0,,Chúc nhóc may mắn!
+Dialogue: 0,0:30:32.48,0:30:35.66,Main,,0,0,0,,Yubāba sống ở khu sâu trong cùng,\Ntrên đỉnh tòa nhà.
+Dialogue: 0,0:30:50.04,0:30:52.10,Main,,0,0,0,,Nhanh cái chân lên!
+Dialogue: 0,0:30:56.63,0:30:58.31,Main,,0,0,0,,Cẩn thận đứt mũi bây giờ.
+Dialogue: 0,0:31:03.59,0:31:04.05,Signs,,0,0,0,,
+Dialogue: 0,0:31:23.11,0:31:24.74,Main,,0,0,0,,Còn một lần đổi thang máy là tới.
+Dialogue: 0,0:31:24.74,0:31:25.52,Main,,0,0,0,,Vâng.
+Dialogue: 0,0:31:30.03,0:31:31.41,Main,,0,0,0,,Đây rồi.
+Dialogue: 0,0:31:34.71,0:31:36.14,Main,,0,0,0,,Kính chào khách quan!
+Dialogue: 0,0:31:41.75,0:31:52.39,Signs,,0,0,0,,CHỈ ĐI XUỐNG
+Dialogue: 0,0:31:41.96,0:31:44.63,Main,,0,0,0,,Quý khách thông cảm,\Nthang máy này không đi lên ạ.
+Dialogue: 0,0:31:44.84,0:31:46.69,Main,,0,0,0,,Vui lòng dùng thang máy khác ạ!
+Dialogue: 0,0:32:08.95,0:32:10.41,Main,,0,0,0,,Ông ấy đi theo kìa.
+Dialogue: 0,0:32:10.41,0:32:11.88,Main,,0,0,0,,Đừng nhìn lung tung.
+Dialogue: 0,0:32:13.95,0:32:22.46,Signs,,0,0,0,,ĐI LÊN
+Dialogue: 0,0:32:26.88,0:32:29.59,Main,,0,0,0,,Đã đến nơi rồi thưa quý khách.
+Dialogue: 0,0:32:33.97,0:32:36.60,Main,,0,0,0,,Gian tiệc của quý khách \Nnằm phía bên phải ạ.
+Dialogue: 0,0:32:38.35,0:32:39.81,Main,,0,0,0,,Hửm? Rin.
+Dialogue: 0,0:32:40.22,0:32:41.66,Main,,0,0,0,,Dạ!
+Dialogue: 0,0:32:43.07,0:32:44.88,Main,,0,0,0,,Có cái mùi gì đó?
+Dialogue: 0,0:32:45.42,0:32:47.90,Main,,0,0,0,,Là mùi con người! \NQuanh cô toàn mùi con người.
+Dialogue: 0,0:32:47.90,0:32:48.82,Main,,0,0,0,,Vậy sao ạ?
+Dialogue: 0,0:32:49.53,0:32:52.51,Main,,0,0,0,,Mùi ơi là mùi! Ngửi ngon lắm đấy.
+Dialogue: 0,0:32:53.45,0:32:55.34,Main,,0,0,0,,Cô đang giấu thứ gì phải không?
+Dialogue: 0,0:32:56.33,0:32:58.30,Main,,0,0,0,,Thành thật khai báo đi.
+Dialogue: 0,0:32:58.30,0:32:59.58,Main,,0,0,0,,Mùi cái này à?
+Dialogue: 0,0:32:59.58,0:33:02.34,Main,,0,0,0,,Thui than! Đưa cho ta!~
+Dialogue: 0,0:33:02.34,0:33:05.71,Main,,0,0,0,,Còn lâu mới đưa,\N cái này là {\i1}các chị{\i0} nhờ đó.
+Dialogue: 0,0:33:05.71,0:33:07.22,Main,,0,0,0,,Xin cô đấy, một tý thôi.
+Dialogue: 0,0:33:07.22,0:33:09.32,Main,,0,0,0,,Một cái chân cũng được!
+Dialogue: 0,0:33:09.97,0:33:12.97,Main,,0,0,0,,Thưa quý khách,\Nhãy gạt cần nếu muốn đi lên ạ.
+Dialogue: 0,0:33:36.74,0:33:40.62,Signs,,0,0,0,,NHỊ THIÊN
+Dialogue: 0,0:33:44.50,0:33:49.38,Signs,,0,0,0,,NHỊ THIÊN
+Dialogue: 0,0:34:01.81,0:34:03.94,Signs,,0,0,0,,THIÊN
+Dialogue: 0,0:34:24.29,0:34:28.09,Signs,,0,0,0,,THIÊN
+Dialogue: 0,0:34:39.60,0:34:42.10,Signs,,0,0,0,,DẦU
+Dialogue: 0,0:34:58.33,0:35:00.33,Main,,0,0,0,,Không định gõ cửa hay sao?
+Dialogue: 0,0:35:00.70,0:35:04.08,Main,,0,0,0,,Hừ! Đúng là một con bé\Nchẳng ra thể thống gì.
+Dialogue: 0,0:35:14.22,0:35:16.36,Main,,0,0,0,,Nào, lại đây.
+Dialogue: 0,0:35:19.72,0:35:21.74,Main,,0,0,0,,Lại đây mau.
+Dialogue: 0,0:35:36.24,0:35:38.42,Main,,0,0,0,,Au ui...
+Dialogue: 0,0:35:48.79,0:35:51.65,Main,,0,0,0,,Ồn ào quá đấy! Yên lặng hết đi.
+Dialogue: 0,0:36:10.56,0:36:11.82,Main,,0,0,0,,Dạ thưa...
+Dialogue: 0,0:36:12.28,0:36:14.32,Main,,0,0,0,,Xin hãy cho cháu làm việc ở đây!
+Dialogue: 0,0:36:22.79,0:36:26.00,Main,,0,0,0,,Đừng có nói vớ vẩn nữa.
+Dialogue: 0,0:36:26.00,0:36:29.29,Main,,0,0,0,,Trông như que củi thế kia thì làm nỗi gì.
+Dialogue: 0,0:36:29.29,0:36:33.81,Main,,0,0,0,,Chỗ này không phải chỗ dành cho con người.
+Dialogue: 0,0:36:35.10,0:36:41.04,Main,,0,0,0,,Chỗ này chính là nhà tắm\N mà tám triệu vị Thần tới để giải tỏa mệt mỏi đấy.
+Dialogue: 0,0:36:42.05,0:36:45.68,Main,,0,0,0,,Thế mà bố mẹ ngươi dám vô lễ như vậy!
+Dialogue: 0,0:36:45.68,0:36:49.16,Main,,0,0,0,,Cả gan ngấu nghiến thức ăn\Ncủa khách như những con lợn.
+Dialogue: 0,0:36:49.16,0:36:50.86,Main,,0,0,0,,Cũng đáng tội thôi.
+Dialogue: 0,0:36:51.69,0:36:56.96,Main,,0,0,0,,Còn cả nhóc con mi nữa, \Nđừng mơ trở về thế giới cũ.
+Dialogue: 0,0:37:00.78,0:37:02.78,Main,,0,0,0,,Hay ta biến ngươi thành lợn con luôn.
+Dialogue: 0,0:37:03.99,0:37:06.95,Main,,0,0,0,,Hay là thành than nhỉ.
+Dialogue: 0,0:37:14.67,0:37:16.55,Main,,0,0,0,,Ngươi đang run sợ phải không?
+Dialogue: 0,0:37:16.55,0:37:20.16,Main,,0,0,0,,Nhưng nghĩ lại thì ngươi đến được đây\N cũng khá đấy.
+Dialogue: 0,0:37:20.16,0:37:23.47,Main,,0,0,0,,Chắc có ai đó tốt bụng \Nđã giúp ngươi ha.
+Dialogue: 0,0:37:23.78,0:37:25.88,Main,,0,0,0,,Đúng ra phải khen ngươi mới phải.
+Dialogue: 0,0:37:25.88,0:37:30.62,Main,,0,0,0,,Là ai thế? Nói cho ta biết đi nào.
+Dialogue: 0,0:37:33.56,0:37:35.15,Main,,0,0,0,,Xin hãy cho cháu làm việc ở đây!
+Dialogue: 0,0:37:35.15,0:37:36.82,Main,,0,0,0,,Vẫn còn nói câu đó à!
+Dialogue: 0,0:37:36.82,0:37:38.36,Main,,0,0,0,,Cháu muốn làm việc ở đây ạ!
+Dialogue: 0,0:37:38.36,0:37:43.99,Main,,0,0,0,,Câm miệng lại!
+Dialogue: 0,0:37:47.20,0:37:51.04,Main,,0,0,0,,Há gì mà ta phải đi thuê ngươi hả!
+Dialogue: 0,0:37:51.04,0:37:55.56,Main,,0,0,0,,Ngươi là một đứa vô dụng, \Nchỉ giỏi mè nheo và khóc nhè!
+Dialogue: 0,0:37:55.56,0:37:58.08,Main,,0,0,0,,Ta chẳng muốn giao việc gì...
+Dialogue: 0,0:37:58.08,0:38:00.80,Main,,0,0,0,,cho một đứa con nhóc\Nngu ngốc như ngươi đâu.
+Dialogue: 0,0:38:00.80,0:38:02.93,Main,,0,0,0,,Còn lâu ta mới đồng ý!
+Dialogue: 0,0:38:02.93,0:38:06.64,Main,,0,0,0,,Tại sao ta phải nuôi thêm\Nmột đứa ăn hại chứ?
+Dialogue: 0,0:38:07.52,0:38:12.02,Main,,0,0,0,,Hay là ta nên để ngươi làm...
+Dialogue: 0,0:38:12.02,0:38:18.96,Main,,0,0,0,,công việc kinh khủng nhất, đáng sợ nhất\Ncho tới lúc chết nhở?
+Dialogue: 0,0:38:31.66,0:38:34.42,Main,,0,0,0,,Thôi nào, có chuyện gì vậy, cưng ơi?
+Dialogue: 0,0:38:35.66,0:38:38.66,Main,,0,0,0,,Ổn rồi, mẹ đây. \NNgoan nào con.
+Dialogue: 0,0:38:38.66,0:38:41.34,Main,,0,0,0,,Ngươi vẫn còn ở đây à? \NMau cút ra ngoài đi!
+Dialogue: 0,0:38:41.55,0:38:43.40,Main,,0,0,0,,Cháu muốn làm việc ở đây ạ!
+Dialogue: 0,0:38:43.82,0:38:46.11,Main,,0,0,0,,Đừng có lớn tiếng—
+Dialogue: 0,0:38:47.15,0:38:51.16,Main,,0,0,0,,A~ Đợi mẹ một chút nha! Nha!
+Dialogue: 0,0:38:51.68,0:38:54.40,Main,,0,0,0,,Con là bé ngoan mà~ Nào nào~
+Dialogue: 0,0:38:54.77,0:38:56.77,Main,,0,0,0,,Xin hãy cho cháu làm việc!
+Dialogue: 0,0:38:56.98,0:38:59.46,Main,,0,0,0,,Ta biết rồi, im lặng cái coi!
+Dialogue: 0,0:39:01.74,0:39:04.71,Main,,0,0,0,,Mẹ đây~ Mẹ đây~
+Dialogue: 0,0:39:24.59,0:39:26.35,Main,,0,0,0,,Khế ước đó.
+Dialogue: 0,0:39:27.30,0:39:28.98,Main,,0,0,0,,Viết tên của ngươi vào đấy.
+Dialogue: 0,0:39:29.93,0:39:31.49,Main,,0,0,0,,Ta sẽ cho phép.
+Dialogue: 0,0:39:32.06,0:39:35.66,Main,,0,0,0,,Nhưng nếu ngươi mở miệng\Nbảo "không thích" hay "muốn về",
+Dialogue: 0,0:39:35.66,0:39:37.73,Main,,0,0,0,,ta sẽ biến ngươi thành lợn con ngay.
+Dialogue: 0,0:39:38.40,0:39:40.77,Main,,0,0,0,,Dạ thưa... cháu viết tên vào chỗ này ạ?
+Dialogue: 0,0:39:40.77,0:39:44.02,Main,,0,0,0,,Ừ đúng rồi! \NĐừng lằng nhằng nữa, mau viết vào đi!
+Dialogue: 0,0:39:48.74,0:39:50.18,Main,,0,0,0,,Đúng thật là!
+Dialogue: 0,0:39:51.41,0:39:54.06,Main,,0,0,0,,Ta ngán ngẩm lời thề đó rồi đấy.
+Dialogue: 0,0:39:55.58,0:39:59.28,Main,,0,0,0,,Nó khiến ta phải giao việc\Ncho tất cả những ai đến xin.
+Dialogue: 0,0:40:01.46,0:40:02.47,Main,,0,0,0,,Viết xong chưa?
+Dialogue: 0,0:40:02.47,0:40:03.48,Main,,0,0,0,,Rồi ạ.
+Dialogue: 0,0:40:07.09,0:40:09.89,Main,,0,0,0,,Hừm, ngươi là Chihiro à?
+Dialogue: 0,0:40:09.89,0:40:10.49,Main,,0,0,0,,Vâng.
+Dialogue: 0,0:40:10.49,0:40:15.85,Signs,,0,0,0,,
+Dialogue: 0,0:40:15.85,0:40:18.85,Signs,,0,0,0,,
+Dialogue: 0,0:40:10.73,0:40:13.03,Main,,0,0,0,,Tên nghe hào nhoáng quá đấy.
+Dialogue: 0,0:40:15.60,0:40:17.19,Main,,0,0,0,,CHIHIRO
+Dialogue: 0,0:40:17.39,0:40:18.87,Main,,0,0,0,,SEN
+Dialogue: 0,0:40:22.78,0:40:25.67,Main,,0,0,0,,Từ bây giờ, tên của ngươi sẽ là Sen.
+Dialogue: 0,0:40:25.86,0:40:27.81,Main,,0,0,0,,Được chứ? Là Sen.
+Dialogue: 0,0:40:28.03,0:40:30.12,Main,,0,0,0,,Nghe rõ ta nói không, Sen!
+Dialogue: 0,0:40:30.32,0:40:31.63,Main,,0,0,0,,A... Vâng ạ.
+Dialogue: 0,0:40:32.33,0:40:33.76,Main,,0,0,0,,Bà gọi tôi sao?
+Dialogue: 0,0:40:36.91,0:40:38.79,Main,,0,0,0,,Từ hôm nay, con bé này sẽ làm việc ở đây.
+Dialogue: 0,0:40:39.00,0:40:41.04,Main,,0,0,0,,- Hãy để mắt tới nó.\N- Vâng.
+Dialogue: 0,0:40:41.71,0:40:42.92,Main,,0,0,0,,Tên ngươi là gì?
+Dialogue: 0,0:40:43.13,0:40:46.69,Main,,0,0,0,,Ơ? Chi... À... là Sen ạ.
+Dialogue: 0,0:40:46.88,0:40:49.11,Main,,0,0,0,,Được rồi Sen, đi theo ta.
+Dialogue: 0,0:40:57.60,0:40:58.98,Main,,0,0,0,,Anh Haku, em...
+Dialogue: 0,0:40:59.35,0:41:00.80,Main,,0,0,0,,Đừng nói vớ vẩn.
+Dialogue: 0,0:41:01.02,0:41:03.54,Main,,0,0,0,,Phải gọi là ta là ngài Haku.
+Dialogue: 0,0:41:18.83,0:41:22.46,Main,,0,0,0,,Cho dù đây có là lệnh của Yubāba\Nđi chăng nữa...
+Dialogue: 0,0:41:22.67,0:41:24.13,Main,,0,0,0,,Ta không thể cho con người làm.
+Dialogue: 0,0:41:24.50,0:41:26.96,Main,,0,0,0,,- Đã kí hợp đồng cả rồi.\N- Ngài nói sao...
+Dialogue: 0,0:41:27.17,0:41:28.51,Main,,0,0,0,,Nhờ mọi người giúp cháu ạ.
+Dialogue: 0,0:41:28.88,0:41:30.93,Main,,0,0,0,,Tôi không muốn nó đến chỗ mình đâu.
+Dialogue: 0,0:41:31.14,0:41:32.26,Main,,0,0,0,,Tôi ghét mùi con người.
+Dialogue: 0,0:41:33.01,0:41:35.85,Main,,0,0,0,,Chỉ cần ăn đồ ở đây ba ngày\Nthì sẽ hết mùi.
+Dialogue: 0,0:41:36.06,0:41:40.20,Main,,0,0,0,,Tới lúc đó, nếu nó vẫn vô tích sự,\Nmuốn nướng hay luộc thì tùy.
+Dialogue: 0,0:41:42.02,0:41:44.27,Main,,0,0,0,,Tất cả quay về làm việc đi. Rin đâu rồi?
+Dialogue: 0,0:41:44.48,0:41:46.78,Main,,0,0,0,,Thôi nha! Đừng đùn đẩy cho tôi!
+Dialogue: 0,0:41:47.15,0:41:48.61,Main,,0,0,0,,Cô muốn có phụ tá mà?
+Dialogue: 0,0:41:48.82,0:41:51.28,Main,,0,0,0,,Phải phải, Rin nhận là thích hợp nhất.
+Dialogue: 0,0:41:51.49,0:41:52.24,Main,,0,0,0,,Gì chứ?
+Dialogue: 0,0:41:52.45,0:41:54.17,Main,,0,0,0,,- Sen, sang kia đi.\N- Vâng.
+Dialogue: 0,0:41:55.03,0:41:58.35,Main,,0,0,0,,Nhớ chuyện này nhé.\NTôi sẽ bắt mấy người phải đền bù đấy.
+Dialogue: 0,0:41:58.58,0:42:00.26,Main,,0,0,0,,Rồi, đi nhanh.
+Dialogue: 0,0:42:02.88,0:42:04.14,Main,,0,0,0,,Đi thôi.
+Dialogue: 0,0:42:13.01,0:42:14.51,Main,,0,0,0,,Em làm tốt lắm!
+Dialogue: 0,0:42:14.72,0:42:17.28,Main,,0,0,0,,- Hở?\N- Em lóng ngóng quá, nên chị lo lắm đấy.
+Dialogue: 0,0:42:17.47,0:42:18.77,Main,,0,0,0,,Đừng lơ là đó.
+Dialogue: 0,0:42:18.97,0:42:20.85,Main,,0,0,0,,Có việc gì không hiểu\Ncứ hỏi chị, hiểu không?
+Dialogue: 0,0:42:21.06,0:42:22.16,Main,,0,0,0,,Vâng.
+Dialogue: 0,0:42:23.19,0:42:24.77,Main,,0,0,0,,Hở? Em sao vậy?
+Dialogue: 0,0:42:25.73,0:42:27.78,Main,,0,0,0,,Em choáng váng quá.
+Dialogue: 0,0:42:32.32,0:42:34.21,Main,,0,0,0,,Đây là phòng chúng ta.
+Dialogue: 0,0:42:35.32,0:42:37.68,Main,,0,0,0,,Ăn no rồi ngủ là khỏe lại thôi.
+Dialogue: 0,0:42:40.75,0:42:44.00,Main,,0,0,0,,Áo yếm đây, em tự giặt nhé. Quần này.
+Dialogue: 0,0:42:44.63,0:42:46.56,Main,,0,0,0,,Em bé quá đi mất.
+Dialogue: 0,0:42:47.63,0:42:49.02,Main,,0,0,0,,Áo này to quá.
+Dialogue: 0,0:42:51.13,0:42:53.68,Main,,0,0,0,,- Chị Rin ơi, này...\N- Sao?
+Dialogue: 0,0:42:53.88,0:42:56.01,Main,,0,0,0,,Ở đây có hai người tên Haku ạ?
+Dialogue: 0,0:42:56.22,0:43:00.03,Main,,0,0,0,,Hai người?\NThôi, có đến hai kẻ thì sao chịu nổi.
+Dialogue: 0,0:43:00.35,0:43:01.35,Main,,0,0,0,,Vẫn không vừa.
+Dialogue: 0,0:43:01.56,0:43:04.14,Main,,0,0,0,,Hắn là tay sai của Yubāba đó.\NEm coi chừng.
+Dialogue: 0,0:43:07.56,0:43:09.46,Main,,0,0,0,,Sao không thấy nhỉ?
+Dialogue: 0,0:43:10.48,0:43:12.92,Main,,0,0,0,,A a, có rồi, tìm ra rồi.
+Dialogue: 0,0:43:13.95,0:43:18.01,Main,,0,0,0,,Này, em làm sao vậy? Cố lên nào.
+Dialogue: 0,0:43:18.78,0:43:21.33,Main,,0,0,0,,Ồn quá đấy. Chuyện gì vậy, Rin?
+Dialogue: 0,0:43:21.54,0:43:24.01,Main,,0,0,0,,Đây là người mới, cô bé thấy không khỏe.
+Dialogue: 0,0:44:55.80,0:45:00.15,Main,,0,0,0,,Em hãy đến chỗ cây cầu.\NTôi sẽ dẫn em đi gặp bố mẹ.
+Dialogue: 0,0:45:44.39,0:45:46.03,Main,,0,0,0,,Giày mình đâu?
+Dialogue: 0,0:45:59.70,0:46:01.17,Main,,0,0,0,,Cảm ơn các cậu.
+Dialogue: 0,0:46:31.81,0:46:34.87,Main,,0,0,0,,NHÀ TẮM
+Dialogue: 0,0:47:01.84,0:47:06.09,Main,,0,0,0,,NHÀ TẮM
+Dialogue: 0,0:47:09.77,0:47:11.24,Main,,0,0,0,,Đi nào.
+Dialogue: 0,0:47:54.35,0:47:56.95,Main,,0,0,0,,Bố ơi, mẹ ơi, là con đây!
+Dialogue: 0,0:47:57.44,0:47:58.77,Main,,0,0,0,,Sen đây ạ.
+Dialogue: 0,0:47:59.48,0:48:01.83,Main,,0,0,0,,Mẹ ơi, bố ơi!
+Dialogue: 0,0:48:04.95,0:48:07.07,Main,,0,0,0,,Họ bị bệnh ạ? Hay là bị thương ạ?
+Dialogue: 0,0:48:07.28,0:48:09.78,Main,,0,0,0,,Không, họ chỉ đang ngủ vì no rồi thôi.
+Dialogue: 0,0:48:10.49,0:48:13.55,Main,,0,0,0,,Giờ họ đã quên chuyện\Nmình từng là con người.
+Dialogue: 0,0:48:19.08,0:48:21.63,Main,,0,0,0,,Bố ơi, mẹ ơi!\NChắc chắn con sẽ cứu hai người.
+Dialogue: 0,0:48:21.84,0:48:24.81,Main,,0,0,0,,Nên bố mẹ đừng mập lên quá,\Nkẻo lại bị làm thịt mất.
+Dialogue: 0,0:48:33.01,0:48:34.82,Main,,0,0,0,,Em giấu kĩ chúng nhé.
+Dialogue: 0,0:48:37.44,0:48:38.94,Main,,0,0,0,,Em tưởng bị vứt hết rồi.
+Dialogue: 0,0:48:39.31,0:48:41.21,Main,,0,0,0,,Lúc về em sẽ cần mà.
+Dialogue: 0,0:48:47.40,0:48:49.64,Main,,0,0,0,,Đây là thiệp chia tay của em.
+Dialogue: 0,0:48:49.87,0:48:51.07,Main,,0,0,0,,CHÚC MAY MẮN CHIHIRO\NCHÚNG TA SẼ GẶP LẠI
+Dialogue: 0,0:48:51.28,0:48:52.66,Main,,0,0,0,,"Chihiro"?
+Dialogue: 0,0:48:53.03,0:48:56.18,Main,,0,0,0,,Chihiro à? Đó là tên của em.
+Dialogue: 0,0:48:57.16,0:48:59.67,Main,,0,0,0,,Yubāba cướp tên người khác\Nđể khống chế họ đấy.
+Dialogue: 0,0:49:00.33,0:49:04.55,Main,,0,0,0,,Ở đây em sẽ luôn là Sen,\Ndần dần tên thật của em sẽ bị giấu đi hẳn.
+Dialogue: 0,0:49:04.75,0:49:07.92,Main,,0,0,0,,Suýt nữa em đã đánh mất bản thân\Nvà trở thành Sen rồi.
+Dialogue: 0,0:49:08.72,0:49:12.07,Main,,0,0,0,,Nếu em bị cướp mất tên,\Nem sẽ không còn đường về nữa.
+Dialogue: 0,0:49:12.89,0:49:15.43,Main,,0,0,0,,Tôi không thể nhớ ra tên mình.
+Dialogue: 0,0:49:15.64,0:49:17.45,Main,,0,0,0,,Tên thật của anh ấy ạ?
+Dialogue: 0,0:49:17.64,0:49:21.00,Main,,0,0,0,,Ừ, nhưng là là tôi lại nhớ\Nrất rõ về em, Chihiro.
+Dialogue: 0,0:49:23.32,0:49:25.97,Main,,0,0,0,,Ăn đi nào. Em chưa ăn gì cả, phải không?
+Dialogue: 0,0:49:26.19,0:49:27.72,Main,,0,0,0,,Em không muốn ăn.
+Dialogue: 0,0:49:27.94,0:49:31.20,Main,,0,0,0,,Khi làm món này, tôi đã niệm phép\Nđể giúp em khỏe lên đấy.
+Dialogue: 0,0:49:31.41,0:49:32.42,Main,,0,0,0,,Ăn nhé.
+Dialogue: 0,0:50:08.61,0:50:11.38,Main,,0,0,0,,Em đã chịu khổ nhiều rồi nhỉ? Ăn thêm đi.
+Dialogue: 0,0:50:22.08,0:50:24.89,Main,,0,0,0,,DẦU
+Dialogue: 0,0:50:26.00,0:50:27.38,Main,,0,0,0,,Em tự về được chứ?
+Dialogue: 0,0:50:27.59,0:50:30.05,Main,,0,0,0,,Vâng. Cảm ơn anh, Haku.\NEm sẽ cố gắng làm việc.
+Dialogue: 0,0:50:30.26,0:50:31.44,Main,,0,0,0,,Ừ.
+Dialogue: 0,0:52:05.14,0:52:07.65,Main,,0,0,0,,Em đi đâu vậy chứ? Chị lo lắm đó!
+Dialogue: 0,0:52:07.85,0:52:08.90,Main,,0,0,0,,Xin lỗi chị.
+Dialogue: 0,0:52:15.20,0:52:16.57,Main,,0,0,0,,- Thật sao?\N- Nhìn xem!
+Dialogue: 0,0:52:16.78,0:52:18.07,Main,,0,0,0,,Tuyệt thật đó.
+Dialogue: 0,0:52:18.28,0:52:19.47,Main,,0,0,0,,Cản đường quá.
+Dialogue: 0,0:52:32.96,0:52:35.27,Main,,0,0,0,,Sen, em không vắt mạnh hơn được sao?
+Dialogue: 0,0:52:35.59,0:52:38.22,Main,,0,0,0,,- Từ nay, Rin và Sen sẽ lo bồn tắm lớn.\N- Hả?
+Dialogue: 0,0:52:38.59,0:52:40.55,Main,,0,0,0,,Nhưng mà đó là việc của Ếch cơ mà?
+Dialogue: 0,0:52:40.76,0:52:43.72,Main,,0,0,0,,Lệnh của cấp trên đấy.\NĐừng lười biếng đùn đẩy!
+Dialogue: 0,0:53:03.87,0:53:05.75,Main,,0,0,0,,Dạ, ngài đứng đó sẽ bị ướt đấy ạ.
+Dialogue: 0,0:53:09.96,0:53:11.46,Main,,0,0,0,,Sen, nhanh lên em!
+Dialogue: 0,0:53:11.67,0:53:12.78,Main,,0,0,0,,Vâng.
+Dialogue: 0,0:53:13.00,0:53:14.85,Main,,0,0,0,,Tôi sẽ để cửa cho ngài.
+Dialogue: 0,0:53:42.66,0:53:44.66,Main,,0,0,0,,- Rin dọn bồn tắm lớn à?\N- Kệ tôi đi!
+Dialogue: 0,0:53:48.29,0:53:51.18,Main,,0,0,0,,Thật quá quắt mà.\NBồn này chắc chẳng có ai rửa.
+Dialogue: 0,0:54:05.93,0:54:09.14,Main,,0,0,0,,Cái bồn này chuyên dùng cho\Nnhững vị khách dơ bẩn.
+Dialogue: 0,0:54:09.35,0:54:10.98,Main,,0,0,0,,Toàn là nhớp, không chà ra nổi.
+Dialogue: 0,0:54:11.35,0:54:13.71,Main,,0,0,0,,Rin, Sen, mấy vị khách đầu tiên\Nsắp tới đấy.
+Dialogue: 0,0:54:13.94,0:54:15.61,Main,,0,0,0,,Rồi, chúng tôi chuẩn bị ngay!
+Dialogue: 0,0:54:15.82,0:54:17.90,Main,,0,0,0,,Bực thật! Rõ ràng là gây khó dễ bọn mình!
+Dialogue: 0,0:54:18.11,0:54:19.69,Main,,0,0,0,,Phải đổ nước nóng thảo dược vào.
+Dialogue: 0,0:54:19.90,0:54:22.32,Main,,0,0,0,,- Sen, em ra quầy quản lý lấy thẻ đi.\N- Thẻ gì ạ?
+Dialogue: 0,0:54:25.16,0:54:28.34,Main,,0,0,0,,- Lấy thẻ nước nóng thảo dược!\N- Vâng.
+Dialogue: 0,0:54:29.58,0:54:31.33,Main,,0,0,0,,Chị ơi, quầy quản lý ở đâu?
+Dialogue: 0,0:54:35.34,0:54:38.10,Main,,0,0,0,,Gì vậy nhỉ? Có thứ gì đó đang đến.
+Dialogue: 0,0:54:47.31,0:54:51.24,Main,,0,0,0,,Một kẻ khó chịu đã lẩn vào màn mưa\Nvà xâm nhập khu vực này.
+Dialogue: 0,0:55:15.38,0:55:17.96,Main,,0,0,0,,Sao có thể lãng phí thẻ vào vụ đó?
+Dialogue: 0,0:55:18.17,0:55:19.98,Main,,0,0,0,,Buổi sáng an lành ạ.
+Dialogue: 0,0:55:20.26,0:55:22.26,Main,,0,0,0,,Quý khách có thấy thư giãn không ạ?
+Dialogue: 0,0:55:22.63,0:55:23.93,Main,,0,0,0,,Cho ngài Kasuga.
+Dialogue: 0,0:55:24.13,0:55:26.19,Main,,0,0,0,,Thẻ nước lưu huỳnh cao cấp ạ.
+Dialogue: 0,0:55:26.43,0:55:28.97,Main,,0,0,0,,Mày có đứng bao lâu cũng vậy.\NVề làm việc đi!
+Dialogue: 0,0:55:29.18,0:55:30.93,Main,,0,0,0,,Chà rửa bằng tay thôi.
+Dialogue: 0,0:55:31.14,0:55:32.68,Main,,0,0,0,,Chào buổi sáng ạ.
+Dialogue: 0,0:55:32.89,0:55:33.98,Main,,0,0,0,,Tự tay mà chà đi.
+Dialogue: 0,0:55:34.35,0:55:37.48,Main,,0,0,0,,Dạ nhưng... nghe bảo\Nphải có nước nóng thảo dược ạ.
+Dialogue: 0,0:55:37.69,0:55:39.27,Main,,0,0,0,,Mày thật chẳng biết điều.
+Dialogue: 0,0:55:39.48,0:55:43.46,Main,,0,0,0,,Vâng, nước nóng hoa ngải cứu phải không ạ?\NMời quý khách thong thả tận hưởng.
+Dialogue: 0,0:55:52.54,0:55:55.22,Main,,0,0,0,,Vâng, quầy quản lý xin nghe. Vâng.
+Dialogue: 0,0:55:57.33,0:55:59.79,Main,,0,0,0,,- Cháu cảm ơn ạ.\N- Khoan, không phải.
+Dialogue: 0,0:56:00.00,0:56:02.26,Main,,0,0,0,,- Đứng lại đó, ê nè!\N- {\i1}Chuyện gì đấy?{\i0}
+Dialogue: 0,0:56:02.46,0:56:03.80,Main,,0,0,0,,Dạ không có gì đâu ạ.
+Dialogue: 0,0:56:04.17,0:56:05.84,Main,,0,0,0,,Có thứ gì đó đang tiến vào.
+Dialogue: 0,0:56:06.05,0:56:06.80,Main,,0,0,0,,{\i1}Con người ạ?{\i0}
+Dialogue: 0,0:56:07.01,0:56:09.82,Main,,0,0,0,,Cần phải điều tra chuyện đấy.\NVì hôm nay Haku không ở đây.
+Dialogue: 0,0:56:10.01,0:56:12.47,Main,,0,0,0,,Chà, em lấy được loại tốt đó.
+Dialogue: 0,0:56:12.68,0:56:14.91,Main,,0,0,0,,Ta sẽ gửi nó đến chỗ ông Kamajī.
+Dialogue: 0,0:56:16.60,0:56:18.48,Main,,0,0,0,,Giờ ít khách nên nước sẽ tới ngay.
+Dialogue: 0,0:56:24.57,0:56:27.63,Main,,0,0,0,,Giật cái dây này nước sẽ tràn xuống.\NEm thử xem.
+Dialogue: 0,0:56:36.33,0:56:38.42,Main,,0,0,0,,Sen à, em vụng về thật đấy.
+Dialogue: 0,0:56:38.63,0:56:40.71,Main,,0,0,0,,Ôi chao, màu nước lạ quá.
+Dialogue: 0,0:56:40.92,0:56:43.13,Main,,0,0,0,,Trong đây có trộn giun đất sấy khô đó.
+Dialogue: 0,0:56:43.50,0:56:46.69,Main,,0,0,0,,Nước đục vầy thì có cọ rửa bồn\Nhay không cũng vậy.
+Dialogue: 0,0:56:48.64,0:56:51.65,Main,,0,0,0,,Đợi bồn đầy thì kéo dây lần nữa\Nđể tắt nước nhé.
+Dialogue: 0,0:56:52.06,0:56:53.68,Main,,0,0,0,,Giờ bỏ tay ra cũng được.
+Dialogue: 0,0:56:53.89,0:56:55.48,Main,,0,0,0,,Chị đi lấy bữa sáng đây.
+Dialogue: 0,0:56:55.68,0:56:56.83,Main,,0,0,0,,Cảm ơn chị.
+Dialogue: 0,0:57:18.87,0:57:21.92,Main,,0,0,0,,Đau quá... Ui da...
+Dialogue: 0,0:57:25.21,0:57:27.94,Main,,0,0,0,,Xin lỗi...\Nbồn tắm chưa được chuẩn bị xong ạ.
+Dialogue: 0,0:57:33.55,0:57:34.91,Main,,0,0,0,,Sao nhiều thẻ quá?
+Dialogue: 0,0:57:37.64,0:57:39.54,Main,,0,0,0,,Ngài cho tôi sao ạ?
+Dialogue: 0,0:57:42.77,0:57:45.19,Main,,0,0,0,,Tôi không cần nhiều như vậy đâu ạ.
+Dialogue: 0,0:57:47.90,0:57:49.70,Main,,0,0,0,,Không cần. Một cái là đủ rồi.
+Dialogue: 0,0:58:05.00,0:58:07.09,Main,,0,0,0,,- Bà chủ ạ.\N- Một vị Thần Nhớp Nháp à?
+Dialogue: 0,0:58:07.30,0:58:09.30,Main,,0,0,0,,Vâng, ông ấy còn là vị Thần rất lớn ạ.
+Dialogue: 0,0:58:09.51,0:58:11.13,Main,,0,0,0,,Ông ta đang hướng về phía cây cầu.
+Dialogue: 0,0:58:11.34,0:58:12.84,Main,,0,0,0,,Xin hãy về cho.
+Dialogue: 0,0:58:13.05,0:58:16.22,Main,,0,0,0,,Ngài về đi ạ.
+Dialogue: 0,0:58:16.43,0:58:17.35,Main,,0,0,0,,Mong ngài rời khỏi đây giúp.
+Dialogue: 0,0:58:17.56,0:58:19.98,Main,,0,0,0,,Xin ngài về đi. Vui lòng rời khỏi đây ạ.
+Dialogue: 0,0:58:20.18,0:58:23.15,Main,,0,0,0,,Ư... Mùi kinh tởm quá...
+Dialogue: 0,0:58:23.52,0:58:24.86,Main,,0,0,0,,Hừm, quái lạ thật.
+Dialogue: 0,0:58:25.06,0:58:27.36,Main,,0,0,0,,Thứ ta cảm nhận được\Nkhông phải là Thần Nhớp Nháp.
+Dialogue: 0,0:58:27.57,0:58:29.90,Main,,0,0,0,,Nếu đã đến rồi thì đành vậy.\NĐón tiếp đi nào.
+Dialogue: 0,0:58:30.61,0:58:34.13,Main,,0,0,0,,Giờ chỉ còn cách làm nhanh,\Nđể ông ta rời đi càng sớm càng tốt.
+Dialogue: 0,0:58:34.78,0:58:36.70,Main,,0,0,0,,Thật xin lỗi, xin mọi người trở về phòng.
+Dialogue: 0,0:58:36.91,0:58:38.41,Main,,0,0,0,,Thần Nhớp Nháp tới, mau về phòng ạ.
+Dialogue: 0,0:58:40.37,0:58:43.42,Main,,0,0,0,,- Rin, Sen. Yubāba cho gọi hai người.\N- A, vâng.
+Dialogue: 0,0:58:43.79,0:58:46.21,Main,,0,0,0,,Đây là nhiệm vụ đầu tiên của ngươi.
+Dialogue: 0,0:58:46.42,0:58:49.17,Main,,0,0,0,,Hãy chăm sóc vị khách\Nsắp dùng bồn tắm lớn.
+Dialogue: 0,0:58:49.38,0:58:50.21,Main,,0,0,0,,Dạ thưa...
+Dialogue: 0,0:58:50.42,0:58:53.22,Main,,0,0,0,,Phàn nàn là thành than đá ngay đó. Rõ chứ?
+Dialogue: 0,0:58:53.43,0:58:55.07,Main,,0,0,0,,Tôi thấy ông ta rồi.
+Dialogue: 0,0:59:05.61,0:59:07.73,Main,,0,0,0,,Dừng lại! Vậy là vô lễ với khách hàng!
+Dialogue: 0,0:59:15.62,0:59:19.34,Main,,0,0,0,,Chào mừng ngài\Nđến với nhà tắm của chúng tôi...
+Dialogue: 0,0:59:22.37,0:59:24.62,Main,,0,0,0,,Hở? À, tiền sao...
+Dialogue: 0,0:59:24.83,0:59:27.25,Main,,0,0,0,,Sen! Mau nhận tiền của khách!
+Dialogue: 0,0:59:27.46,0:59:28.69,Main,,0,0,0,,Ơ, vâng!
+Dialogue: 0,0:59:36.76,0:59:41.47,Main,,0,0,0,,Còn đứng nghệch ra đó làm gì?\NMau dẫn đường cho ngài ấy.
+Dialogue: 0,0:59:41.68,0:59:43.03,Main,,0,0,0,,Mời ngài theo tôi.
+Dialogue: 0,1:00:01.91,1:00:03.47,Main,,0,0,0,,Sen!
+Dialogue: 0,1:00:07.83,1:00:10.27,Main,,0,0,0,,Ối trời... Bốc mùi quá.
+Dialogue: 0,1:00:11.30,1:00:12.34,Main,,0,0,0,,Đồ ăn mốc rồi!
+Dialogue: 0,1:00:12.55,1:00:14.69,Main,,0,0,0,,Mở cửa sổ! Mở tất cả ra!
+Dialogue: 0,1:00:57.68,1:01:00.40,Main,,0,0,0,,Dạ? Ngài đợi tôi một lát.
+Dialogue: 0,1:01:06.10,1:01:07.27,Main,,0,0,0,,Bẩn quá đi mất.
+Dialogue: 0,1:01:07.48,1:01:08.98,Main,,0,0,0,,Đây đâu phải chuyện cười ạ.
+Dialogue: 0,1:01:09.19,1:01:10.65,Main,,0,0,0,,Để xem con nhỏ đó làm gì.
+Dialogue: 0,1:01:15.44,1:01:17.78,Main,,0,0,0,,À, nó định xả nước nóng vào bồn.
+Dialogue: 0,1:01:17.99,1:01:21.59,Main,,0,0,0,,Trời ơi, nó đang sờ vô tường\Nbằng bàn tay bẩn thỉu đó.
+Dialogue: 0,1:01:33.79,1:01:35.80,Main,,0,0,0,,Gì cơ?\NNgươi đưa cho Sen mấy tấm thẻ mới sao?
+Dialogue: 0,1:01:36.01,1:01:38.48,Main,,0,0,0,,Làm gì có ạ, tôi đâu dám lãng phí thế.
+Dialogue: 0,1:02:19.76,1:02:22.43,Main,,0,0,0,,Trời, hết bao nhiêu\Nlà nước thảo dược đắt tiền!
+Dialogue: 0,1:02:48.49,1:02:50.43,Main,,0,0,0,,Sen! Sen ơi, em ở đâu?
+Dialogue: 0,1:02:50.62,1:02:51.79,Main,,0,0,0,,Chị Rin!
+Dialogue: 0,1:02:52.00,1:02:53.12,Main,,0,0,0,,Em có sao không?
+Dialogue: 0,1:02:53.33,1:02:55.92,Main,,0,0,0,,Chị đã nhờ ông Kamajī\Nxả hết toàn bộ nước ra rồi.
+Dialogue: 0,1:02:56.29,1:02:58.55,Main,,0,0,0,,Toàn là nước thảo dược cao cấp!
+Dialogue: 0,1:02:58.92,1:03:02.26,Main,,0,0,0,,Cảm ơn ạ. Chị ơi, hình như ngài ấy\Nđang bị gai đâm vào người.
+Dialogue: 0,1:03:02.47,1:03:05.05,Main,,0,0,0,,- Gai sao?\N- Sâu lắm, không rút ra được.
+Dialogue: 0,1:03:05.26,1:03:09.00,Main,,0,0,0,,Gai? Nó bảo là gai sao?
+Dialogue: 0,1:03:09.22,1:03:11.95,Main,,0,0,0,,Mau triệu tập mọi người xuống dưới. Mau!
+Dialogue: 0,1:03:15.60,1:03:19.57,Main,,0,0,0,,Sen, Rin.\NVị này không phải Thần Nhớp Nháp đâu.
+Dialogue: 0,1:03:21.74,1:03:23.24,Main,,0,0,0,,Hãy dùng sợi thừng này!
+Dialogue: 0,1:03:23.45,1:03:24.55,Main,,0,0,0,,Vâng.
+Dialogue: 0,1:03:33.37,1:03:35.92,Main,,0,0,0,,- Giữ cho chặt vào nhé!\N- Vâng.
+Dialogue: 0,1:03:36.29,1:03:39.90,Main,,0,0,0,,Đừng lề mề nữa.\NĐàn bà con gái cũng vào giúp luôn đi.
+Dialogue: 0,1:03:40.13,1:03:41.92,Main,,0,0,0,,Đã buộc xong rồi ạ.
+Dialogue: 0,1:03:42.13,1:03:46.59,Main,,0,0,0,,Được rồi, cả nhà tắm hãy hợp lực!
+Dialogue: 0,1:03:46.80,1:03:49.41,Main,,0,0,0,,Kéo đi! Kéo mạnh vào!
+Dialogue: 0,1:03:49.64,1:03:51.93,Main,,0,0,0,,Kéo đi!
+Dialogue: 0,1:03:52.14,1:03:54.20,Main,,0,0,0,,Kéo đi!
+Dialogue: 0,1:03:54.64,1:03:56.84,Main,,0,0,0,,Kéo đi!
+Dialogue: 0,1:03:57.06,1:03:59.42,Main,,0,0,0,,Kéo đi!
+Dialogue: 0,1:04:04.49,1:04:05.70,Main,,0,0,0,,Xe đạp sao?
+Dialogue: 0,1:04:05.91,1:04:09.43,Main,,0,0,0,,Biết ngay. Nào, kéo mạnh hơn nữa!
+Dialogue: 0,1:04:09.66,1:04:12.08,Main,,0,0,0,,Kéo đi!
+Dialogue: 0,1:04:12.29,1:04:15.39,Main,,0,0,0,,Mạnh lên! Mạnh lên!
+Dialogue: 0,1:04:43.69,1:04:46.42,Main,,0,0,0,,Sen! Em có sao không?
+Dialogue: 0,1:04:56.62,1:04:59.64,Main,,0,0,0,,Làm tốt lắm...
+Dialogue: 0,1:05:28.90,1:05:30.17,Main,,0,0,0,,Là vàng đấy!
+Dialogue: 0,1:05:30.87,1:05:33.70,Main,,0,0,0,,Nè! Đây là tài sản của nhà tắm,\Nđừng tự tiện nhặt như vậy!
+Dialogue: 0,1:05:33.91,1:05:37.26,Main,,0,0,0,,Im lặng đi! Khách quý vẫn còn ở đây cơ mà.
+Dialogue: 0,1:05:43.00,1:05:46.09,Main,,0,0,0,,Sen, đang chắn đường khách ra đấy.\NMau bước xuống.
+Dialogue: 0,1:05:46.30,1:05:48.80,Main,,0,0,0,,Mở cửa lớn ra! Tiễn khách quý về!
+Dialogue: 0,1:06:08.61,1:06:11.11,Main,,0,0,0,,Tuyệt vời!
+Dialogue: 0,1:06:15.45,1:06:19.68,Main,,0,0,0,,Sen! Ngươi giỏi lắm,\Nkiếm bộn tiền luôn đấy!
+Dialogue: 0,1:06:20.29,1:06:22.92,Main,,0,0,0,,Vị ấy chính là Thần Sông đầy uy danh.
+Dialogue: 0,1:06:23.13,1:06:24.75,Main,,0,0,0,,Các ngươi cũng phải noi gương Sen đấy.
+Dialogue: 0,1:06:24.96,1:06:27.31,Main,,0,0,0,,Hôm nay ta sẽ đãi rượu.
+Dialogue: 0,1:06:27.67,1:06:30.17,Main,,0,0,0,,Giờ thì mau nộp lại hết vàng\Ncác ngươi đã nhặt.
+Dialogue: 0,1:06:30.38,1:06:34.76,Main,,0,0,0,,Ơ kìa! Không phải chứ! Keo kiệt quá đi!
+Dialogue: 0,1:06:44.10,1:06:46.08,Main,,0,0,0,,Ăn không? Chị thó được đó.
+Dialogue: 0,1:06:46.65,1:06:47.80,Main,,0,0,0,,Cảm ơn chị.
+Dialogue: 0,1:06:48.03,1:06:50.09,Main,,0,0,0,,Hầy, mệt thật chứ.
+Dialogue: 0,1:06:52.78,1:06:54.28,Main,,0,0,0,,Không thấy anh Haku đâu cả.
+Dialogue: 0,1:06:54.49,1:06:56.28,Main,,0,0,0,,Lại nhắc tới Haku nữa à?
+Dialogue: 0,1:06:57.12,1:06:59.60,Main,,0,0,0,,Tên đó thỉnh thoảng lại biến mất mà.
+Dialogue: 0,1:06:59.91,1:07:03.79,Main,,0,0,0,,Chị nghe đồn, hắn luôn làm\Nnhững việc mờ ám theo lệnh của Yubāba.
+Dialogue: 0,1:07:04.00,1:07:06.21,Main,,0,0,0,,- Vậy à...\N- Rin, tôi tắt đèn nhé.
+Dialogue: 0,1:07:06.42,1:07:07.56,Main,,0,0,0,,Ừ.
+Dialogue: 0,1:07:32.61,1:07:35.20,Main,,0,0,0,,Thị trấn kìa, nhìn như biển vậy.
+Dialogue: 0,1:07:35.41,1:07:38.43,Main,,0,0,0,,Đương nhiên. Trời mưa như vậy,\Ncó thể thành đại dương đó.
+Dialogue: 0,1:07:40.33,1:07:44.39,Main,,0,0,0,,Một ngày nào đó chị sẽ sang thị trấn ấy.\NChắc chắn sẽ bỏ việc chỗ này.
+Dialogue: 0,1:08:07.31,1:08:09.83,Main,,0,0,0,,Hửm? Em sao vậy?
+Dialogue: 0,1:08:39.55,1:08:40.95,Main,,0,0,0,,Là vàng!
+Dialogue: 0,1:08:43.97,1:08:45.73,Main,,0,0,0,,Ông là ai?
+Dialogue: 0,1:08:45.93,1:08:48.90,Main,,0,0,0,,Ông đâu phải khách hàng.\NÔng không được bước vào đó!
+Dialogue: 0,1:08:55.24,1:08:58.70,Main,,0,0,0,,Vàng hả, vàng hả? Ông, ông cho tôi sao?
+Dialogue: 0,1:09:03.91,1:09:06.31,Main,,0,0,0,,Ông có thể biến ra vàng sao?
+Dialogue: 0,1:09:11.84,1:09:13.19,Main,,0,0,0,,Đưa cho tôi!
+Dialogue: 0,1:09:20.93,1:09:22.76,Main,,0,0,0,,Ai đấy, sao lại ở đây giờ này?
+Dialogue: 0,1:09:23.76,1:09:26.24,Main,,0,0,0,,Đã qua giờ tắt đèn rồi cơ mà.
+Dialogue: 0,1:09:29.65,1:09:33.90,Main,,0,0,0,,Ông Aniyaku, ta đói bụng quá trời.\NBụng đang sôi lên đây này.
+Dialogue: 0,1:09:34.11,1:09:35.28,Main,,0,0,0,,Giọng nói đó là của...
+Dialogue: 0,1:09:35.48,1:09:37.28,Main,,0,0,0,,Tiền cọc đó. Cầm lấy!
+Dialogue: 0,1:09:37.90,1:09:40.70,Main,,0,0,0,,Ta là khách, ta muốn vào bồn tắm.
+Dialogue: 0,1:09:40.91,1:09:42.41,Main,,0,0,0,,Gọi tất cả dậy nhanh lên!
+Dialogue: 0,1:09:47.79,1:09:51.29,Main,,0,0,0,,Bố ơi, mẹ ơi.\NNgài Thần Sông cho con bánh này.
+Dialogue: 0,1:09:51.50,1:09:54.35,Main,,0,0,0,,Bố mẹ ăn vào\Nsẽ có thể biến lại thành người đó.
+Dialogue: 0,1:09:58.22,1:10:00.23,Main,,0,0,0,,Bố, mẹ, hai người ở đâu?
+Dialogue: 0,1:10:00.63,1:10:01.99,Main,,0,0,0,,Bố ơi!
+Dialogue: 0,1:10:13.36,1:10:14.62,Main,,0,0,0,,Ác mộng thật.
+Dialogue: 0,1:10:15.77,1:10:17.13,Main,,0,0,0,,Chị Rin?
+Dialogue: 0,1:10:21.11,1:10:22.59,Main,,0,0,0,,Không có ai cả.
+Dialogue: 0,1:10:29.20,1:10:32.14,Main,,0,0,0,,Ôi! Đúng là hóa thành biển thật rồi!
+Dialogue: 0,1:10:37.17,1:10:40.27,Main,,0,0,0,,Từ đây có thể thấy được chỗ bố mẹ luôn.
+Dialogue: 0,1:10:44.09,1:10:46.05,Main,,0,0,0,,Ông Kamajī đã đun nước rồi sao?
+Dialogue: 0,1:10:46.26,1:10:48.28,Main,,0,0,0,,Mình ngủ lâu đến thế cơ à?
+Dialogue: 0,1:10:51.48,1:10:54.73,Main,,0,0,0,,Khách quý đang chờ đấy.\NMấy người, không nhanh tay lên được à?
+Dialogue: 0,1:10:54.94,1:10:58.86,Main,,0,0,0,,Mau mau đưa đồ ăn lên,\Nđồ thừa cũng được, đem nhiều vào!
+Dialogue: 0,1:11:00.78,1:11:02.78,Main,,0,0,0,,- Sen!\N- Chị Rin.
+Dialogue: 0,1:11:02.99,1:11:05.82,Main,,0,0,0,,Chị định về phòng gọi em dậy đấy.\NNhìn này!
+Dialogue: 0,1:11:06.03,1:11:08.33,Main,,0,0,0,,Vàng thật đó. Khách cho chị.
+Dialogue: 0,1:11:08.70,1:11:10.83,Main,,0,0,0,,Vị khách mới tới này hào phóng lắm!
+Dialogue: 0,1:11:11.04,1:11:12.79,Main,,0,0,0,,Thưa quý khách! Mời ngài dùng món này ạ!
+Dialogue: 0,1:11:13.00,1:11:16.64,Main,,0,0,0,,Hãy nếm qua món này thưa ngài!
+Dialogue: 0,1:11:18.55,1:11:20.88,Main,,0,0,0,,Ở đây này, hãy ăn và thưởng cho tôi nữa.
+Dialogue: 0,1:11:21.09,1:11:21.92,Main,,0,0,0,,Chỗ này ạ.
+Dialogue: 0,1:11:22.13,1:11:24.99,Main,,0,0,0,,Ta vẫn còn đói lắm.\NMang hết đồ ăn lên đây!
+Dialogue: 0,1:11:29.93,1:11:31.23,Main,,0,0,0,,Vị khách đó...
+Dialogue: 0,1:11:31.60,1:11:33.56,Main,,0,0,0,,Sen cũng vào đi. Yubāba vẫn còn ngủ.
+Dialogue: 0,1:11:33.77,1:11:35.04,Main,,0,0,0,,Cơ hội trời cho đó.
+Dialogue: 0,1:11:35.40,1:11:37.23,Main,,0,0,0,,Em phải đến chỗ ông Kamajī.
+Dialogue: 0,1:11:37.44,1:11:39.94,Main,,0,0,0,,Lúc này em đừng nên đến chỗ ông ấy.
+Dialogue: 0,1:11:40.15,1:11:42.28,Main,,0,0,0,,Ông Kamajī vừa bị gọi dậy nên đang quạu.
+Dialogue: 0,1:11:42.49,1:11:44.59,Main,,0,0,0,,- Rin, vào lần nữa đi.\N- Ừ!
+Dialogue: 0,1:12:09.51,1:12:12.95,Main,,0,0,0,,Nếu mình không nhận ra bố mẹ\Nthì phải làm sao bây giờ?
+Dialogue: 0,1:12:13.64,1:12:16.50,Main,,0,0,0,,Bố béo lên nhiều quá sẽ xấu lắm.
+Dialogue: 0,1:12:44.72,1:12:46.22,Main,,0,0,0,,Con rồng chỗ cây cầu!
+Dialogue: 0,1:12:46.59,1:12:48.03,Main,,0,0,0,,Nó đang đến.
+Dialogue: 0,1:12:50.97,1:12:52.28,Main,,0,0,0,,Gì vậy? Không phải chim.
+Dialogue: 0,1:13:03.57,1:13:06.78,Main,,0,0,0,,Anh Haku! Cố lên anh! Em ở đây!
+Dialogue: 0,1:13:06.99,1:13:07.95,Main,,0,0,0,,Haku?
+Dialogue: 0,1:13:08.16,1:13:09.55,Main,,0,0,0,,Anh Haku!
+Dialogue: 0,1:13:12.99,1:13:14.37,Main,,0,0,0,,Ối!
+Dialogue: 0,1:13:27.51,1:13:29.99,Main,,0,0,0,,Chỉ là giấy thôi mà.
+Dialogue: 0,1:13:58.21,1:14:00.52,Main,,0,0,0,,Là anh Haku phải không?
+Dialogue: 0,1:14:06.71,1:14:07.80,Main,,0,0,0,,Anh bị thương rồi à?
+Dialogue: 0,1:14:08.01,1:14:11.34,Main,,0,0,0,,Đàn chim giấy kia đã bay đi rồi.\NỔn hết cả rồi anh.
+Dialogue: 0,1:14:24.48,1:14:26.27,Main,,0,0,0,,Anh ấy đến chỗ của Yubāba à.
+Dialogue: 0,1:14:26.65,1:14:29.32,Main,,0,0,0,,Làm sao đây. Anh Haku sẽ chết mất.
+Dialogue: 0,1:14:37.04,1:14:41.39,Main,,0,0,0,,{\i1}Được rồi, mau chào đón quý ngài hào phóng{\i0}
+Dialogue: 0,1:14:41.79,1:14:45.92,Main,,0,0,0,,{\i1}Người vĩ đại nhất thế gian này{\i0}\N{\i1}Mau chào đón ngài{\i0}
+Dialogue: 0,1:14:46.96,1:14:48.96,Main,,0,0,0,,Chào mừng quý khách.
+Dialogue: 0,1:14:49.17,1:14:52.01,Main,,0,0,0,,{\i1}Xin ngài ban phúc, xin ngài ban phúc{\i0}
+Dialogue: 0,1:14:52.22,1:14:54.18,Main,,0,0,0,,{\i1}Thưa ngài{\i0}\N{\i1}Xin hãy thưởng lộc cho chúng tôi{\i0}
+Dialogue: 0,1:14:54.39,1:14:56.05,Main,,0,0,0,,- Thưa ngài!\N- {\i1}Xin ngài ban phúc{\i0}
+Dialogue: 0,1:14:56.26,1:14:57.56,Main,,0,0,0,,{\i1}Cầu xin ngài!{\i0}
+Dialogue: 0,1:14:57.76,1:14:59.47,Main,,0,0,0,,- Ngài đến kìa.\N- Lần này phải xin được.
+Dialogue: 0,1:14:59.68,1:15:01.44,Main,,0,0,0,,Ngài ấy có thể tạo ra vàng từ tay đấy.
+Dialogue: 0,1:15:02.23,1:15:05.61,Main,,0,0,0,,Xin ngài hãy ghé sang đây nữa ạ!
+Dialogue: 0,1:15:09.40,1:15:10.82,Main,,0,0,0,,Này, mày làm gì thế?
+Dialogue: 0,1:15:11.03,1:15:11.82,Main,,0,0,0,,Cháu muốn đi lên.
+Dialogue: 0,1:15:12.03,1:15:13.51,Main,,0,0,0,,Không được!
+Dialogue: 0,1:15:14.78,1:15:15.95,Main,,0,0,0,,Á! Là máu...
+Dialogue: 0,1:15:20.00,1:15:22.12,Main,,0,0,0,,Tránh ra. Đây là lối dành cho khách.
+Dialogue: 0,1:15:23.62,1:15:25.71,Main,,0,0,0,,Lúc trước, cảm ơn ngài đã giúp tôi.
+Dialogue: 0,1:15:25.92,1:15:27.94,Main,,0,0,0,,Mày làm gì thế? Mau tránh...
+Dialogue: 0,1:15:50.32,1:15:51.90,Main,,0,0,0,,Tôi không muốn, không cần.
+Dialogue: 0,1:15:54.91,1:15:57.34,Main,,0,0,0,,Tôi đang có việc gấp, xin phép ngài!
+Dialogue: 0,1:16:08.54,1:16:11.67,Main,,0,0,0,,Này, đừng hỗn loạn! Mau trật tự đi!
+Dialogue: 0,1:16:12.34,1:16:13.94,Main,,0,0,0,,Mau lui lại!
+Dialogue: 0,1:16:14.51,1:16:16.55,Main,,0,0,0,,Xin lỗi vì đã thất lễ với ngài.
+Dialogue: 0,1:16:16.76,1:16:20.16,Main,,0,0,0,,Con bé đó là con người,\Nlại vừa mới tới, mong ngài bỏ qua.
+Dialogue: 0,1:16:22.68,1:16:24.35,Main,,0,0,0,,Vì sao ngươi lại cười?
+Dialogue: 0,1:16:24.56,1:16:25.56,Main,,0,0,0,,Ngươi đã cười?
+Dialogue: 0,1:16:25.77,1:16:26.91,Main,,0,0,0,,Dạ, tôi nào dám.
+Dialogue: 0,1:16:31.69,1:16:34.24,Main,,0,0,0,,Họ bị ăn rồi!
+Dialogue: 0,1:18:01.03,1:18:02.42,Main,,0,0,0,,Là Yubāba.
+Dialogue: 0,1:19:14.94,1:19:17.83,Main,,0,0,0,,Đây đúng là chuyện lớn mà.
+Dialogue: 0,1:19:18.65,1:19:22.74,Main,,0,0,0,,Đấy chính là Vô Diện. Phải, là Vô Diện đó!
+Dialogue: 0,1:19:23.11,1:19:25.95,Main,,0,0,0,,Lòng tham đã thu hút\Ntên khách quái dị ấy đến đây.
+Dialogue: 0,1:19:26.32,1:19:29.55,Main,,0,0,0,,Ta sẽ đến đó,\Nđừng tự ý làm gì cả kẻo hỏng việc!
+Dialogue: 0,1:19:30.33,1:19:32.79,Main,,0,0,0,,Trời ạ, bẩn hết cả thảm rồi.
+Dialogue: 0,1:19:33.00,1:19:34.92,Main,,0,0,0,,Bọn bây, dọn dẹp Haku đi.
+Dialogue: 0,1:19:35.13,1:19:37.04,Main,,0,0,0,,Nó chẳng còn giá trị nữa rồi.
+Dialogue: 0,1:19:54.06,1:19:55.66,Main,,0,0,0,,Ú òa!
+Dialogue: 0,1:19:59.48,1:20:02.59,Main,,0,0,0,,Thật là, bé Boh lại không ngủ\Ntrên giường rồi.
+Dialogue: 0,1:20:06.61,1:20:10.70,Main,,0,0,0,,A trời, xin lỗi con yêu.\NCon đang ngủ yên mà lại phá con như vậy.
+Dialogue: 0,1:20:10.91,1:20:13.60,Main,,0,0,0,,Baba vẫn còn việc phải làm.
+Dialogue: 0,1:20:16.62,1:20:19.31,Main,,0,0,0,,Con hãy ngủ ngoan nhé.
+Dialogue: 0,1:20:47.36,1:20:49.56,Main,,0,0,0,,Đau quá! Thả chị ra!
+Dialogue: 0,1:20:49.78,1:20:51.83,Main,,0,0,0,,A! Cảm ơn em đã cứu chị.
+Dialogue: 0,1:20:52.04,1:20:55.21,Main,,0,0,0,,Chị đang vội lắm, em bỏ tay ra nhé?
+Dialogue: 0,1:20:55.41,1:20:57.86,Main,,0,0,0,,Chị là mầm bệnh đấy à?
+Dialogue: 0,1:20:58.08,1:21:00.69,Main,,0,0,0,,Ở bên ngoài chỉ toàn là vi khuẩn\Ngây bệnh thôi.
+Dialogue: 0,1:21:01.54,1:21:05.44,Main,,0,0,0,,Chị là con người, tuy ở thế giới này\Nem sẽ hiếm gặp ai như chị.
+Dialogue: 0,1:21:05.76,1:21:08.01,Main,,0,0,0,,Ra ngoài sẽ làm hại cơ thể đó.
+Dialogue: 0,1:21:08.22,1:21:10.20,Main,,0,0,0,,Ở lại chơi với Boh đi.
+Dialogue: 0,1:21:10.43,1:21:11.97,Main,,0,0,0,,Em bị bệnh sao?
+Dialogue: 0,1:21:12.18,1:21:14.93,Main,,0,0,0,,Chỉ cần ra ngoài là sẽ mắc bệnh,\Nnên em luôn ở đây.
+Dialogue: 0,1:21:15.14,1:21:17.42,Main,,0,0,0,,Ở mãi trong đây mới dễ bị ốm đấy!
+Dialogue: 0,1:21:17.64,1:21:21.40,Main,,0,0,0,,Nghe này, một người rất quan trọng\Nđối với chị đang bị thương nặng.
+Dialogue: 0,1:21:21.61,1:21:23.15,Main,,0,0,0,,Vậy nên chị phải đến bên anh ấy ngay.
+Dialogue: 0,1:21:23.36,1:21:24.61,Main,,0,0,0,,Xin em bỏ tay ra đi.
+Dialogue: 0,1:21:24.98,1:21:26.44,Main,,0,0,0,,Chị mà đi là em khóc đó.
+Dialogue: 0,1:21:26.65,1:21:30.12,Main,,0,0,0,,Boh mà khóc là Baba sẽ đến ngay\Nrồi giết chị đó.
+Dialogue: 0,1:21:30.32,1:21:31.66,Main,,0,0,0,,Em sẽ bẻ tay chị đấy.
+Dialogue: 0,1:21:31.87,1:21:33.16,Main,,0,0,0,,Đau, đau quá!
+Dialogue: 0,1:21:33.37,1:21:35.75,Main,,0,0,0,,Nghe chị nhé? Chị sẽ quay lại\Nvà chơi với em sau.
+Dialogue: 0,1:21:36.12,1:21:37.50,Main,,0,0,0,,Không! Chơi ngay giờ cơ!
+Dialogue: 0,1:21:41.71,1:21:43.56,Main,,0,0,0,,Máu! Em thấy không? Máu đấy!
+Dialogue: 0,1:21:55.27,1:21:56.98,Main,,0,0,0,,Anh Haku!
+Dialogue: 0,1:21:57.18,1:21:59.10,Main,,0,0,0,,Làm gì vậy? Mau sang kia, xùy xùy!
+Dialogue: 0,1:21:59.31,1:22:01.75,Main,,0,0,0,,Haku? Anh Haku phải không? Cố lên anh.
+Dialogue: 0,1:22:02.27,1:22:04.37,Main,,0,0,0,,Mấy ông im lặng đi! Anh Haku!
+Dialogue: 0,1:22:10.36,1:22:11.71,Main,,0,0,0,,Mau biến đi chỗ khác!
+Dialogue: 0,1:22:13.83,1:22:15.43,Main,,0,0,0,,Không được làm vậy!
+Dialogue: 0,1:22:30.59,1:22:32.22,Main,,0,0,0,,Em không sợ máu đâu.
+Dialogue: 0,1:22:32.43,1:22:34.22,Main,,0,0,0,,Chị không chơi cùng là em khóc đấy.
+Dialogue: 0,1:22:34.43,1:22:36.22,Main,,0,0,0,,Đợi chị chút nhé! Em là bé ngoan mà!
+Dialogue: 0,1:22:36.43,1:22:39.83,Main,,0,0,0,,Không chơi cùng thì Boh sẽ khóc đó.
+Dialogue: 0,1:22:41.85,1:22:43.02,Main,,0,0,0,,Xin em đấy, đợi tí.
+Dialogue: 0,1:22:43.23,1:22:46.44,Main,,0,0,0,,Ồn ào thật. Im lặng đi nào.
+Dialogue: 0,1:22:47.69,1:22:50.38,Main,,0,0,0,,Mày có vẻ béo quá rồi đấy.
+Dialogue: 0,1:22:57.95,1:23:00.16,Main,,0,0,0,,Quả nhiên cơ thể còn hơi trong suốt.
+Dialogue: 0,1:23:00.37,1:23:01.51,Main,,0,0,0,,Baba.
+Dialogue: 0,1:23:01.83,1:23:05.94,Main,,0,0,0,,Ôi cha ôi cha, mày không phân biệt\Nđược ta và mẹ của mày sao?
+Dialogue: 0,1:23:14.09,1:23:16.93,Main,,0,0,0,,Mày sẽ di chuyển dễ hơn\Ntrong hình dáng đó.
+Dialogue: 0,1:23:17.14,1:23:17.93,Main,,0,0,0,,Để xem nào.
+Dialogue: 0,1:23:18.39,1:23:20.27,Main,,0,0,0,,Nên biến bọn bây thành gì đây?
+Dialogue: 0,1:23:38.28,1:23:40.08,Main,,0,0,0,,Giữ bí mật chuyện này nhé.
+Dialogue: 0,1:23:40.29,1:23:43.18,Main,,0,0,0,,Nếu nói với bất kì ai,\Nta sẽ xé rách miệng ngươi.
+Dialogue: 0,1:23:44.71,1:23:45.92,Main,,0,0,0,,Bà là ai vậy?
+Dialogue: 0,1:23:46.13,1:23:48.46,Main,,0,0,0,,Ta là chị gái song sinh của Yubāba.
+Dialogue: 0,1:23:48.67,1:23:50.59,Main,,0,0,0,,Nhờ có ngươi mà ta có thể\Nchiêm ngưỡng nơi này,
+Dialogue: 0,1:23:50.80,1:23:52.38,Main,,0,0,0,,cũng thú vị đấy.
+Dialogue: 0,1:23:52.59,1:23:54.43,Main,,0,0,0,,Nào, giờ thì giao con rồng đó cho ta.
+Dialogue: 0,1:23:54.80,1:23:57.05,Main,,0,0,0,,Bà định làm gì anh ấy?\NAnh ấy đang bị thương nặng.
+Dialogue: 0,1:23:57.26,1:24:00.56,Main,,0,0,0,,Nó là tay sai của em gái ta,\Nmột con rồng trộm vặt!
+Dialogue: 0,1:24:00.77,1:24:03.69,Main,,0,0,0,,Nó đã lấy trộm con dấu\Nvô cùng quan trọng của ta.
+Dialogue: 0,1:24:03.89,1:24:06.58,Main,,0,0,0,,Anh Haku không làm chuyện vậy đâu.\NAnh ấy hiền lắm!
+Dialogue: 0,1:24:06.77,1:24:10.65,Main,,0,0,0,,Con rồng nào cũng hiền cả.\NBọn chúng hiền lành và đần độn.
+Dialogue: 0,1:24:10.86,1:24:15.32,Main,,0,0,0,,Nó trở thành đệ tử của em gái ta\Nđể có được sức mạnh phép thuật.
+Dialogue: 0,1:24:15.53,1:24:19.58,Main,,0,0,0,,Nó còn non nớt và làm mọi thứ\Nđứa em tham lam của ta yêu cầu.
+Dialogue: 0,1:24:19.78,1:24:21.66,Main,,0,0,0,,Nào, ngươi mau mau tránh ra.
+Dialogue: 0,1:24:21.87,1:24:24.41,Main,,0,0,0,,Dù sao con rồng này cũng hết cứu được rồi.
+Dialogue: 0,1:24:24.62,1:24:27.50,Main,,0,0,0,,Con dấu đó đã được\Nniệm thần chú bảo vệ rồi.
+Dialogue: 0,1:24:27.71,1:24:29.81,Main,,0,0,0,,Ai đánh cắp nó đều phải chết.
+Dialogue: 0,1:24:30.55,1:24:32.02,Main,,0,0,0,,Không được!
+Dialogue: 0,1:24:39.76,1:24:41.93,Main,,0,0,0,,Gì vậy chứ, cái bọn này?
+Dialogue: 0,1:24:42.14,1:24:44.56,Main,,0,0,0,,Nào nào, mau trở về phòng đi.
+Dialogue: 0,1:24:52.15,1:24:54.61,Main,,0,0,0,,Ta đã mất cảnh giác rồi.
+Dialogue: 0,1:24:54.82,1:24:57.32,Main,,0,0,0,,Anh Haku! Ôi không!
+Dialogue: 0,1:25:17.51,1:25:18.76,Main,,0,0,0,,Anh Haku!
+Dialogue: 0,1:25:46.70,1:25:47.96,Main,,0,0,0,,- Sao vậy?\N- Anh Haku!
+Dialogue: 0,1:25:48.16,1:25:49.96,Main,,0,0,0,,Nhóc đợi đã!
+Dialogue: 0,1:25:52.92,1:25:54.21,Main,,0,0,0,,Anh Haku!
+Dialogue: 0,1:25:57.59,1:25:59.23,Main,,0,0,0,,Đau lắm không ạ?
+Dialogue: 0,1:26:03.01,1:26:05.07,Main,,0,0,0,,Trời ơi, nguy kịch quá.
+Dialogue: 0,1:26:06.97,1:26:10.19,Main,,0,0,0,,Anh ơi! Cố lên!\NLàm sao đây ông, anh ấy chết mất!
+Dialogue: 0,1:26:10.56,1:26:13.48,Main,,0,0,0,,Trong cơ thể thằng bé có thứ\Nđang cắn nuốt sinh mệnh nó.
+Dialogue: 0,1:26:13.69,1:26:14.65,Main,,0,0,0,,Trong cơ thể ạ?
+Dialogue: 0,1:26:14.86,1:26:18.07,Main,,0,0,0,,Phép thuật mạnh quá.\NLão không thể giúp gì được.
+Dialogue: 0,1:26:18.44,1:26:21.66,Main,,0,0,0,,Haku, Thần Sông đã cho em cái này.\NLà bánh Dango đấy.
+Dialogue: 0,1:26:21.86,1:26:23.93,Main,,0,0,0,,Có lẽ sẽ hóa giải được phép, ăn đi anh.
+Dialogue: 0,1:26:26.16,1:26:28.45,Main,,0,0,0,,Anh Haku, mở miệng ra đi anh!
+Dialogue: 0,1:26:28.66,1:26:31.27,Main,,0,0,0,,Em xin anh đấy. Mau ăn đi!
+Dialogue: 0,1:26:33.00,1:26:34.84,Main,,0,0,0,,Anh xem, không sao cả.
+Dialogue: 0,1:26:35.21,1:26:37.21,Main,,0,0,0,,Là Rinh dược Dango sao?
+Dialogue: 0,1:26:37.42,1:26:40.51,Main,,0,0,0,,Mở miệng ra đi, ngoan nào anh.
+Dialogue: 0,1:26:44.35,1:26:45.74,Main,,0,0,0,,Không sao đâu.
+Dialogue: 0,1:26:46.14,1:26:47.52,Main,,0,0,0,,Nuốt xuống đi!
+Dialogue: 0,1:27:06.08,1:27:07.37,Main,,0,0,0,,Ra rồi! Là nó đấy!
+Dialogue: 0,1:27:19.67,1:27:21.30,Main,,0,0,0,,Con dấu!
+Dialogue: 0,1:27:21.51,1:27:23.30,Main,,0,0,0,,Nó trốn kìa. Ở kia, ở kia! Bắt lấy nó!
+Dialogue: 0,1:27:42.95,1:27:45.70,Main,,0,0,0,,Sen, mau cắt điềm xui!
+Dialogue: 0,1:27:49.83,1:27:50.79,Main,,0,0,0,,Cắt được rồi!
+Dialogue: 0,1:27:51.00,1:27:53.71,Main,,0,0,0,,Ông ơi, đây là con dấu của chị gái Yubāba.
+Dialogue: 0,1:27:54.08,1:27:56.71,Main,,0,0,0,,Của Zeniba à?\NVậy là con dấu hợp đồng của phù thủy?
+Dialogue: 0,1:27:57.08,1:27:58.85,Main,,0,0,0,,Vật này giá trị lắm đấy...
+Dialogue: 0,1:28:01.80,1:28:05.68,Main,,0,0,0,,A, đúng là anh Haku rồi.\NÔng ơi, là anh Haku đấy ạ.
+Dialogue: 0,1:28:07.64,1:28:10.31,Main,,0,0,0,,Anh Haku? Haku, anh Haku!
+Dialogue: 0,1:28:12.68,1:28:14.60,Main,,0,0,0,,Ông ơi! Anh Haku không còn thở nữa!
+Dialogue: 0,1:28:14.81,1:28:16.06,Main,,0,0,0,,Nó còn yếu lắm,
+Dialogue: 0,1:28:16.27,1:28:18.33,Main,,0,0,0,,không thể xem thường\Nvết thương do phép thuật được.
+Dialogue: 0,1:28:27.66,1:28:30.76,Main,,0,0,0,,Cứ để nó nghỉ ngơi một lúc.
+Dialogue: 0,1:28:33.04,1:28:37.92,Main,,0,0,0,,Haku hồi đó cũng đột nhiên xuất hiện\Nở đây hệt như nhóc vậy đó, Sen.
+Dialogue: 0,1:28:38.13,1:28:40.90,Main,,0,0,0,,Nó bảo nó muốn học phép thuật.
+Dialogue: 0,1:28:41.17,1:28:43.13,Main,,0,0,0,,Lão đã phản đối.
+Dialogue: 0,1:28:43.34,1:28:46.91,Main,,0,0,0,,Lão đã bảo nếu theo học phù thủy,\Ncái giá phải trả lớn lắm.
+Dialogue: 0,1:28:47.13,1:28:49.45,Main,,0,0,0,,Nhưng thằng bé này không nghe lời.
+Dialogue: 0,1:28:50.05,1:28:51.81,Main,,0,0,0,,Nó bảo nó chẳng còn nơi để về.
+Dialogue: 0,1:28:52.01,1:28:55.49,Main,,0,0,0,,Cuối cùng, nó cũng trở thành\Nđệ tử của Yubāba.
+Dialogue: 0,1:28:55.89,1:28:59.11,Main,,0,0,0,,Dần dần, gương mặt nó trở nên tiều tụy.
+Dialogue: 0,1:28:59.31,1:29:02.08,Main,,0,0,0,,Mắt thì ngày càng giá lạnh và đáng sợ.
+Dialogue: 0,1:29:04.28,1:29:08.07,Main,,0,0,0,,Ông Kamajī, cháu sẽ đem trả\Ncon dấu này cho chị của Yubāba.
+Dialogue: 0,1:29:08.28,1:29:11.87,Main,,0,0,0,,Cháu sẽ trả nó và xin lỗi,\Nrồi nhờ bà ấy cứu anh Haku.
+Dialogue: 0,1:29:12.08,1:29:13.93,Main,,0,0,0,,Hãy chỉ cho cháu nơi bà ấy ở.
+Dialogue: 0,1:29:14.41,1:29:16.68,Main,,0,0,0,,Nhóc định đến chỗ của Zeniba à?
+Dialogue: 0,1:29:17.08,1:29:19.96,Main,,0,0,0,,- Mụ phù thủy ấy dễ sợ lắm đó.\N- Làm ơn ạ.
+Dialogue: 0,1:29:20.33,1:29:22.38,Main,,0,0,0,,Anh Haku đã cứu cháu.
+Dialogue: 0,1:29:22.59,1:29:24.21,Main,,0,0,0,,Vậy nên, cháu cũng muốn cứu anh ấy!
+Dialogue: 0,1:29:25.88,1:29:27.30,Main,,0,0,0,,Đi thì cũng được thôi,
+Dialogue: 0,1:29:27.51,1:29:30.95,Main,,0,0,0,,nhưng chẳng biết có quay về được không ấy.
+Dialogue: 0,1:29:31.51,1:29:33.03,Main,,0,0,0,,Đợi lão một chốc.
+Dialogue: 0,1:29:35.68,1:29:38.98,Main,,0,0,0,,Lão nhớ đã để nó ở đây...
+Dialogue: 0,1:29:39.60,1:29:42.73,Main,,0,0,0,,Các cậu, lấy giúp mình giày\Nvà quần áo nhé!
+Dialogue: 0,1:29:51.03,1:29:54.14,Main,,0,0,0,,Sen! Chị tìm em nãy giờ đấy!
+Dialogue: 0,1:29:56.83,1:29:57.71,Main,,0,0,0,,Chị Rin.
+Dialogue: 0,1:29:57.91,1:30:00.64,Main,,0,0,0,,Haku đấy sao?\NNơi này xảy ra chuyện gì vậy?
+Dialogue: 0,1:30:01.25,1:30:02.60,Main,,0,0,0,,Bọn này là ai?
+Dialogue: 0,1:30:03.25,1:30:05.63,Main,,0,0,0,,Bạn mới của em ạ, nhỉ?
+Dialogue: 0,1:30:06.01,1:30:09.09,Main,,0,0,0,,Yubāba đang lùng sục khắp nơi\Nđể tìm em đấy!
+Dialogue: 0,1:30:09.30,1:30:12.89,Main,,0,0,0,,Vị khách quý tưởng chừng hào phóng kia\Nhóa ra lại là quái vật Vô Diện.
+Dialogue: 0,1:30:13.26,1:30:15.28,Main,,0,0,0,,Yubāba bảo em đã dẫn hắn vào đây.
+Dialogue: 0,1:30:19.10,1:30:20.44,Main,,0,0,0,,Có lẽ vậy thật ạ.
+Dialogue: 0,1:30:20.64,1:30:22.61,Main,,0,0,0,,Gì chứ? Em nói thật đấy à?
+Dialogue: 0,1:30:22.81,1:30:24.40,Main,,0,0,0,,Vì em nghĩ đấy là khách hàng...
+Dialogue: 0,1:30:24.61,1:30:27.69,Main,,0,0,0,,Làm sao bây giờ, hắn ta\Nđã ăn trọn ba người rồi đấy.
+Dialogue: 0,1:30:27.90,1:30:31.13,Main,,0,0,0,,Có rồi, tìm ra rồi. Sen, lão tìm thấy rồi!
+Dialogue: 0,1:30:31.61,1:30:33.20,Main,,0,0,0,,Ông ơi, bọn cháu đang bận lắm.
+Dialogue: 0,1:30:33.41,1:30:34.41,Main,,0,0,0,,Nhóc có thể dùng nó.
+Dialogue: 0,1:30:34.62,1:30:35.89,Main,,0,0,0,,{\an8}VÉ TÀU
+Dialogue: 0,1:30:36.12,1:30:39.21,Main,,0,0,0,,Ồ, là vé tàu cơ à?\NÔng lấy đâu ra thứ này thế?
+Dialogue: 0,1:30:39.41,1:30:41.75,Main,,0,0,0,,Đây là tấm vé còn sót lại\Ntừ 40 năm về trước.
+Dialogue: 0,1:30:41.96,1:30:45.54,Main,,0,0,0,,Nghe đây, nhóc hãy đi bằng tàu\Nđến ga Đáy Đầm Lầy ở trạm dừng thứ sáu.
+Dialogue: 0,1:30:45.92,1:30:46.92,Main,,0,0,0,,Đáy Đầm Lầy ạ?
+Dialogue: 0,1:30:47.13,1:30:48.92,Main,,0,0,0,,Ừ, cứ nhớ trạm dừng thứ sáu là được.
+Dialogue: 0,1:30:49.13,1:30:50.30,Main,,0,0,0,,Trạm thứ sáu.
+Dialogue: 0,1:30:50.51,1:30:51.80,Main,,0,0,0,,Đừng nhầm nhé.
+Dialogue: 0,1:30:52.01,1:30:56.01,Main,,0,0,0,,Ngày xưa sẽ có chuyến tàu quay lại,\Nnhưng giờ phải đi một chiều.
+Dialogue: 0,1:30:56.22,1:30:57.81,Main,,0,0,0,,Dù vậy nhóc vẫn muốn đi sao?
+Dialogue: 0,1:30:58.02,1:31:01.12,Main,,0,0,0,,Vâng. Cháu sẽ đi bộ dọc đường ray\Nđể trở lại.
+Dialogue: 0,1:31:02.85,1:31:04.52,Main,,0,0,0,,Phía Yubāba em tính sao?
+Dialogue: 0,1:31:04.73,1:31:06.12,Main,,0,0,0,,Giờ em sẽ đến đó.
+Dialogue: 0,1:31:06.98,1:31:10.61,Main,,0,0,0,,Haku, em chắc chắn sẽ quay lại.\NAnh không được chết đâu đấy!
+Dialogue: 0,1:31:11.24,1:31:12.88,Main,,0,0,0,,Chuyện gì vậy ông?
+Dialogue: 0,1:31:13.41,1:31:15.93,Main,,0,0,0,,Cháu không hiểu à?Tình yêu, tình yêu đó!
+Dialogue: 0,1:31:23.79,1:31:25.79,Main,,0,0,0,,Hắn càng ngày càng to lên.
+Dialogue: 0,1:31:26.00,1:31:27.84,Main,,0,0,0,,- Ôi!\N- Tôi không muốn bị ăn thịt!
+Dialogue: 0,1:31:28.05,1:31:29.31,Main,,0,0,0,,Tới rồi.
+Dialogue: 0,1:31:36.51,1:31:40.57,Main,,0,0,0,,Sen à, cảm ơn trời.\NYubāba không thể ngăn hắn nữa rồi.
+Dialogue: 0,1:31:43.64,1:31:47.21,Main,,0,0,0,,Đừng nổi cơn thịnh nộ như thế.\NSen sẽ đến ngay thôi.
+Dialogue: 0,1:31:47.73,1:31:50.28,Main,,0,0,0,,Sen đâu rồi? Mau cho gọi Sen!
+Dialogue: 0,1:31:50.65,1:31:52.17,Main,,0,0,0,,Vào đó mau lên!
+Dialogue: 0,1:31:57.58,1:31:59.45,Main,,0,0,0,,Thưa bà Yubāba, Sen đến rồi.
+Dialogue: 0,1:31:59.66,1:32:00.90,Main,,0,0,0,,Chậm chạp quá!
+Dialogue: 0,1:32:01.12,1:32:03.29,Main,,0,0,0,,Thưa quý khách, Sen đã đến.
+Dialogue: 0,1:32:03.50,1:32:05.68,Main,,0,0,0,,Ngài vui lòng đợi trong chốc lát.
+Dialogue: 0,1:32:06.50,1:32:09.71,Main,,0,0,0,,Sao ngươi lề mề thế?\NCứ như vậy chúng ta sẽ lỗ nặng đấy!
+Dialogue: 0,1:32:09.92,1:32:13.02,Main,,0,0,0,,Mau vào đó dụ dỗ,\Nrồi bòn sạch tiền của hắn cho ta...
+Dialogue: 0,1:32:16.26,1:32:18.49,Main,,0,0,0,,Con chuột bẩn thỉu gì thế này?
+Dialogue: 0,1:32:20.76,1:32:23.14,Main,,0,0,0,,Dạ thưa... bà chủ không biết nó sao?
+Dialogue: 0,1:32:23.35,1:32:26.13,Main,,0,0,0,,Làm sao ta biết nó được chứ? Khiếp thật.
+Dialogue: 0,1:32:26.35,1:32:27.73,Main,,0,0,0,,Vào đó mau.
+Dialogue: 0,1:32:29.15,1:32:31.29,Main,,0,0,0,,Xin hãy thong thả tận hưởng ạ.
+Dialogue: 0,1:32:32.32,1:32:34.68,Main,,0,0,0,,Để Sen một mình có ổn không ạ?
+Dialogue: 0,1:32:34.90,1:32:36.88,Main,,0,0,0,,Ngươi muốn vào thế chỗ à?
+Dialogue: 0,1:32:57.22,1:33:00.53,Main,,0,0,0,,Ăn cái này nhé? Ngon lắm đó.
+Dialogue: 0,1:33:02.26,1:33:03.85,Main,,0,0,0,,Sen muốn có vàng không nào?
+Dialogue: 0,1:33:04.06,1:33:06.79,Main,,0,0,0,,Ta sẽ không cho ai ngoài Sen cả.
+Dialogue: 0,1:33:10.52,1:33:12.37,Main,,0,0,0,,Lại đây nào.
+Dialogue: 0,1:33:12.69,1:33:16.30,Main,,0,0,0,,Sen muốn điều gì nhất? Nói ta nghe xem.
+Dialogue: 0,1:33:16.53,1:33:18.53,Main,,0,0,0,,Cậu tới từ đâu vậy?
+Dialogue: 0,1:33:18.74,1:33:21.08,Main,,0,0,0,,Mình có nơi phải đến ngay bây giờ.
+Dialogue: 0,1:33:23.45,1:33:25.83,Main,,0,0,0,,Cậu nên quay về nhà đi.
+Dialogue: 0,1:33:26.04,1:33:29.08,Main,,0,0,0,,Cậu chắc chắn không tạo ra được\Nđiều mình muốn đâu.
+Dialogue: 0,1:33:30.79,1:33:33.98,Main,,0,0,0,,Nhà cậu ở đâu vậy?\NCậu có bố mẹ mà, phải không?
+Dialogue: 0,1:33:34.80,1:33:37.73,Main,,0,0,0,,Không chịu... Không chịu...
+Dialogue: 0,1:33:39.05,1:33:42.97,Main,,0,0,0,,Ta buồn lắm, cô đơn lắm...
+Dialogue: 0,1:33:43.72,1:33:45.12,Main,,0,0,0,,Cậu không biết ư?
+Dialogue: 0,1:33:45.35,1:33:48.91,Main,,0,0,0,,Ta muốn Sen... muốn có Sen.
+Dialogue: 0,1:33:49.65,1:33:50.81,Main,,0,0,0,,Nhận lấy đi.
+Dialogue: 0,1:33:51.02,1:33:52.52,Main,,0,0,0,,Cậu định ăn mình sao?
+Dialogue: 0,1:33:52.73,1:33:54.44,Main,,0,0,0,,Cầm lấy. Cầm lấy!
+Dialogue: 0,1:34:03.78,1:34:06.41,Main,,0,0,0,,Trước khi ăn mình, cậu hãy ăn cái này đi.
+Dialogue: 0,1:34:07.16,1:34:09.83,Main,,0,0,0,,Thật ra mình muốn đưa nó cho bố mẹ.
+Dialogue: 0,1:34:10.04,1:34:11.35,Main,,0,0,0,,Nhưng tặng cậu đấy.
+Dialogue: 0,1:34:31.77,1:34:33.27,Main,,0,0,0,,Sen...
+Dialogue: 0,1:34:35.73,1:34:39.21,Main,,0,0,0,,Con bé này, cho ta ăn cái gì vậy hả?
+Dialogue: 0,1:34:54.59,1:34:56.09,Main,,0,0,0,,Mọi người tránh ra!
+Dialogue: 0,1:34:57.25,1:34:59.23,Main,,0,0,0,,Dù là khách cũng không bỏ qua.
+Dialogue: 0,1:35:12.48,1:35:13.95,Main,,0,0,0,,Ở bên này!
+Dialogue: 0,1:35:14.56,1:35:15.83,Main,,0,0,0,,Ở đây này!
+Dialogue: 0,1:36:00.69,1:36:02.29,Main,,0,0,0,,Không thể tha thứ.
+Dialogue: 0,1:36:20.00,1:36:22.01,Main,,0,0,0,,Sen! Xuống đây nhanh!
+Dialogue: 0,1:36:38.27,1:36:40.69,Main,,0,0,0,,Tới rồi. Ở đây này!
+Dialogue: 0,1:36:40.90,1:36:42.40,Main,,0,0,0,,Em gọi hắn làm gì chứ?
+Dialogue: 0,1:36:46.28,1:36:49.91,Main,,0,0,0,,Cậu ấy biến chất khi ở trong nhà tắm,\Nphải mau kéo cậu ấy ra khỏi đó.
+Dialogue: 0,1:36:50.12,1:36:52.24,Main,,0,0,0,,Nhưng em định dẫn hắn đi đâu chứ?
+Dialogue: 0,1:36:52.45,1:36:54.76,Main,,0,0,0,,- Em không biết nữa.\N- Không biết sao...
+Dialogue: 0,1:36:55.12,1:36:57.92,Main,,0,0,0,,Ôi chao, hắn theo em kìa.
+Dialogue: 0,1:37:15.39,1:37:17.38,Main,,0,0,0,,- Giờ em đi bộ nhé.\N- Vâng.
+Dialogue: 0,1:37:17.60,1:37:19.30,Main,,0,0,0,,Nhà ga nhìn là biết liền.
+Dialogue: 0,1:37:19.52,1:37:20.83,Main,,0,0,0,,Cảm ơn chị.
+Dialogue: 0,1:37:21.48,1:37:23.15,Main,,0,0,0,,Em phải quay lại đấy!
+Dialogue: 0,1:37:23.36,1:37:24.50,Main,,0,0,0,,Vâng.
+Dialogue: 0,1:37:28.53,1:37:29.70,Main,,0,0,0,,Sen!
+Dialogue: 0,1:37:29.91,1:37:31.07,Main,,0,0,0,,Chị từng bảo em khù khờ,
+Dialogue: 0,1:37:31.28,1:37:33.79,Main,,0,0,0,,nhưng mà cho chị rút lại nhé!
+Dialogue: 0,1:37:42.00,1:37:46.09,Main,,0,0,0,,Vô Diện, ngươi mà làm gì Sen\Nthì không yên với ta đâu!
+Dialogue: 0,1:37:49.34,1:37:50.61,Main,,0,0,0,,Kia rồi.
+Dialogue: 0,1:38:02.23,1:38:04.50,Main,,0,0,0,,Tàu đến rồi, đi thôi.
+Dialogue: 0,1:38:27.97,1:38:30.40,Main,,0,0,0,,Dạ, cho cháu đến Đáy Đầm Lầy ạ.
+Dialogue: 0,1:38:36.85,1:38:38.53,Main,,0,0,0,,Cậu cũng muốn đi tàu ư?
+Dialogue: 0,1:38:40.06,1:38:42.12,Main,,0,0,0,,Dạ, người này đi chung với cháu.
+Dialogue: 0,1:39:22.64,1:39:23.91,Main,,0,0,0,,Lại đây.
+Dialogue: 0,1:39:24.61,1:39:26.50,Main,,0,0,0,,Cậu ngồi ngoan nhé.
+Dialogue: 0,1:41:28.40,1:41:29.58,Main,,0,0,0,,Ông ơi.
+Dialogue: 0,1:41:32.40,1:41:34.86,Main,,0,0,0,,Ồ Haku, cháu tỉnh rồi sao?
+Dialogue: 0,1:41:35.07,1:41:36.55,Main,,0,0,0,,Ông ơi, Sen đâu rồi ạ?
+Dialogue: 0,1:41:36.78,1:41:39.57,Main,,0,0,0,,Có chuyện xảy ra đúng không?\NNói cháu nghe đi ạ.
+Dialogue: 0,1:41:39.78,1:41:42.70,Main,,0,0,0,,Cháu không còn nhớ gì hết sao?
+Dialogue: 0,1:41:42.91,1:41:45.30,Main,,0,0,0,,Kí ức của cháu mờ mịt lắm.
+Dialogue: 0,1:41:45.62,1:41:48.52,Main,,0,0,0,,Khi đang chìm trong u ám,\Ncháu nghe tiếng Chihiro gọi.
+Dialogue: 0,1:41:48.96,1:41:51.00,Main,,0,0,0,,Giọng nói ấy đã dẫn dắt cháu.
+Dialogue: 0,1:41:51.21,1:41:52.96,Main,,0,0,0,,Tỉnh lại thì cháu đã ngủ ở đây.
+Dialogue: 0,1:41:53.17,1:41:58.28,Main,,0,0,0,,Ồ, là Chihiro à.\NTên thật của con bé là Chihiro sao?
+Dialogue: 0,1:41:59.38,1:42:02.35,Main,,0,0,0,,Tuyệt thật đó,\Nđúng là sức mạnh của tình yêu mà.
+Dialogue: 0,1:42:06.06,1:42:09.06,Main,,0,0,0,,Chỉ với số vàng này\Nlàm sao bù được tổn thất chứ.
+Dialogue: 0,1:42:09.27,1:42:12.15,Main,,0,0,0,,Sen, con nhỏ ngu đần đó đã làm\Nhao tổn cả đống tiền.
+Dialogue: 0,1:42:12.52,1:42:16.18,Main,,0,0,0,,Nhưng... nhờ ơn Sen\Nmà chúng tôi được cứu ạ.
+Dialogue: 0,1:42:16.40,1:42:17.57,Main,,0,0,0,,Câm mồm!
+Dialogue: 0,1:42:17.78,1:42:20.07,Main,,0,0,0,,Nên nhớ nó là nguyên nhân\Ncủa mọi chuyện đấy!
+Dialogue: 0,1:42:20.28,1:42:22.62,Main,,0,0,0,,Vậy mà nó lại ích kỉ chạy trốn rồi.
+Dialogue: 0,1:42:22.82,1:42:25.37,Main,,0,0,0,,Con nhãi đó đã bỏ rơi bố mẹ mình.
+Dialogue: 0,1:42:26.04,1:42:27.62,Main,,0,0,0,,Đã đến lúc ăn cặp heo đó chứ nhỉ?
+Dialogue: 0,1:42:27.83,1:42:29.87,Main,,0,0,0,,Mau đem chúng đi ướp muối\Nhay giăm bông đi!
+Dialogue: 0,1:42:30.08,1:42:31.56,Main,,0,0,0,,Bà khoan đã.
+Dialogue: 0,1:42:32.71,1:42:34.04,Main,,0,0,0,,Ngài Haku!
+Dialogue: 0,1:42:34.25,1:42:36.51,Main,,0,0,0,,Gì cơ, ngươi còn sống à?
+Dialogue: 0,1:42:38.92,1:42:42.24,Main,,0,0,0,,Bà vẫn chưa nhận ra ư?\NThứ quan trọng của bà bị hoán đổi rồi.
+Dialogue: 0,1:42:42.47,1:42:45.43,Main,,0,0,0,,Ngươi nói chuyện ngông cuồng quá đấy.
+Dialogue: 0,1:42:45.64,1:42:48.14,Main,,0,0,0,,Ngươi dám ngạo mạn như thế từ bao giờ?
+Dialogue: 0,1:43:39.69,1:43:41.25,Main,,0,0,0,,Boh...
+Dialogue: 0,1:43:45.49,1:43:46.97,Main,,0,0,0,,Trời đất ơi!
+Dialogue: 0,1:43:47.74,1:43:50.50,Main,,0,0,0,,- Boh!\N- Là đất sao?
+Dialogue: 0,1:43:50.87,1:43:53.68,Main,,0,0,0,,Boh!
+Dialogue: 0,1:43:53.96,1:43:57.75,Main,,0,0,0,,Con ở đâu vậy, Boh?
+Dialogue: 0,1:43:58.42,1:44:00.48,Main,,0,0,0,,Ra đây với mẹ đi con.
+Dialogue: 0,1:44:01.42,1:44:02.72,Main,,0,0,0,,Boh!
+Dialogue: 0,1:44:05.76,1:44:08.03,Main,,0,0,0,,Boh?
+Dialogue: 0,1:44:12.85,1:44:16.41,Main,,0,0,0,,Tên khốn kia!
+Dialogue: 0,1:44:18.86,1:44:22.38,Main,,0,0,0,,Nói cho ta!
+Dialogue: 0,1:44:23.45,1:44:27.59,Main,,0,0,0,,Ngươi đã đem Boh của ta đi đâu?
+Dialogue: 0,1:44:28.07,1:44:29.77,Main,,0,0,0,,Nó đến chỗ Zeniba rồi.
+Dialogue: 0,1:44:29.99,1:44:31.72,Main,,0,0,0,,Zeniba?
+Dialogue: 0,1:44:52.97,1:44:56.59,Main,,0,0,0,,Ra thế, là mụ phù thủy xấu xa đó à.
+Dialogue: 0,1:44:56.81,1:44:59.62,Main,,0,0,0,,Mụ ta nghĩ làm vậy\Nlà đã thắng được ta sao?
+Dialogue: 0,1:45:01.11,1:45:03.44,Main,,0,0,0,,Rồi? Ngươi định làm gì?
+Dialogue: 0,1:45:03.65,1:45:05.80,Main,,0,0,0,,Tôi sẽ đến đó mang Boh về.
+Dialogue: 0,1:45:06.11,1:45:10.45,Main,,0,0,0,,Đổi lại, bà hãy thả Sen và bố mẹ của em ấy\Nvề lại thế giới của con người.
+Dialogue: 0,1:45:10.66,1:45:12.97,Main,,0,0,0,,Ngươi không nghĩ tới hậu quả của mình à?
+Dialogue: 0,1:45:13.16,1:45:16.96,Main,,0,0,0,,Trao đổi xong, ta sẽ xé xác ngươi ra\Nthành tám mảnh, nghe rõ chưa?
+Dialogue: 0,1:46:03.88,1:46:05.88,Main,,0,0,0,,Chắc là trạm này rồi.
+Dialogue: 0,1:46:06.67,1:46:07.94,Main,,0,0,0,,Đi thôi.
+Dialogue: 0,1:46:34.78,1:46:36.55,Main,,0,0,0,,Ngồi lên vai chị đi!
+Dialogue: 0,1:47:55.24,1:47:56.55,Main,,0,0,0,,Mau vào đi.
+Dialogue: 0,1:48:01.62,1:48:03.14,Main,,0,0,0,,Cháu xin phép.
+Dialogue: 0,1:48:05.50,1:48:08.06,Main,,0,0,0,,Nếu muốn vào thì nhanh lên nào.
+Dialogue: 0,1:48:08.46,1:48:09.73,Main,,0,0,0,,Lại đây đi.
+Dialogue: 0,1:48:13.01,1:48:15.01,Main,,0,0,0,,Giỏi lắm, tới được đây cơ đấy.
+Dialogue: 0,1:48:15.22,1:48:17.07,Main,,0,0,0,,- Dạ thưa bà...\N- Được rồi, ngồi đi.
+Dialogue: 0,1:48:17.55,1:48:19.86,Main,,0,0,0,,Để ta pha cho mấy đứa tách trà.
+Dialogue: 0,1:48:25.65,1:48:29.86,Main,,0,0,0,,Bà Zeniba, đây là thứ anh Haku đã trộm ạ.\NCháu đến để trả lại nó.
+Dialogue: 0,1:48:32.94,1:48:35.57,Main,,0,0,0,,Nhóc con à,\Ncháu có biết đây là thứ gì không?
+Dialogue: 0,1:48:35.78,1:48:38.87,Main,,0,0,0,,Dạ không,\Nnhưng cháu biết nó rất quan trọng với bà.
+Dialogue: 0,1:48:39.08,1:48:41.16,Main,,0,0,0,,Cháu thay mặt anh Haku đến tạ lỗi ạ.
+Dialogue: 0,1:48:41.37,1:48:42.60,Main,,0,0,0,,Thành thật xin lỗi bà.
+Dialogue: 0,1:48:43.12,1:48:46.58,Main,,0,0,0,,Cháu giữ thứ này mà không bị gì à?
+Dialogue: 0,1:48:46.79,1:48:47.50,Main,,0,0,0,,Sao ạ?
+Dialogue: 0,1:48:47.71,1:48:50.40,Main,,0,0,0,,Ơ kìa? Thần chú bảo vệ biến mất rồi sao?
+Dialogue: 0,1:48:51.50,1:48:52.59,Main,,0,0,0,,Xin lỗi bà,
+Dialogue: 0,1:48:52.80,1:48:56.68,Main,,0,0,0,,cháu đã giẫm bẹp con bọ kì lạ\Nđi cùng con dấu rồi.
+Dialogue: 0,1:48:57.05,1:48:59.32,Main,,0,0,0,,Giẫm bẹp sao?
+Dialogue: 0,1:49:01.47,1:49:04.93,Main,,0,0,0,,Nhóc à, con bọ ấy là thứ em gái song sinh\Ncủa ta lén thả vào người đệ tử
+Dialogue: 0,1:49:05.14,1:49:07.60,Main,,0,0,0,,để điều khiển con rồng ấy đấy.
+Dialogue: 0,1:49:07.81,1:49:09.66,Main,,0,0,0,,Giẫm bẹp nó rồi cơ à!
+Dialogue: 0,1:49:12.86,1:49:14.74,Main,,0,0,0,,Thôi, ngồi xuống nào.
+Dialogue: 0,1:49:14.94,1:49:17.76,Main,,0,0,0,,Ngươi là Vô Diện hả?\NNgươi cũng lại đây ngồi đi.
+Dialogue: 0,1:49:18.74,1:49:22.45,Main,,0,0,0,,A, thưa bà, có thể biến họ\Ntrở lại như cũ không ạ?
+Dialogue: 0,1:49:22.66,1:49:25.62,Main,,0,0,0,,Ô? Phép thuật yểm lên mấy đứa\Nđã hết hiệu nghiệm rồi cơ mà.
+Dialogue: 0,1:49:25.83,1:49:28.14,Main,,0,0,0,,Nếu muốn, hai đứa có thể trở lại như cũ.
+Dialogue: 0,1:49:35.55,1:49:39.34,Main,,0,0,0,,Chị em ta giống nhau như đúc,\Nnhưng lại không hợp nhau.
+Dialogue: 0,1:49:39.55,1:49:41.93,Main,,0,0,0,,Cháu cũng thấy mà, bà ấy rất cay độc.
+Dialogue: 0,1:49:42.14,1:49:45.16,Main,,0,0,0,,Phù thủy song sinh vốn đã phiền phức rồi.
+Dialogue: 0,1:49:49.23,1:49:53.73,Main,,0,0,0,,Dù rất muốn giúp cháu,\Nnhưng ta đành bất lực.
+Dialogue: 0,1:49:53.94,1:49:55.82,Main,,0,0,0,,Đấy là nguyên tắc của thế giới này.
+Dialogue: 0,1:49:56.19,1:49:57.45,Main,,0,0,0,,Cháu phải tự tìm cách cứu bố mẹ
+Dialogue: 0,1:49:57.65,1:50:01.07,Main,,0,0,0,,và cả con rồng bạn trai của cháu thôi.
+Dialogue: 0,1:50:01.28,1:50:04.08,Main,,0,0,0,,Nhưng bà ơi, bà có thể cho cháu\Ngợi ý gì không ạ?
+Dialogue: 0,1:50:04.45,1:50:07.96,Main,,0,0,0,,Cháu có cảm giác đã gặp anh Haku\Ntừ rất lâu về trước.
+Dialogue: 0,1:50:08.16,1:50:10.08,Main,,0,0,0,,Nếu vậy thì đơn giản rồi.
+Dialogue: 0,1:50:10.29,1:50:12.96,Main,,0,0,0,,Chuyện đã gặp qua sẽ không thể quên lãng.
+Dialogue: 0,1:50:13.17,1:50:15.27,Main,,0,0,0,,Chỉ là cháu chưa nhớ ra thôi.
+Dialogue: 0,1:50:16.63,1:50:20.03,Main,,0,0,0,,Mà trời cũng khuya lắm rồi,\Ncháu nghỉ lại đây đi.
+Dialogue: 0,1:50:20.39,1:50:23.15,Main,,0,0,0,,Mấy đứa, theo giúp ta nào.
+Dialogue: 0,1:50:29.31,1:50:31.16,Main,,0,0,0,,Nào, cố gắng lên.
+Dialogue: 0,1:50:34.32,1:50:38.61,Main,,0,0,0,,Đúng rồi, giỏi lắm.\NCó mấy đứa giúp thật tốt quá.
+Dialogue: 0,1:50:39.45,1:50:42.63,Main,,0,0,0,,Làm bằng phép thuật\Nthì đâu còn ý nghĩa gì nữa.
+Dialogue: 0,1:50:43.99,1:50:48.25,Main,,0,0,0,,Móc qua chỗ đó, đúng rồi.\NTiếp tục hai lần như vậy đi.
+Dialogue: 0,1:50:48.45,1:50:51.14,Main,,0,0,0,,Bà ơi, cháu phải về thôi ạ.
+Dialogue: 0,1:50:51.83,1:50:55.38,Main,,0,0,0,,Cháu lo anh Haku sẽ chết\Ntrong lúc cháu ở đây mất.
+Dialogue: 0,1:50:55.59,1:50:58.77,Main,,0,0,0,,Cả bố và mẹ cũng có thể bị ăn thịt nữa.
+Dialogue: 0,1:51:01.22,1:51:03.66,Main,,0,0,0,,Nhóc con, cháu đợi một chốc nữa thôi.
+Dialogue: 0,1:51:03.89,1:51:05.60,Main,,0,0,0,,Đây, xong rồi.
+Dialogue: 0,1:51:06.39,1:51:08.57,Main,,0,0,0,,Hãy dùng nó để buộc tóc nhé.
+Dialogue: 0,1:51:12.56,1:51:14.46,Main,,0,0,0,,Đẹp quá ạ.
+Dialogue: 0,1:51:14.69,1:51:16.02,Main,,0,0,0,,Bùa hộ mệnh đấy.
+Dialogue: 0,1:51:16.23,1:51:19.61,Main,,0,0,0,,Nó được đan thành từ những sợi tơ\Nmà bạn bè cháu đã se ra.
+Dialogue: 0,1:51:19.82,1:51:21.30,Main,,0,0,0,,Cảm ơn bà ạ.
+Dialogue: 0,1:51:30.62,1:51:32.17,Main,,0,0,0,,Đúng lúc thật.
+Dialogue: 0,1:51:32.37,1:51:34.50,Main,,0,0,0,,Chúng ta có khách đấy. Cháu ra đón đi.
+Dialogue: 0,1:51:34.71,1:51:35.73,Main,,0,0,0,,Vâng ạ.
+Dialogue: 0,1:51:48.64,1:51:50.18,Main,,0,0,0,,Anh Haku!
+Dialogue: 0,1:51:51.39,1:51:52.66,Main,,0,0,0,,Anh Haku!
+Dialogue: 0,1:51:53.27,1:51:54.91,Main,,0,0,0,,Ôi, tốt quá rồi.
+Dialogue: 0,1:51:55.36,1:51:59.07,Main,,0,0,0,,Vết thương sao rồi anh? Anh ổn rồi à?\NEm mừng quá.
+Dialogue: 0,1:51:59.73,1:52:03.00,Main,,0,0,0,,Cậu đến đúng lúc lắm.
+Dialogue: 0,1:52:03.78,1:52:06.13,Main,,0,0,0,,Bà ơi, anh Haku sống rồi ạ.
+Dialogue: 0,1:52:06.82,1:52:11.04,Main,,0,0,0,,Rồng Haku, ta không còn để bụng\Nnhững gì cậu đã làm đâu.
+Dialogue: 0,1:52:11.25,1:52:14.46,Main,,0,0,0,,Đổi lại, cậu phải bảo vệ\Ncô bé này thật cẩn thận đấy.
+Dialogue: 0,1:52:14.83,1:52:17.79,Main,,0,0,0,,Được rồi, Boh, đến giờ về rồi.
+Dialogue: 0,1:52:18.00,1:52:19.77,Main,,0,0,0,,Lần sau lại ghé chơi nhé.
+Dialogue: 0,1:52:20.63,1:52:24.78,Main,,0,0,0,,Ngươi ở lại đây đi.\NTa cần ngươi giúp nhiều việc đấy.
+Dialogue: 0,1:52:27.51,1:52:28.97,Main,,0,0,0,,Bà ơi.
+Dialogue: 0,1:52:29.18,1:52:31.22,Main,,0,0,0,,Cảm ơn bà, cháu đi đây ạ.
+Dialogue: 0,1:52:31.43,1:52:34.39,Main,,0,0,0,,Đừng lo lắng.\NCháu có thể vượt qua mọi chuyện.
+Dialogue: 0,1:52:34.60,1:52:37.81,Main,,0,0,0,,Tên thật của cháu là Chihiro ạ.
+Dialogue: 0,1:52:38.02,1:52:40.44,Main,,0,0,0,,Chihiro, cái tên đẹp quá.
+Dialogue: 0,1:52:40.65,1:52:43.28,Main,,0,0,0,,- Hãy trân trọng tên của mình nhé.\N- Vâng ạ.
+Dialogue: 0,1:52:43.49,1:52:45.17,Main,,0,0,0,,- Rồi, cháu đi đi.\N- Vâng.
+Dialogue: 0,1:52:46.86,1:52:50.01,Main,,0,0,0,,Bà ơi, cảm ơn bà nhiều lắm. Tạm biệt bà.
+Dialogue: 0,1:53:38.83,1:53:40.53,Main,,0,0,0,,Haku, anh nghe này.
+Dialogue: 0,1:53:40.75,1:53:44.48,Main,,0,0,0,,Tuy em không nhớ rõ,\Nnhưng mẹ đã kể em nghe một chuyện.
+Dialogue: 0,1:53:44.67,1:53:48.47,Main,,0,0,0,,Khi còn nhỏ,\Nem đã từng ngã xuống sông đấy.
+Dialogue: 0,1:53:48.84,1:53:52.66,Main,,0,0,0,,Mẹ bảo dòng sông ấy đã bị lấp mất\Nđể xây chung cư anh ạ.
+Dialogue: 0,1:53:52.93,1:53:55.07,Main,,0,0,0,,Vậy nhưng, em nhớ ra rồi.
+Dialogue: 0,1:53:56.10,1:53:57.70,Main,,0,0,0,,Tên của con sông...
+Dialogue: 0,1:53:58.48,1:54:01.33,Main,,0,0,0,,Tên nó là sông Kohaku!
+Dialogue: 0,1:54:01.77,1:54:05.33,Main,,0,0,0,,Tên thật của anh\Nđược đặt theo sông Kohaku đấy!
+Dialogue: 0,1:54:26.67,1:54:28.09,Main,,0,0,0,,Chihiro, cảm ơn em.
+Dialogue: 0,1:54:28.30,1:54:31.47,Main,,0,0,0,,Tên thật của tôi là\NNigihayami Kohaku Nushi.
+Dialogue: 0,1:54:31.84,1:54:33.01,Main,,0,0,0,,Nigihayami?
+Dialogue: 0,1:54:33.22,1:54:35.14,Main,,0,0,0,,Nigihayami Kohaku Nushi.
+Dialogue: 0,1:54:35.35,1:54:37.98,Main,,0,0,0,,Tên hay quá. Nghe như tên một vị Thần vậy.
+Dialogue: 0,1:54:38.35,1:54:39.81,Main,,0,0,0,,Tôi nhớ ra rồi.
+Dialogue: 0,1:54:40.02,1:54:42.65,Main,,0,0,0,,Tôi đã nhớ ra lúc em ngã vào lòng tôi.
+Dialogue: 0,1:54:42.86,1:54:44.57,Main,,0,0,0,,Em đang định nhặt giày.
+Dialogue: 0,1:54:44.77,1:54:49.00,Main,,0,0,0,,Đúng vậy, anh Kohaku đã cứu em,\Nrồi đưa em đến chỗ nước nông.
+Dialogue: 0,1:54:50.07,1:54:51.24,Main,,0,0,0,,Em vui quá!
+Dialogue: 0,1:55:24.06,1:55:25.79,Main,,0,0,0,,Họ về rồi!
+Dialogue: 0,1:55:38.74,1:55:41.68,Main,,0,0,0,,Các ngươi có dẫn theo Boh về không?
+Dialogue: 0,1:55:44.50,1:55:46.42,Main,,0,0,0,,- Baba.\N- Boh!
+Dialogue: 0,1:55:46.63,1:55:50.27,Main,,0,0,0,,Con có bị thương không?\NKhổ thân cho con quá.
+Dialogue: 0,1:55:50.97,1:55:54.14,Main,,0,0,0,,Boh! Con đã có thể tự đứng rồi sao? Hở?
+Dialogue: 0,1:55:54.51,1:55:56.70,Main,,0,0,0,,Yubāba, bà đã hứa rồi.
+Dialogue: 0,1:55:56.89,1:55:59.89,Main,,0,0,0,,Hãy thả Sen và bố mẹ\Nvề lại thế giới của con người.
+Dialogue: 0,1:56:00.10,1:56:02.85,Main,,0,0,0,,Hứ, sao dễ dàng thế được.
+Dialogue: 0,1:56:03.06,1:56:05.87,Main,,0,0,0,,Thế giới này có nguyên tắc của riêng nó.
+Dialogue: 0,1:56:06.77,1:56:07.94,Main,,0,0,0,,Ồn ào quá!
+Dialogue: 0,1:56:08.15,1:56:10.54,Main,,0,0,0,,Baba keo kiệt quá. Hãy thôi ngay đi.
+Dialogue: 0,1:56:10.90,1:56:13.25,Main,,0,0,0,,Boh thấy vui lắm.
+Dialogue: 0,1:56:13.91,1:56:16.70,Main,,0,0,0,,Nhưng đây là nguyên tắc mà con.
+Dialogue: 0,1:56:16.91,1:56:19.14,Main,,0,0,0,,Không làm theo thì sẽ không thể\Nphá bỏ lời nguyền.
+Dialogue: 0,1:56:19.37,1:56:22.54,Main,,0,0,0,,Nếu mẹ làm chị Sen khóc,\Ncon sẽ ghét mẹ đấy.
+Dialogue: 0,1:56:22.91,1:56:25.42,Main,,0,0,0,,- Con, con ơi...\N- Bà ơi.
+Dialogue: 0,1:56:25.63,1:56:27.06,Main,,0,0,0,,"Bà ơi" sao?
+Dialogue: 0,1:56:27.25,1:56:29.15,Main,,0,0,0,,Giờ cháu sẽ sang đó.
+Dialogue: 0,1:56:40.89,1:56:43.10,Main,,0,0,0,,Anh Haku đã nói luật cho cháu nghe ạ.
+Dialogue: 0,1:56:43.31,1:56:45.06,Main,,0,0,0,,Hừm, ngươi cũng can đảm đấy.
+Dialogue: 0,1:56:45.27,1:56:48.44,Main,,0,0,0,,Đây là bản hợp đồng của ngươi. Đi theo ta.
+Dialogue: 0,1:56:48.65,1:56:50.71,Main,,0,0,0,,Boh, mọi chuyện sẽ xong nhanh thôi
+Dialogue: 0,1:56:51.65,1:56:53.21,Main,,0,0,0,,Chị sẽ ổn thôi.
+Dialogue: 0,1:56:57.62,1:57:01.39,Main,,0,0,0,,Ngươi phải tìm ra bố mẹ của mình\Ntrong đàn heo này.
+Dialogue: 0,1:57:10.80,1:57:12.21,Main,,0,0,0,,Chỉ có một cơ hội thôi.
+Dialogue: 0,1:57:12.42,1:57:14.94,Main,,0,0,0,,Nếu đoán trúng, các ngươi sẽ được tự do.
+Dialogue: 0,1:57:26.77,1:57:30.44,Main,,0,0,0,,Bà ơi, không ổn rồi.\NBố mẹ cháu không có ở đây.
+Dialogue: 0,1:57:30.82,1:57:34.19,Main,,0,0,0,,Không có sao?\NĐấy là câu trả lời của ngươi à?
+Dialogue: 0,1:57:35.70,1:57:37.13,Main,,0,0,0,,Vâng.
+Dialogue: 0,1:57:39.66,1:57:42.87,Main,,0,0,0,,- Đoán trúng rồi!\N- Đoán trúng rồi!
+Dialogue: 0,1:57:43.24,1:57:45.47,Main,,0,0,0,,- Hay lắm!\N- Em làm được rồi!
+Dialogue: 0,1:57:49.38,1:57:50.67,Main,,0,0,0,,Cảm ơn mọi người ạ.
+Dialogue: 0,1:57:50.88,1:57:54.02,Main,,0,0,0,,Đi đi, ngươi thắng rồi.\NMau đi cho khuất mắt ta.
+Dialogue: 0,1:57:54.51,1:57:56.19,Main,,0,0,0,,Cảm ơn bà nhiều ạ.
+Dialogue: 0,1:57:56.97,1:57:58.19,Main,,0,0,0,,Tạm biệt bà.
+Dialogue: 0,1:57:59.26,1:58:01.45,Main,,0,0,0,,- Cảm ơn mọi người.\N- Hẹn gặp lại!
+Dialogue: 0,1:58:01.68,1:58:03.53,Main,,0,0,0,,- Anh Haku!\N- Đi thôi.
+Dialogue: 0,1:58:04.27,1:58:06.81,Main,,0,0,0,,- Bố và mẹ em thì sao?\N- Họ đi trước rồi.
+Dialogue: 0,1:58:14.36,1:58:15.61,Main,,0,0,0,,Không có nước.
+Dialogue: 0,1:58:15.82,1:58:17.36,Main,,0,0,0,,Tôi không thể tiễn em xa hơn.
+Dialogue: 0,1:58:17.57,1:58:20.07,Main,,0,0,0,,Cứ đi ngược lại con đường dẫn đến đây.
+Dialogue: 0,1:58:20.28,1:58:23.37,Main,,0,0,0,,Nhưng em không được quay đầu\Nđến khi ra khỏi hầm.
+Dialogue: 0,1:58:23.74,1:58:25.59,Main,,0,0,0,,Anh Haku? Còn anh Haku thì sao?
+Dialogue: 0,1:58:26.12,1:58:28.79,Main,,0,0,0,,Tôi sẽ không làm đệ tử của Yubāba nữa.
+Dialogue: 0,1:58:29.00,1:58:31.48,Main,,0,0,0,,Đừng lo, giờ tôi đã lấy lại được\Ntên thật rồi.
+Dialogue: 0,1:58:31.71,1:58:33.92,Main,,0,0,0,,Tôi cũng sẽ trở lại nơi của mình.
+Dialogue: 0,1:58:34.13,1:58:36.34,Main,,0,0,0,,- Ta sẽ gặp lại nhau chứ?\N- Ừ, tôi hứa với em.
+Dialogue: 0,1:58:36.55,1:58:38.05,Main,,0,0,0,,- Anh hứa rồi nhé.\N- Tôi hứa mà.
+Dialogue: 0,1:58:38.26,1:58:40.40,Main,,0,0,0,,Đi đi. Nhớ đừng quay đầu lại nhé.
+Dialogue: 0,1:59:03.37,1:59:04.99,Main,,0,0,0,,Chihiro.
+Dialogue: 0,1:59:05.20,1:59:08.00,Main,,0,0,0,,Con làm gì vậy? Mau đến đây đi.
+Dialogue: 0,1:59:11.50,1:59:13.33,Main,,0,0,0,,Bố ơi, mẹ ơi.
+Dialogue: 0,1:59:13.54,1:59:15.17,Main,,0,0,0,,Con làm mẹ lo quá. Tự nhiên biến mất.
+Dialogue: 0,1:59:15.38,1:59:16.52,Main,,0,0,0,,Đi thôi.
+Dialogue: 0,1:59:17.05,1:59:19.22,Main,,0,0,0,,Mẹ ơi, mọi thứ ổn chứ ạ?
+Dialogue: 0,1:59:19.42,1:59:23.36,Main,,0,0,0,,Sao? Xe chuyển đồ có khi sẽ\Nđến nhà trước chúng ta luôn đó.
+Dialogue: 0,1:59:32.73,1:59:35.21,Main,,0,0,0,,Chihiro, nhanh lên nào con.
+Dialogue: 0,1:59:43.74,1:59:45.62,Main,,0,0,0,,Đi cẩn thận nhé.
+Dialogue: 0,1:59:45.83,1:59:49.14,Main,,0,0,0,,Chihiro, con đừng níu chặt như vậy.\NMẹ khó đi lắm.
+Dialogue: 0,2:00:01.38,2:00:02.61,Main,,0,0,0,,Lối ra đây.
+Dialogue: 0,2:00:03.18,2:00:04.32,Main,,0,0,0,,Ơ kìa?
+Dialogue: 0,2:00:04.84,2:00:06.18,Main,,0,0,0,,Gì thế anh?
+Dialogue: 0,2:00:06.76,2:00:08.28,Main,,0,0,0,,Kinh khủng quá.
+Dialogue: 0,2:00:09.97,2:00:12.28,Main,,0,0,0,,Ôi trời, ở trong cũng bám đầy bụi.
+Dialogue: 0,2:00:12.52,2:00:14.27,Main,,0,0,0,,- Ai phá mình à?\N- Chắc vậy rồi.
+Dialogue: 0,2:00:14.48,2:00:17.16,Main,,0,0,0,,Vậy nên em mới không muốn đi đường này.
+Dialogue: 0,2:00:22.70,2:00:25.13,Main,,0,0,0,,Được rồi, không sao cả.
+Dialogue: 0,2:00:26.53,2:00:28.43,Main,,0,0,0,,Chihiro, đi thôi con.
+Dialogue: 0,2:00:28.83,2:00:31.39,Main,,0,0,0,,Chihiro! Nhanh nào con.
+Dialogue: 0,2:04:25.19,2:04:27.19,Main,,0,0,0,,HẾT
+Dialogue: 0,2:04:27.40,2:04:29.54,Main,,0,0,0,,Biên dịch: Trâm Trần, Mai Uyên
