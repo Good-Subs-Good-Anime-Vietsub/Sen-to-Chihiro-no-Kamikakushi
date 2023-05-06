@@ -1,7 +1,6 @@
 name: Merge subtitles
 
 on:
-  push:
   workflow_dispatch:
     inputs:
       tag:
@@ -12,16 +11,12 @@ permissions:
   contents: write
 
 env:
-  show: (2001) Sen to Chihiro no Kamikakushi
+  show: Sen to Chihiro no Kamikakushi
+  key: Chihiro
 
 jobs:
   merge:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        episodes:
-        - "movie"
 
     steps:
     - uses: actions/checkout@v3
@@ -32,19 +27,22 @@ jobs:
         distribution: 'zulu'
         cache: gradle
     - name: Merge subtitle
-      run: ./gradlew merge.${{matrix.episodes}}
-    - name: Move merged subtitle
-      run: mv build/merge.${{matrix.episodes}}.default.ass "fonts/${{env.show}}.ass"
+      run: |
+        mkdir Out
+        ./gradlew merge.movie
+        mv "${episode}/${key} - Merged.ass" "Out/"
+        mv -r fonts/ Out/
+
     - name: Upload
       uses: actions/upload-artifact@v3
       with:
         name: ${{env.show}}
-        path: fonts/*
-    
-    - name: Compress artifact for release
+        path: Out/
+        
+    - name: Compress
       if: github.event_name == 'workflow_dispatch' && github.event.inputs.tag != ''
       run: |
-        cd fonts
+        cd Out/
         7za a -t7z -mx=7 "../${{env.show}} - ${{github.event.inputs.tag}}.7z" *
 
     - name: Release
