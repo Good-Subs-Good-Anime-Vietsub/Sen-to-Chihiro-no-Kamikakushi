@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 env:
-  show: (1986) Tenkuu no Shiro Laputa
+  show: (2001) Sen to Chihiro no Kamikakushi
 
 jobs:
   merge:
